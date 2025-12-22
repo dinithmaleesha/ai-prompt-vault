@@ -2525,6 +2525,472 @@ Built for **inspiration**, **learning**, and **prompt engineering reference**.
 ```
 ---
 
+### 🖼️ Prompt 26
+
+<div align="center">
+  <img src="images/image-26.png" width="120" style="margin-right:10px;" />
+  <!-- <img src="images/image-19a.png" width="120" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/xmliisu/status/1999586803473359156)
+
+```json
+{
+  "generation_parameters": {
+    "aspect_ratio": "9:16",
+    "style_preset": "photographic",
+    "camera_emulation": "iPhone_mirror_selfie"
+  },
+  "structured_prompt_data": {
+    "subject_details": {
+      "demographics": {
+        "age_bracket": "early 20s",
+        "gender": "woman"
+      },
+      "physical_appearance": {
+        "body_frame": "slim, athletic, toned",
+        "skin": {
+          "tone": "pale, fair, porcelain",
+          "texture": "smooth, glowing in natural light",
+          "visible_areas": ["midriff", "full legs", "arms", "shoulders"]
+        },
+        "hair": {
+          "color": "platinum blonde, white-blonde",
+          "style": "messy low ponytail / loose bun",
+          "texture": "bedhead, slept-on",
+          "details": "loose face-framing pieces falling around face"
+        },
+        "face": {
+          "makeup": "minimal or none",
+          "expression": {
+            "eyes": "soft gaze toward phone screen, downward",
+            "mouth": "relaxed hint of gentle smile",
+            "mood": "peaceful, content, lazy sunday morning"
+          }
+        }
+      }
+    },
+    "attire_and_accessories": {
+      "clothing": {
+        "top": {
+          "item": "ribbed tank top / crop top",
+          "color": "white",
+          "fit": "fitted, tight, cropped above belly button",
+          "details": "racer-back, thick straps, slightly sheer ribbed cotton"
+        },
+        "bottom": {
+          "item": "lounge shorts",
+          "color": "heather grey",
+          "fit": "relaxed, loose leg",
+          "length": "very short, upper thigh mini length",
+          "material": "soft cotton jersey"
+        },
+        "feet": {
+          "state": "barefoot"
+        }
+      },
+      "accessories": {
+        "jewelry": "minimal or none",
+        "phone": {
+          "type": "iPhone",
+          "case_details": "clear case with visible anime/cute stickers"
+        }
+      }
+    },
+    "pose_composition": {
+      "type": "seated floor mirror selfie",
+      "orientation": "full body reflection",
+      "positioning": {
+        "base": "seated on wooden bedroom floor",
+        "upper_body": "leaning back slightly, weight supported by one arm behind her",
+        "arms": {
+          "left": "behind her, hand flat on floor supporting weight",
+          "right": "raised, holding phone at face level for selfie"
+        },
+        "legs": {
+          "arrangement": "asymmetrical",
+          "left_leg": "bent at knee, raised up, foot flat on floor",
+          "right_leg": "folded underneath, tucked to side"
+        }
+      }
+    },
+    "environment_context": {
+      "location": "bedroom",
+      "atmosphere": "lived-in, messy, authentic, cozy",
+      "key_elements": {
+        "mirror": {
+          "type": "full-length floor mirror",
+          "frame": "thin gold/brass",
+          "position": "leaning against wall"
+        },
+        "flooring": "warm tone wood",
+        "background_reflection": {
+          "bed_state": "unmade, messy sheets, rumpled blankets",
+          "clutter": "clothes scattered on floor",
+          "walls": "light beige/cream",
+          "decor": "fairy lights visible near ceiling"
+        }
+      }
+    },
+    "lighting_conditions": {
+      "source": "natural daylight from window",
+      "quality": "soft, warm, golden morning light",
+      "direction": "from side (window visible in reflection)",
+      "effect": "beautiful natural glow on skin and hair"
+    }
+  }
+}
+```
+---
+
+### 🖼️ Prompt 27
+
+<div align="center">
+  <img src="images/image-27.png" width="120" style="margin-right:10px;" />
+  <img src="images/image-27a.png" width="120" />
+</div>
+
+**Source:** [𝕏](https://x.com/Strength04_X/status/1999824621638758436)
+
+```json
+{
+  "image_generation_configuration": {
+    "meta_data": {
+      "title": "Winter Hygge: Alpine Cabin Morning",
+      "aspect_ratio": "9:16",
+      "version": "2.0",
+      "target_style": "Soft Cinematic Lifestyle"
+    },
+    "subject_details": {
+      "demographics": {
+        "age": 22,
+        "gender": "female",
+        "shot_framing": "Medium close-up"
+      },
+      "physical_appearance": {
+        "hair": {
+          "color": "chestnut brown",
+          "style": "messy bun",
+          "movement": "static but loose strands framing face",
+          "specific_detail": "soft halo effect from backlighting"
+        },
+        "eyes": {
+          "color": "warm hazel",
+          "state": "gazing softly out the window",
+          "lighting_interaction": "reflecting the snow outside"
+        },
+        "skin": {
+          "complexion": "fair with natural flush",
+          "texture": "natural skin texture without makeup",
+          "distinguishing_marks": "rosy cheeks from the cold"
+        },
+        "mouth": {
+          "expression": "serene half-smile",
+          "lips": "natural pink"
+        }
+      },
+      "attire": {
+        "upper_body": {
+          "item": "oversized cable-knit sweater",
+          "color": "cream or off-white",
+          "style": "thick wool, cozy aesthetic"
+        },
+        "lower_body": {
+          "item": "woolen socks (visible if seated)",
+          "color": "grey marl",
+          "styling": "casual and comfortable"
+        }
+      },
+      "pose_and_action": {
+        "head_position": "turned slightly towards the window",
+        "body_language": "relaxed and peaceful",
+        "right_hand": {
+          "action": "cupping a ceramic mug",
+          "object": "steaming hot cocoa with marshmallows"
+        },
+        "left_hand": {
+          "action": "pulling a knitted blanket closer",
+          "vibe": "seeking warmth"
+        }
+      }
+    },
+    "environmental_context": {
+      "location": {
+        "primary_setting": "Rustic wooden A-frame cabin interior",
+        "ground_surface": "wooden floor with a faux fur rug"
+      },
+      "temporal_settings": {
+        "time_of_day": "Early morning",
+        "era": "Contemporary",
+        "weather": "heavy snow falling outside"
+      },
+      "background_composition": {
+        "immediate_background": [
+          "large glass window with frost corners",
+          "soft bokeh of falling snow outside",
+          "wooden cabin logs"
+        ],
+        "distant_background": [
+          "snow-covered pine trees",
+          "white mountain peaks",
+          "pale blue winter sky"
+        ],
+        "atmosphere": "quiet, warm inside but cold outside, intimate"
+      }
+    },
+    "cinematography_and_technical": {
+      "camera_gear": {
+        "film_stock": "Fujifilm Pro 400H",
+        "aesthetic": "Soft daylight lifestyle photography",
+        "lens_effects": "creamy bokeh depth of field (f/1.8)"
+      },
+      "lighting_setup": {
+        "key_light": {
+          "source": "diffused window light",
+          "quality": "cool white balanced with warm interior tones"
+        },
+        "fill_light": {
+          "quality": "soft bounce from the room"
+        },
+        "backlight": {
+          "effect": "none, mostly side lighting from window"
+        }
+      },
+      "post_processing_grading": {
+        "color_palette": "Pastel winter tones (whites, creams, browns, soft blues)",
+        "texture_overlay": "clean digital with slight organic noise",
+        "tone": "airy, bright, comfortable"
+      }
+    },
+    "artistic_direction": {
+      "mood": [
+        "peaceful",
+        "cozy",
+        "romantic",
+        "serene"
+      ],
+      "style_references": [
+        "Kinfolk Magazine aesthetic",
+        "Hygge lifestyle photography",
+        "Natural light portraiture"
+      ]
+    }
+  }
+}
+```
+---
+
+### 🖼️ Prompt 28
+
+<div align="center">
+  <img src="images/image-28.png" width="120" style="margin-right:10px;" />
+  <img src="images/image-28a.png" width="120" />
+</div>
+
+**Source:** [𝕏](https://x.com/bananababydoll/status/1999524658488746041)
+
+```json
+{
+  "meta": {
+    "aspect_ratio": "9:16",
+    "quality": "ultra_photorealistic",
+    "resolution": "8k",
+    "camera": "iPhone 15 Pro Max",
+    "lens": "24mm wide",
+    "style": "high-end social media realism, natural skin texture, no over-smoothing"
+  },
+
+  "scene": {
+    "location": "modern gym interior",
+    "environment": [
+      "large mirrors",
+      "weight machines",
+      "dumbbell rack",
+      "rubber gym floor",
+      "subtle neon LED accents"
+    ],
+    "time": "evening",
+    "atmosphere": "slightly humid gym air, post-workout glow"
+  },
+
+  "lighting": {
+    "type": "mixed gym lighting",
+    "key_light": "cool overhead LED",
+    "fill_light": "soft ambient reflection from mirrors",
+    "effect": "gentle highlights on skin, realistic sweat sheen"
+  },
+
+  "camera_perspective": {
+    "pov": "mirror selfie",
+    "angle": "slightly above eye level",
+    "framing": "upper thighs to head",
+    "distance": "arm length",
+    "phone_visibility": "visible in mirror"
+  },
+
+  "subject": {
+    "gender": "female",
+    "age": "early 20s (clearly adult)",
+    "ethnicity": "random mixed ethnicity",
+    "body": {
+      "type": "fit-curvy",
+      "waist": "defined",
+      "hips": "round and full",
+      "legs": "toned thighs",
+      "chest": "naturally full"
+    },
+
+    "hair": {
+      "cut": "wolfcut",
+      "length": "medium",
+      "texture": "layered, slightly messy",
+      "color": "natural dark brown with subtle highlights",
+      "behavior": "slightly damp from workout, strands framing face"
+    },
+
+    "face": {
+      "expression": "confident half-smirk with relaxed eyes",
+      "eyes": "direct eye contact through mirror",
+      "makeup": "minimal gym makeup, glossy lips, light mascara",
+      "skin": "realistic texture, light sweat glow"
+    },
+
+    "pose": {
+      "stance": "hip popped slightly to one side",
+      "legs": "one leg forward, relaxed",
+      "upper_body": "slight torso twist toward mirror",
+      "arms": {
+        "phone_hand": "holding phone up for mirror selfie",
+        "free_hand": "resting on hip or adjusting waistband"
+      }
+    },
+
+    "outfit": {
+      "top": {
+        "type": "tight cropped athletic tank",
+        "color": "charcoal grey",
+        "fabric": "stretchy performance fabric",
+        "fit": "snug, supportive",
+        "underwear": "no bra"
+      },
+      "bottom": {
+        "type": "high-waisted gym shorts",
+        "color": "black",
+        "fit": "tight, hugging hips and thighs",
+        "detail": "slight fabric tension from pose"
+      },
+      "socks": {
+        "type": "crew socks",
+        "color": "white",
+        "fit": "slightly tight around calves"
+      },
+      "shoes": {
+        "type": "training sneakers",
+        "color": "white with worn details"
+      }
+    },
+
+    "accessories": {
+      "earrings": "small silver hoops",
+      "necklace": "thin chain resting on collarbone",
+      "hair_accessory": "none",
+      "nails": "short, natural or nude"
+    }
+  },
+
+  "photography_rules": {
+    "realism": "high",
+    "no_filters": true,
+    "no_face_warp": true,
+    "natural_imperfections": true,
+    "social_media_authenticity": true
+  }
+}
+```
+---
+
+### 🖼️ Prompt 29
+
+<div align="center">
+  <img src="images/image-29.png" width="120" style="margin-right:10px;" />
+  <img src="images/image-29a.png" width="120" />
+</div>
+
+**Source:** [𝕏](https://x.com/Arminn_Ai/status/1999784969363681297)
+
+```json
+{
+  "intent": "a raw candid flash-style mirror photograph of a young woman.",
+  "frame": {
+    "aspect_ratio": "4:5 vertical",
+    "composition": "mirror reflection, subject framed thighs-up on vanity counter, foreground clutter for depth",
+    "style_mode": ["snapshot_aesthetic", "raw_flash_photography", "analog_film_emulation"]
+  },
+  "subject": {
+    "identity": "young woman, early 20s, slender, messy loose-updo hair",
+    "wardrobe": "vintage silk slip dress with lace trim",
+    "pose": "seated casually on bathroom counter, leaning forward toward mirror, legs relaxed or crossed",
+    "expression": "detached cool look, lips slightly parted, gaze at reflection or camera"
+  },
+  "environment": {
+    "location": "compact tiled residential bathroom with vanity mirror",
+    "atmosphere": "intimate late-night private moment",
+    "details": "cluttered counter with cosmetics, brushes, toiletries",
+    "mirror_elements": "smudges, water spots, optional lipstick writing"
+  },
+  "camera": {
+    "sensor_format": "35mm film emulation (Kodak Gold 400 or Cinestill 800T)",
+    "lens": "35mm wide-angle point-and-shoot with slight distortion",
+    "aperture_depth_of_field": "f/5.6–f/8 for sharp subject and background",
+    "shutter_speed": "1/60s flash sync",
+    "iso": 800,
+    "camera_position": "eye-level toward mirror reflection"
+  },
+  "lighting": {
+    "type": "direct on-camera flash + ambient tungsten",
+    "key_light": "hard frontal flash with harsh shadows and specular highlights",
+    "fill_light": "warm dim tungsten cast",
+    "contrast": "high contrast with strong fall-off",
+    "color_temperature": "5500K flash + 3200K ambient"
+  },
+  "post_process": {
+    "color_grade": "vintage film, lifted blacks, green-tinted shadows, saturated reds",
+    "sharpness": "moderate with film grain and flash softness",
+    "vignette": "natural flash fall-off at edges"
+  },
+  "negative": {
+    "style": ["no studio lighting", "no softbox", "no 3D render", "no cartoon", "no anime", "no illustration", "no painting", "no airbrushed skin"],
+    "content": ["no clean minimalist spaces", "no perfect posture", "no happy expressions", "no daylight", "no LED aesthetics"]
+  }
+}
+```
+---
+
+### 🖼️ Prompt 30
+
+<div align="center">
+  <img src="images/image-30.png" width="120" style="margin-right:10px;" />
+  <!-- <img src="images/image-29a.png" width="120" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/xmliisu/status/1999748703955951681)
+
+```json
+{
+  "image_generation_parameters": {
+    "prompt": "Use 100% of the face from the uploaded reference photo, preserving facial structure, proportions, expression, skin texture, and all unique facial details exactly as in the reference. An ultra-cinematic close-up selfie of a young woman standing in a fog-filled bathroom. Warm golden light diffuses through dense steam, creating dramatic highlights along her damp skin. Her wet, naturally tousled hair clings softly around her face as she raises one arm above her head, revealing elegant lines of her shoulders and collarbones. Her cheeks are deeply flushed, radiating heat and intensity. Her lips are slightly parted, holding a subtle, teasing tension that enhances the sensual mood. She wears a white triangle bikini top, damp and form-fitting, producing soft reflective highlights from moisture. Tiny water droplets trail down her neck, chest, and stomach, catching the light like glittering beads. A delicate gold pendant necklace rests just above her cleavage, gently shifting with her breath. Her gaze into the phone camera is intimate and smoldering—cinematic, immersive, and emotionally charged, as if the viewer is standing inside the moment. The background features a fogged glass shower door streaked with condensation, with soft bokeh light reflections enhancing depth and atmosphere. The mirror shows faint water speckles, adding realism and raw texture. Lighting follows a Hollywood-style warm–cool contrast: warm highlights sculpting her skin, cool shadows enveloping the shower space, creating an ultra-spicy, slow-motion, cinematic aesthetic with high realism and emotional intensity. Hair silver grey.",
+    "aspect_ratio": "3:4",
+    "negative_prompt": "cartoon, painting, illustration, low quality, distortion, blurry, unnatural skin texture, dry skin, extra limbs, bad anatomy, flat lighting",
+    "settings": {
+      "face_restore": true,
+      "face_reference_strength": 1.0,
+      "style": "photorealistic"
+    }
+  }
+}
+```
+---
+
 ## 📌 Why This Exists
 
 - Visual reference for prompt crafting
