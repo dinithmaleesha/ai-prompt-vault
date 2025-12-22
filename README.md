@@ -3454,6 +3454,245 @@ Built for **inspiration**, **learning**, and **prompt engineering reference**.
 ```
 ---
 
+### 🖼️ Prompt 36
+
+<div align="center">
+  <img src="images/image-36.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-33a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/xmliisu/status/1998788740886474831)
+
+```json
+{
+  "generation_settings": {
+    "aspect_ratio": "9:16",
+    "style": "Photorealistic Portrait",
+    "reference_strength": "High (Face Consistency)"
+  },
+  "prompt_components": {
+    "subject": {
+      "face_reference": "Identical face to uploaded image",
+      "hair": "Long, silver-grey, sleek, straight",
+      "skin": "Naturally smooth with a subtle glow",
+      "makeup": "Polished and naturally glamorous, winged eyeliner, defined brows, soft contouring, matte nude lips",
+      "nails": "Long, painted pastel pink"
+    },
+    "attire": {
+      "top": "Fitted white short-sleeved crop top",
+      "bottoms": "Light blue high-waisted denim jeans"
+    },
+    "pose_and_action": {
+      "type": "Mirror selfie",
+      "device": "iPhone 16 Pro Max held in one hand",
+      "posture": "Standing slightly turned to the side, upper body angled toward mirror, head turned toward camera, arm resting naturally by side",
+      "effect": "Soft, natural side profile emphasizing waist and hips"
+    },
+    "environment": {
+      "location": "Bright, softly lit bedroom",
+      "background_elements": "Neatly made white bed with a pale pink blanket, minimalist decor",
+      "lighting_source": "Soft daylight coming through windows"
+    },
+    "technical_details": {
+      "lighting_quality": "Even and diffuse, enhancing realistic skin texture and denim details",
+      "resolution": "Ultra-sharp, high-quality photorealistic 8K rendering",
+      "reflection": "Clean mirror reflection"
+    }
+  },
+  "final_prompt_string": "A realistic mirror selfie portrait of a young woman with a face identical to the reference image. She has long, sleek, straight silver-grey hair and polished makeup with winged eyeliner and matte nude lips. She is dressed in a fitted white short-sleeved crop top and light blue high-waisted denim jeans. She stands in a side profile pose, angling her body toward the mirror while holding an iPhone 16 Pro Max; her nails are long and pastel pink. The background is a sunlit bedroom with a white bed and pale pink blanket. The lighting is diffuse and soft, highlighting skin texture. 8K resolution, photorealistic."
+}
+```
+---
+
+### 🖼️ Prompt 37
+
+<div align="center">
+  <img src="images/image-37.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-33a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/xIrissy/status/1998792144316936598)
+
+```json
+{
+  "image_prompt": {
+    "subject": {
+      "description": "A stylish young woman with long, straight platinum blonde hair.",
+      "action": "Taking a mirror selfie with a smartphone in one hand while holding a disposable coffee cup in the other.",
+      "expression": "Neutral, confident, soft pout."
+    },
+    "outfit": {
+      "outerwear": "A classic beige or olive-drab trench coat, belted at the waist.",
+      "inner_wear": "A simple white t-shirt visible at the neckline.",
+      "accessories": "A cream-colored woven leather shoulder bag (hobo style), minimal rings on fingers."
+    },
+    "environment": {
+      "setting": "Inside a modern elevator.",
+      "background": "Brushed stainless steel walls with vertical warm LED light strips on either side.",
+      "lighting": "Bright, artificial elevator lighting causing reflections on the metal surfaces."
+    },
+    "photography_style": {
+      "type": "Mirror selfie, lifestyle photography.",
+      "aesthetic": "Chic, 'clean girl' aesthetic, influencer social media style, high definition."
+    }
+  }
+}
+```
+---
+
+### 🖼️ Prompt 38
+
+<div align="center">
+  <img src="images/image-38.png" width="200" style="margin-right:10px;" />
+  <img src="images/image-38a.png" width="200" />
+</div>
+
+**Source:** [𝕏](https://x.com/bananababydoll/status/1998799883776798833)
+
+```json
+{
+  "scene_type": "nighttime luxury apartment balcony selfie, deep-city lights glowing behind her, warm-wine intimate vibe",
+
+  "camera_perspective": {
+    "description": "we ARE her phone, arm slightly in frame, angled down toward her body + face",
+    "phone_visibility": "not visible",
+    "angle": "slightly high selfie angle capturing face, cleavage, thighs on chair",
+    "ratio": "9:16",
+    "framing": "face top third, chest + thighs dominant center"
+  },
+
+  "subject": {
+    "action": "leaning sideways into a deep balcony lounge chair, twisting her upper body to get both face and ass in frame",
+    "pose": "legs curled to the side, one thigh raised creating curve, hip pushed outward",
+    "expression": "soft drunk-smirk with one eyebrow raised, lips parted like she’s mid-laugh, eyes warm and seductive",
+    
+    "physical": {
+      "age": "early 20s",
+      "body": "slim waist, full chest, very round soft ass, thick thighs, natural curves",
+      "skin": "pale with warm wine-flush on cheeks, glowing from city light",
+      "hair": "long messy brunette waves, strands stuck to neck from heat, some falling over one eye",
+      "face": "bedroom eyes, slight tipsy shine, lashes heavy"
+    },
+
+    "outfit": {
+      "top": {
+        "type": "tiny open-front cardigan",
+        "color": "cream",
+        "state": "completely unbuttoned, breasts framed naturally, no bra underneath",
+        "lighting_effect": "city lights catching inner curves"
+      },
+      "bottom": {
+        "type": "mini lounge shorts",
+        "color": "light grey",
+        "state": "ridden up extremely due to twist, showing full curve of ass",
+        "fabric": "thin, soft, stretched between thighs"
+      },
+      "legs": {
+        "details": "inner thighs visible, skin texture realistic, natural warmth, slight wine flush"
+      }
+    },
+
+    "free_hand": "holding a half-full red wine glass loosely at thigh level, fingers relaxed",
+    "phone_arm": "extended outward to the side, elbow bent, effort visible to get ass + face perfectly framed"
+  },
+
+  "accessories": {
+    "jewelry": "thin gold necklace catching city glow, small hoops",
+    "nails": "dark red wine-colored nails, glossy"
+  },
+
+  "environment": {
+    "location": "high-rise balcony",
+    "elements": [
+      "deep cushioned outdoor chair",
+      "wine bottle on small table beside her",
+      "plants in shadow",
+      "city skyscrapers glowing behind her"
+    ],
+    "lighting": {
+      "primary": "city lights reflecting on her skin",
+      "secondary": "warm balcony ambient light",
+      "effect": "soft shadows, glowing skin, intimate vibe"
+    }
+  },
+
+  "vibe": "late-night tipsy confidence, intimate, seductive but soft, she knows you’re staring"
+}
+```
+---
+
+### 🖼️ Prompt 39
+
+<div align="center">
+  <img src="images/image-39.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-38a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/youngcatwoman/status/1998854483162575075)
+
+```json
+{
+  "image_prompt": {
+    "subject": {
+      "description": "A beautiful young chinese woman with feminine curves and a slim waist witj long, straight platinum blonde hair.",
+      "action": "Taking a mirror selfie with a smartphone in one hand while holding her jacket slightly open with the other.",
+      "expression": "Neutral, confident, soft pout."
+    },
+    "outfit": {
+      "outerwear": "A classic beige or trench coat, belted at the waist. She holds it slightly open by one collar showing what is underneath to the camera",
+      "inner_wear": "A translucent white full body latex catsuit showing some of her skin through the material ",
+      "accessories": "A cream-colored woven leather shoulder bag (hobo style), minimal rings on fingers."
+    },
+    "environment": {
+      "setting": "Inside a modern elevator.",
+      "background": "Brushed stainless steel walls with vertical warm LED light strips on either side.",
+      "lighting": "Bright, artificial elevator lighting causing reflections on the metal surfaces."
+    },
+    "photography_style": {
+      "type": "Mirror selfie, lifestyle photography.",
+      "aesthetic": "Chic, 'sexy girl' aesthetic, influencer social media style, high definition."
+    }
+  }
+}
+```
+---
+
+### 🖼️ Prompt 40
+
+<div align="center">
+  <img src="images/image-40.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-38a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/xIrissy/status/1998792144316936598)
+
+```json
+{
+  "image_prompt": {
+    "subject": {
+      "description": "A stylish young woman with long, straight platinum blonde hair.",
+      "action": "Taking a mirror selfie with a smartphone in one hand while holding a disposable coffee cup in the other.",
+      "expression": "Neutral, confident, soft pout."
+    },
+    "outfit": {
+      "outerwear": "A classic beige or olive-drab trench coat, belted at the waist.",
+      "inner_wear": "A simple white t-shirt visible at the neckline.",
+      "accessories": "A cream-colored woven leather shoulder bag (hobo style), minimal rings on fingers."
+    },
+    "environment": {
+      "setting": "Inside a modern elevator.",
+      "background": "Brushed stainless steel walls with vertical warm LED light strips on either side.",
+      "lighting": "Bright, artificial elevator lighting causing reflections on the metal surfaces."
+    },
+    "photography_style": {
+      "type": "Mirror selfie, lifestyle photography.",
+      "aesthetic": "Chic, 'clean girl' aesthetic, influencer social media style, high definition."
+    }
+  }
+}
+```
+---
+
 ## 📌 Why This Exists
 
 - Visual reference for prompt crafting
