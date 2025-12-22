@@ -1387,6 +1387,1144 @@ Built for **inspiration**, **learning**, and **prompt engineering reference**.
 ```
 ---
 
+### 🖼️ Prompt 16
+
+<div align="center">
+  <img src="images/image-16a.png" width="135" style="margin-right:10px;" />
+  <img src="images/image-16.png" width="120" />
+</div>
+
+**Source:** [𝕏](https://x.com/underwoodxie96/status/2000782356974854439)
+
+```json
+{
+  "poster_structure": {
+    "format": {
+      "aspect_ratio": "2:3",
+      "orientation": "vertical",
+      "safe_margins": "medium",
+      "grid": "classic magazine cover grid with generous top header area and bottom utility area"
+    },
+    "layers": {
+      "background_layer": {
+        "type": "single-photo-or-flat-color",
+        "treatment": [
+          "subtle paper grain",
+          "light halftone/print texture",
+          "slightly faded print tones"
+        ]
+      },
+      "title_layer": {
+        "type": "oversized headline behind subject",
+        "text": "GOOD MORNING",
+        "placement": "upper third, spanning wide",
+        "z_index": "behind_subject",
+        "style": {
+          "case": "title case or sentence case (match exactly)",
+          "font_feel": "bold retro editorial display",
+          "color_rule": "match dominant background color for embedded look",
+          "effects": ["no outline", "no glow", "clean fill"]
+        }
+      },
+      "subject_layer": {
+        "type": "foreground cutout",
+        "masking": "clean edge cutout, natural silhouette",
+        "z_index": "top",
+        "rules": [
+          "subject must overlap and partially cover the title text",
+          "no extra cutout artifacts",
+          "no duplicated subject"
+        ]
+      },
+      "frame_layer": {
+        "type": "border + inner line + ornaments",
+        "outer_border": {
+          "material": "off-white textured paper",
+          "shape": "rounded corners",
+          "rule": "NO outer black frame"
+        },
+        "inner_frame_line": {
+          "style": "thin line near edges",
+          "color": "subtle warm gray/beige",
+          "opacity": "low"
+        },
+        "corner_ornaments": {
+          "style": "small classic corner marks",
+          "quantity": "4",
+          "subtlety": "minimal"
+        }
+      },
+      "header_microtext_layer": {
+        "type": "small header metadata text",
+        "placement": "top margin area",
+        "alignment": "left to center, magazine-like",
+        "text_blocks": [
+          { "text": "GOOD MORNING", "role": "micro_title" },
+          { "text": "Designed by \n\n@underwoodxie96\n\n", "role": "credit_line" },
+          { "text": "Date 16-12-2025", "role": "date_line" },
+          { "text": "Day Thirty {two}", "role": "day_counter" },
+          { "text": "2/5", "role": "issue_fraction" }
+        ],
+        "style": {
+          "font_feel": "clean editorial sans or simple serif",
+          "size": "very small",
+          "tracking": "slightly increased",
+          "color": "muted dark gray"
+        }
+      },
+      "barcode_layer": {
+        "type": "barcode graphic",
+        "placement": "bottom right",
+        "size": "small to medium",
+        "style": "clean black/gray on light background",
+        "rule": "must remain visible"
+      }
+    },
+    "print_finish": {
+      "global_texture": ["paper grain", "subtle halftone"],
+      "contrast": "medium-low",
+      "saturation": "slightly faded",
+      "clarity": "high but not HDR"
+    }
+  },
+  "constraints": {
+    "must_keep": [
+      "off-white textured border with rounded corners (NO outer black frame)",
+      "thin inner frame line near the edges",
+      "small corner ornaments",
+      "oversized title text placed behind the subject and partially covered by the subject cutout",
+      "paper/halftone print texture across the whole design",
+      "barcode at bottom right",
+      "header microtext blocks present at the top"
+    ],
+    "text_lock": [
+      "Designed by \n\n@underwoodxie96\n\n",
+      "Date 16-12-2025",
+      "Day Thirty {two}",
+      "2/5",
+      "GOOD MORNING"
+    ],
+    "avoid": [
+      "outer black border/frame",
+      "extra random text",
+      "misspelled or garbled typography",
+      "neon colors",
+      "heavy HDR",
+      "watermarks or extra logos"
+    ]
+  },
+  "negative_prompt": [
+    "watermark",
+    "extra logos",
+    "misspelled text",
+    "garbled typography",
+    "random letters",
+    "outer black frame",
+    "overprocessed",
+    "heavy HDR",
+    "neon colors",
+    "low resolution"
+  ]
+}
+```
+---
+
+### 🖼️ Prompt 17
+
+<p align="center">
+  <img src="images/image-17.png" width="120" />
+</p>
+
+**Source:** [𝕏](https://x.com/gaucheai/status/1999476360046092675)
+
+```json
+{
+  "subject": {
+    "description": "20yo woman sitting on bedroom floor taking mirror selfie, lazy morning energy, effortlessly pretty in loungewear",
+    "setting_rules": "bedroom floor, full-length mirror, natural daylight, intimate casual",
+    "age": "early 20s",
+    
+    "expression": {
+      "eyes": {
+        "look": "soft gaze toward phone screen, not directly at lens",
+        "energy": "relaxed, peaceful, content",
+        "direction": "looking slightly down at phone"
+      },
+      "mouth": {
+        "position": "soft, relaxed, hint of gentle smile",
+        "energy": "serene, unbothered, comfortable"
+      },
+      "overall": "that 'lazy sunday morning' face, no effort needed, naturally pretty"
+    },
+    
+    "hair": {
+      "color": "platinum blonde, white-blonde",
+      "style": "messy low ponytail / loose bun",
+      "details": {
+        "updo": "loosely pulled back, casual, undone",
+        "pieces": "lots of face-framing pieces escaped, falling around face",
+        "texture": "messy, slept-on, bedhead but cute",
+        "length": "shoulder length visible in loose pieces"
+      },
+      "effect": "the 'just threw it up' hair that actually looks perfect"
+    },
+    
+    "body": {
+      "frame": "slim, athletic, toned",
+      "waist": "small, visible midriff",
+      "chest": "modest but perky, visible through thin white tank",
+      "legs": "long, toned, smooth, the focus of this pose",
+      "skin": "pale, fair, smooth, glowing in natural light"
+    },
+    
+    "pose": {
+      "position": "sitting on floor in front of full-length mirror",
+      "base": "seated on wooden floor",
+      
+      "legs": {
+        "arrangement": "THE KEY - one leg bent up (knee raised), one leg folded/tucked under",
+        "left_leg": "bent at knee, raised up, foot flat on floor",
+        "right_leg": "folded underneath, tucked to side",
+        "effect": "shows leg length, creates interesting shape, feminine"
+      },
+      
+      "upper_body": {
+        "lean": "leaning back slightly, weight on one arm",
+        "support": "left arm behind her, hand on floor, supporting weight",
+        "posture": "relaxed lean, casual, comfortable"
+      },
+      
+      "arms": {
+        "left_arm": {
+          "position": "behind her, hand flat on floor",
+          "function": "supporting her weight as she leans back",
+          "effect": "creates casual reclined pose"
+        },
+        "right_arm": {
+          "position": "raised, holding phone for selfie",
+          "angle": "phone at face level, capturing mirror reflection"
+        }
+      },
+      
+      "overall": "seated floor selfie, leaning back on one arm, legs arranged artfully, phone raised"
+    },
+    
+    "clothing": {
+      "top": {
+        "type": "white ribbed tank top / crop top",
+        "color": "WHITE - clean, bright",
+        "style": {
+          "cut": "cropped, ends above belly button",
+          "fit": "fitted, tight, ribbed texture",
+          "neckline": "high neck, racer-back style",
+          "straps": "thick athletic straps"
+        },
+        "fit_details": {
+          "chest": "fitted, shows shape through thin fabric",
+          "fabric": "thin ribbed cotton, slightly see-through quality",
+          "length": "cropped to show midriff"
+        },
+        "effect": "basic white tank but the fit makes it work"
+      },
+      
+      "bottom": {
+        "type": "grey cotton lounge shorts",
+        "color": "HEATHER GREY - soft, cozy",
+        "style": {
+          "cut": "very short, mini length",
+          "fit": "relaxed, soft, comfortable",
+          "waist": "elastic waistband, sits at natural waist",
+          "leg": "loose, rolled or short cut"
+        },
+        "details": {
+          "fabric": "soft cotton jersey, sweatshort material",
+          "length": "very short, upper thigh, almost underwear length"
+        },
+        "effect": "the 'i sleep in these' shorts that show everything"
+      },
+      
+      "feet": {
+        "status": "barefoot",
+        "visibility": "feet visible, tucked and natural",
+        "effect": "intimate, home, comfortable"
+      }
+    },
+    
+    "accessories": {
+      "jewelry": {
+        "minimal": "none visible or very minimal",
+        "effect": "just woke up, no accessories"
+      },
+      "phone": {
+        "type": "iPhone",
+        "case": "clear case with stickers - anime/cute stickers visible",
+        "grip": "held naturally for mirror selfie"
+      }
+    },
+    
+    "skin_details": {
+      "visible_areas": "midriff, full legs, arms, shoulders",
+      "tone": "pale, fair, porcelain",
+      "texture": "smooth, soft, natural",
+      "lighting_effect": "warm natural light catching skin beautifully"
+    },
+    
+    "face": {
+      "features": "soft, pretty, girl-next-door",
+      "makeup": "none or minimal - natural beauty",
+      "expression": "soft, relaxed, content"
+    }
+  },
+
+  "environment": {
+    "location": "bedroom",
+    "style": "lived-in, real, cozy",
+    
+    "the_mirror": {
+      "type": "full-length floor mirror or leaning mirror",
+      "frame": "thin gold/brass frame",
+      "position": "leaning against wall, she's sitting in front of it"
+    },
+    
+    "room_details": {
+      "floor": "wooden floor, warm tone",
+      "walls": "light beige/cream",
+      "bed": {
+        "visible": "yes, in mirror reflection behind her",
+        "state": "UNMADE - messy sheets, blankets rumpled",
+        "bedding": "grey/neutral tones, cozy sherpa blanket hanging off"
+      },
+      "clothes": "clothes on floor, lived-in mess - jeans, items scattered",
+      "window": "visible in reflection, natural light source",
+      "fairy_lights": "string lights visible on wall near ceiling"
+    },
+    
+    "lighting": {
+      "type": "natural daylight from window",
+      "quality": "soft, warm, golden morning/afternoon light",
+      "direction": "coming from window on right side",
+      "effect": "beautiful natural glow, catches her skin and hair"
+    },
+    
+    "atmosphere": "real bedroom, real mess, real girl - intimate and authentic"
+  },
+
+  "photography": {
+    "style": "mirror selfie, seated on floor",
+    "framing": "full body in mirror reflection",
+    "quality": "iPhone quality, authentic",
+    "angle": "mirror straight on, she's seated looking at it",
+    "aspect": "4:5 vertical"
+  },
+
+  "color_story": {
+    "her": {
+      "top": "WHITE - clean, bright",
+      "shorts": "GREY - soft, neutral",
+      "hair": "PLATINUM blonde",
+      "skin": "pale, fair"
+    },
+    "environment": {
+      "floor": "warm wood",
+      "walls": "cream/beige",
+      "bedding": "grey, beige, neutral",
+      "light": "warm golden natural"
+    },
+    "palette": "soft neutrals - white, grey, cream, warm wood - minimal, clean"
+  },
+
+  "the_vibe": {
+    "energy": "lazy morning, just woke up, no plans",
+    "mood": "peaceful, relaxed, comfortable in own skin",
+    "aesthetic": "soft girl, clean girl, effortless",
+    "authenticity": "real bedroom, real mess, feels REAL not staged",
+    "intimacy": "private moment shared, like she sent this to someone specific",
+    "story": "woke up, felt cute, sat on floor, took selfie",
+    "caption_energy": "'morning' or 'lazy day' or '☀️' or no caption"
+  },
+
+  "critical_elements": {
+    "floor_seated_pose": "sitting on bedroom floor - THE composition",
+    "leg_arrangement": "one up, one tucked - creates shape and shows legs",
+    "leaning_back": "weight on one arm behind her - casual, relaxed",
+    "white_tank": "basic but fitted, thin, shows shape",
+    "grey_lounge_shorts": "tiny, comfortable, shows legs",
+    "messy_ponytail": "undone, pieces out, effortless",
+    "unmade_bed": "visible in reflection, proves authenticity",
+    "natural_light": "golden daylight making everything glow",
+    "messy_room": "clothes on floor, real life, not curated",
+    "barefoot": "intimate, home, comfortable",
+    "soft_expression": "relaxed, peaceful, not trying hard"
+  },
+
+  "what_makes_it_work": {
+    "the_pose": "floor sitting with leg arrangement is unexpected and interesting",
+    "the_light": "natural golden light is doing heavy lifting",
+    "the_mess": "unmade bed and floor clothes = authentic, relatable",
+    "the_outfit": "simple loungewear but fits perfectly, shows body",
+    "the_hair": "messy but cute - zero effort, maximum effect",
+    "the_mood": "calm, peaceful, comfortable - invites you into her morning"
+  }
+}
+```
+---
+
+### 🖼️ Prompt 18
+
+<div align="center">
+  <img src="images/image-18.png" width="120" style="margin-right:10px;" />
+  <img src="images/image-18a.png" width="120" />
+</div>
+
+**Source:** [𝕏](https://x.com/bananababydoll/status/2000513666287120406)
+
+```json
+{
+  "meta": {
+    "aspect_ratio": "9:16",
+    "quality": "ultra_photorealistic",
+    "resolution": "8K",
+    "camera": "iPhone 15 Pro Max",
+    "lens": "26mm",
+    "style": "casual instagram selfie, sun-soaked realism, handheld imperfections"
+  },
+
+  "scene": {
+    "location": "luxury poolside terrace",
+    "environment": [
+      "white sun lounger",
+      "wet stone pool deck",
+      "palm shadows",
+      "clear blue sky reflections"
+    ],
+    "time": "early afternoon",
+    "atmosphere": "hot, lazy, vacation energy"
+  },
+
+  "lighting": {
+    "type": "direct sunlight",
+    "key_light": "bright sun from above",
+    "fill_light": "reflected light from pool water",
+    "effect": "wet skin highlights, realistic shine, fabric reacting naturally to moisture"
+  },
+
+  "camera_perspective": {
+    "pov": "selfie — phone held with one hand",
+    "angle": "slightly high and close",
+    "framing": "upper torso to top of head",
+    "distance": "arm-length",
+    "stability": "natural handheld tilt"
+  },
+
+  "subject": {
+    "gender": "female",
+    "age": "mid 20s (clearly adult)",
+    "ethnicity": "Mediterranean / mixed European",
+    "body": {
+      "type": "instagram swim model physique",
+      "proportions": "long neck, slim waist, athletic feminine curves",
+      "posture": "reclined, relaxed, sunbathing"
+    },
+
+    "hair": {
+      "color": "warm brunette",
+      "style": "wet, slicked back loosely",
+      "details": "a few damp strands on shoulders"
+    },
+
+    "face": {
+      "expression": "confident, teasing calm",
+      "eyes": {
+        "color": "hazel",
+        "look": "direct to camera, relaxed"
+      },
+      "skin": "sun-warmed glow, water droplets visible"
+    },
+
+    "pose": {
+      "position": "lying back on a sun lounger",
+      "upper_body": "slightly propped up on one elbow",
+      "shoulders": "relaxed",
+      "effect": "effortless, lazy-hot selfie"
+    },
+
+    "outfit": {
+      "swimwear": {
+        "type": "minimal bikini",
+        "color": "bright lemon yellow",
+        "fabric": "thin swim fabric",
+        "state": "wet from the pool",
+        "fit": "snug and natural",
+        "detail": "fabric clinging realistically due to moisture and sunlight"
+      }
+    }
+  },
+
+  "mood": {
+    "vibe": "vacation it-girl, sun-drenched confidence",
+    "energy": "looks spontaneous, taken for herself"
+  }
+}
+```
+---
+
+### 🖼️ Prompt 19
+
+<div align="center">
+  <img src="images/image-19.png" width="120" style="margin-right:10px;" />
+  <img src="images/image-19a.png" width="120" />
+</div>
+
+**Source:** [𝕏](https://x.com/bananababydoll/status/1999841745073283492)
+
+```json
+{
+  "meta": {
+    "aspect_ratio": "9:16",
+    "quality": "ultra_photorealistic",
+    "resolution": "8K",
+    "camera": "iPhone 15 Pro Max",
+    "lens": "26mm",
+    "style": "casual instagram selfie, natural imperfection, non-professional look"
+  },
+
+  "scene": {
+    "location": "commercial shoot location after hours (empty set)",
+    "environment": [
+      "neutral backdrop panels",
+      "soft fabric props",
+      "unused light stands turned off",
+      "concrete or matte floor"
+    ],
+    "time": "early night",
+    "atmosphere": "quiet, unplanned, off-duty moment"
+  },
+
+  "lighting": {
+    "type": "ambient practical light",
+    "source": "overhead warm lamps + residual set lighting",
+    "effect": "soft shadows, realistic highlights, fabric reacting naturally to light"
+  },
+
+  "camera_perspective": {
+    "pov": "selfie — phone held in hands",
+    "angle": "slightly low and close",
+    "framing": "mid torso to top of head",
+    "distance": "very close, arm-length",
+    "stability": "slightly imperfect hand-held framing"
+  },
+
+  "subject": {
+    "gender": "female",
+    "age": "mid 20s (clearly adult)",
+    "ethnicity": "mixed European",
+    "body": {
+      "type": "instagram model physique",
+      "waist": "slim",
+      "hips": "defined feminine curve",
+      "posture": "relaxed, not posed like a professional"
+    },
+
+    "hair": {
+      "color": "light brunette or dark blonde",
+      "style": "loose, slightly messy",
+      "details": "natural movement, not styled for camera"
+    },
+
+    "face": {
+      "expression": "casual, slightly playful",
+      "eyes": {
+        "color": "hazel or light brown",
+        "look": "direct to camera, relaxed"
+      },
+      "makeup": "light, everyday, not editorial"
+    },
+
+    "pose": {
+      "position": "standing or sitting on a low prop",
+      "upper_body": "leaning slightly forward toward camera",
+      "shoulders": "relaxed",
+      "arms": {
+        "both_hands": "holding the phone naturally"
+      },
+      "effect": "intimate, unplanned selfie feeling"
+    },
+
+    "outfit": {
+      "top": {
+        "type": "thin fitted mini dress or crop top",
+        "color": "soft neutral or muted tone",
+        "fabric": "very thin, smooth fabric",
+        "fit": "snug but casual",
+        "detail": "subtle natural outlines implied by fabric and lighting, realistic and unforced"
+      },
+      "bottom": {
+        "type": "ultra short skirt or fitted shorts",
+        "fit": "relaxed but body-hugging"
+      }
+    }
+  },
+
+  "mood": {
+    "vibe": "off-duty instagram girl",
+    "energy": "looks like she took it for herself, not for a campaign"
+  }
+}
+```
+---
+
+### 🖼️ Prompt 20
+
+<div align="center">
+  <img src="images/image-20.png" width="120" style="margin-right:10px;" />
+  <!-- <img src="images/image-19a.png" width="120" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/lexx_aura/status/1999738430331265143)
+
+```json
+{
+  "prompt_settings": {
+    "type": "photorealistic",
+    "style": "candid, photo of a digital screen, lo-fi aesthetic",
+    "perspective": "angled shot capturing a MacBook Pro laptop display"
+  },
+  "subject": {
+    "description": "young woman with long, straight dark brown hair parted in the middle",
+    "skin": "tan complexion, face covered in a textured yellow-green skincare face mask",
+    "pose": "reclining on a bed, body angled sideways, taking a selfie using the computer camera",
+    "expression": "neutral, partially obscured by phone and mask"
+  },
+  "apparel": {
+    "top": "white ribbed sleeveless tank top, casual fit",
+    "bottom": "sage green bikini bottoms or underwear",
+    "jewelry": "small gold hoop earrings"
+  },
+  "props": {
+    "smartphone": {
+      "item": "iPhone 11 or 12 Pro with triple camera lens",
+      "case": "black case with a black pop socket",
+      "action": "held in left hand, positioned in front of face to take the photo"
+    },
+    "gaming_console": {
+      "item": "Nintendo Switch handheld console",
+      "details": "Neon Green Joy-Con controller clearly visible",
+      "screen_content": "displaying the Mario Kart 8 Deluxe menu screen",
+      "action": "held up prominently in right hand"
+    }
+  },
+  "environment": {
+    "location": "indoor bedroom",
+    "details": "white rumpled bedding, pillows, soft natural lighting from a window in the background"
+  },
+  "interface_elements": {
+    "software": "Apple Photo Booth application window",
+    "overlay": "red countdown bar at the bottom displaying numbers '3, 2, 1'",
+    "os_ui": "macOS Dock visible at the bottom of the screen containing icons for Finder, Excel, Safari, Music, App Store, Settings, Photo Booth, and Trash"
+  },
+  "technical_details": {
+    "camera_effect": "slight screen glare, moiré pattern typical of photographing a monitor",
+    "framing": "includes the black bezel of the laptop screen and the laptop camera lens at the top center"
+  }
+}
+```
+---
+
+### 🖼️ Prompt 21
+
+<div align="center">
+  <img src="images/image-21.png" width="120" style="margin-right:10px;" />
+  <!-- <img src="images/image-19a.png" width="120" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/Abhiew_/status/1999732863479185723)
+
+```json
+{
+  "image_generation_configuration": {
+    "meta_data": {
+      "title": "Retro Joy: 1970s Boardwalk Portrait",
+      "aspect_ratio": "9:16",
+      "version": "2.0",
+      "target_style": "Photorealistic Cinematic Nostalgia"
+    },
+    "subject_details": {
+      "demographics": {
+        "age": 21,
+        "gender": "female",
+        "shot_framing": "Half-body portrait"
+      },
+      "physical_appearance": {
+        "hair": {
+          "color": "sun-bleached blonde",
+          "style": "loose, natural waves",
+          "movement": "tousled by sea breeze",
+          "specific_detail": "stray strands sticking to sun-kissed cheeks due to humidity/wind"
+        },
+        "eyes": {
+          "color": "bright blue",
+          "state": "sparkling with excitement",
+          "lighting_interaction": "natural round catchlights reflecting warm sunlight"
+        },
+        "skin": {
+          "complexion": "golden tan",
+          "texture": "hyper-realistic fine skin texture",
+          "distinguishing_marks": "light scattering of freckles across the nose"
+        },
+        "mouth": {
+          "expression": "laughing, mouth open in pure joy",
+          "lips": "glossy with a peachy tint"
+        }
+      },
+      "attire": {
+        "upper_body": {
+          "item": "bikini top",
+          "color": "retro mustard-yellow",
+          "style": "vintage 1970s cut"
+        },
+        "lower_body": {
+          "item": "sarong",
+          "color": "matching mustard-yellow",
+          "styling": "tied at the hip"
+        }
+      },
+      "pose_and_action": {
+        "head_position": "tilted back",
+        "body_language": "radiant and carefree",
+        "right_hand": {
+          "action": "holding an object",
+          "object": "melting vanilla ice cream cone"
+        },
+        "left_hand": {
+          "action": "resting on hip",
+          "vibe": "exuding confidence"
+        }
+      }
+    },
+    "environmental_context": {
+      "location": {
+        "primary_setting": "1970s beach boardwalk",
+        "ground_surface": "mixture of sand and weathered wooden planks"
+      },
+      "temporal_settings": {
+        "time_of_day": "Golden hour",
+        "era": "1970s",
+        "weather": "sunny and breezy"
+      },
+      "background_composition": {
+        "immediate_background": [
+          "crowd in colorful swimsuits",
+          "people wearing vintage sunglasses",
+          "classic red convertible car parked nearby"
+        ],
+        "distant_background": [
+          "Ferris wheel silhouetted against sky",
+          "roller coaster structure",
+          "seagulls faintly visible in the distance"
+        ],
+        "atmosphere": "buzzing with life, nostalgic summer energy"
+      }
+    },
+    "cinematography_and_technical": {
+      "camera_gear": {
+        "film_stock": "Kodak Ektachrome",
+        "aesthetic": "Vintage analog photography",
+        "lens_effects": "slight lens flare for authenticity"
+      },
+      "lighting_setup": {
+        "key_light": {
+          "source": "low-angle setting sun",
+          "quality": "warm, golden"
+        },
+        "fill_light": {
+          "quality": "soft shadows on the left side (contrast)"
+        },
+        "backlight": {
+          "effect": "gentle halo / rim light around hair"
+        }
+      },
+      "post_processing_grading": {
+        "color_palette": "Polaroid snapshot aesthetic",
+        "texture_overlay": "subtle grainy texture (sea air/film grain)",
+        "tone": "warm, orange, mustard, cyan (retro palette)"
+      }
+    },
+    "artistic_direction": {
+      "mood": [
+        "joyful",
+        "evocative",
+        "carefree",
+        "radiant"
+      ],
+      "style_references": [
+        "Slim Aarons (candid luxury lifestyle)",
+        "Greta Gerwig (cinematic warmth and color)",
+        "Hyperrealism",
+        "1970s Nostalgia"
+      ]
+    }
+  }
+}
+```
+---
+
+### 🖼️ Prompt 22
+
+<div align="center">
+  <img src="images/image-22.png" width="120" style="margin-right:10px;" />
+  <!-- <img src="images/image-19a.png" width="120" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/Ankit_patel211/status/1999902279814803894)
+
+```json
+{
+  "generation_parameters": {
+    "meta_instructions": {
+      "overall_mood": "Playful, energetic, mischievous"
+    },
+    "scene_composition": {
+      "shot_type": "Mirror selfie",
+      "framing": "Full-body view",
+      "camera_angle": "Slightly high angle looking down into the mirror (implied by kneeling pose)",
+      "focus": "Sharp focus on the subject and her reflection"
+    },
+    "subject_analysis": {
+      "demographics": {
+        "gender": "Woman",
+        "age_group": "Young",
+        "body_type": "Curvy"
+      },
+      "pose_and_action": {
+        "posture": "Kneeling upright",
+        "location": "On the floor, positioned on a rug",
+        "primary_action": "Taking a photograph of reflection",
+        "hand_placement": {
+          "right_hand": "Holding smartphone, actively taking photo"
+        }
+      },
+      "facial_expression": {
+        "emotion": "Energetic, mischievous",
+        "specific_gesture": "Tongue sticking out playfully",
+        "gaze": "Looking towards the phone screen/mirror reflection"
+      }
+    },
+    "styling_details": {
+      "hair": {
+        "color": "Dark",
+        "length": "Long",
+        "style": "Two high pigtails"
+      },
+      "apparel": {
+        "outfit_type": "Matching two-piece loungewear set",
+        "color_palette": "Mint green",
+        "garment_top": {
+          "type": "Henley top",
+          "fit": "Cropped",
+          "sleeve_length": "Long-sleeved",
+          "details": [
+            "Small placket buttons visible"
+          ]
+        },
+        "garment_bottom": {
+          "type": "Briefs/Shorts hybrid",
+          "fit": "High-waisted"
+        }
+      }
+    },
+    "props_and_devices": {
+      "primary_device": {
+        "type": "Smartphone",
+        "model_specification": "iPhone 17 Pro Max (Fictional futuristic model)",
+        "color_finish": "Silver",
+        "state": "Screen active (taking photo)"
+      }
+    },
+    "environmental_context": {
+      "setting_type": "Modern indoor living space",
+      "atmosphere": "Bright, clean, contemporary",
+      "architectural_elements": {
+        "van Gogh painting walls": {
+          "color": "White",
+          "texture": "Smooth"
+        },
+        "flooring": {
+          "material": "Wood",
+          "tone": "Light wood grain"
+        }
+      },
+      "key_fixtures_and_furniture": {
+        "primary_mirror": {
+          "shape": "Large circular",
+          "placement": "Prominently visible on the left side of the frame",
+          "lighting_feature": "Integrated warm backlighting (halo effect)"
+        },
+        "floor_covering": {
+          "type": "Rug",
+          "texture": "Fluffy/High-pile",
+          "color": "White",
+          "placement": "Directly beneath the kneeling subject"
+        }
+      },
+      "background_decor": {
+        "botanical": {
+          "type": "Subtle plant",
+          "placement": "In background, slightly out of focus"
+        }
+      },
+      "lighting_scheme": {
+        "primary_source": "Bright ambient indoor light",
+        "accent_lighting": "Warm glow emanating from behind the circular mirror on the left"
+      }
+    }
+  }
+
+```
+---
+
+### 🖼️ Prompt 23
+
+<div align="center">
+  <img src="images/image-23.png" width="120" style="margin-right:10px;" />
+  <!-- <img src="images/image-19a.png" width="120" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/saniaspeaks_/status/1999352638677352886)
+
+```json
+{
+  "image_type": "grid_layout",
+  "grid_dimensions": "4x4",
+  "subject_consistency": "single_female_character",
+  "theme": "chronological_aging_process",
+  "math_formula": "Age = 1 + (square_position - 1) * 5",
+  "visual_style": "photorealistic, cinematic portraiture, soft natural lighting",
+  "prompt_payload": {
+    "main_instruction": "Generate a 4x4 grid of portraits depicting the lifespan of a single female subject with brown hair and brown eyes, evolving from infancy to old age.",
+    "row_1_childhood": {
+      "panel_1": "Age 1: Cute baby with wispy hair in a pink onesie, close-up.",
+      "panel_2": "Age 6: Little girl with pigtails holding a teddy bear, cozy home background.",
+      "panel_3": "Age 11: Pre-teen schoolgirl with a high ponytail, wearing a striped shirt in a classroom.",
+      "panel_4": "Age 16: Teenager with long straight hair, wearing a denim jacket, bedroom background."
+    },
+    "row_2_adulthood": {
+      "panel_5": "Age 21: Young woman with golden highlights, wearing a tank top, outdoor campus setting.",
+      "panel_6": "Age 26: Corporate professional in a navy blazer and white shirt, office background.",
+      "panel_7": "Age 31: Young mother holding a baby, wearing a grey t-shirt, messy bun, warm living room light.",
+      "panel_8": "Age 36: Stylish woman with a shoulder-length bob cut, navy dress, urban street background."
+    },
+    "row_3_middle_age": {
+      "panel_9": "Age 41: Mature woman with wavy hair, wearing a business suit, garden background.",
+      "panel_10": "Age 46: Sophisticated woman with short styled hair, wearing a silk scarf and black blazer, museum background.",
+      "panel_11": "Age 51: Woman with salt-and-pepper grey hair wearing glasses and a turtle neck, library background.",
+      "panel_12": "Age 56: Grandmother with grey hair smiling while hugging a grandchild, bright indoor setting."
+    },
+    "row_4_senior_years": {
+      "panel_13": "Age 61: Senior woman with white hair in a beige knit sweater, standing on a porch.",
+      "panel_14": "Age 66: Active senior in gardening overalls, outdoor garden setting.",
+      "panel_15": "Age 71: Elderly woman wrapped in a warm shawl sitting in an armchair, sepia tones.",
+      "panel_16": "Age 76: Old woman with full white hair and glasses, wearing a vintage brown coat, classic portrait style."
+    }
+  },
+  "technical_parameters": {
+    "resolution": "8k",
+    "aspect_ratio": "1:1",
+    "lighting": "Golden hour, window light, cinematic depth of field"
+  }
+}
+```
+---
+
+### 🖼️ Prompt 24
+
+<div align="center">
+  <img src="images/image-24.png" width="120" style="margin-right:10px;" />
+  <!-- <img src="images/image-19a.png" width="120" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/Ankit_patel211/status/1999692033401979212)
+
+```json
+{
+  "scene_description": "A stylish young woman stands frozen in a pose on a subway platform while a silver train rushes past in a dynamic motion blur behind her. She looks off to the side, contrasting the chaotic urban movement with a moment of fashionable stillness."
+  "subject": {
+    "type": "Young woman",
+    "age": "Early 20s",
+    "features": {
+      "hair": "Bleached blonde hair styled in a messy updo, secured with pastel yellow and green flower-shaped claw clips, dark roots slightly visible.",
+      "expression": "Profile view, looking sharply to her left with a neutral, poised expression; heavy winged eyeliner visible.",
+      "other": "Fair skin tone, slender build."
+    },
+    "attire": "Pale yellow spaghetti-strap camisole with a small blue bow and black text reading 'I'M OUT OF MY MIND PLEASE LEAVE A MESSAGE', layered over visible lace lingerie; white lace shorts; pearl chokers and necklaces; thin belly chain; pearl bracelets.",
+    "position": "Standing facing forward, torso centered, head turned to profile, hands lightly pulling down the hem of the yellow top."
+  },
+  "action": {
+    "primary": "Posing calmly amidst motion",
+    "secondary": "Adjusting clothing hem with fingertips",
+    "effect": "Creating a sense of stillness against the rushing speed of the subway train"
+  },
+  "environment": {
+    "setting": "Subway station platform",
+    "foreground_elements": [
+      "Yellow textured tactile paving strip at the bottom edge",
+      "Subject in sharp focus"
+    ],
+    "background": "A silver subway train moving horizontally with significant motion blur, windows and metallic texture streaked by speed."
+  },
+  "lighting": {
+    "style": "Ambient artificial subway lighting",
+    "key_light": {
+      "type": "Overhead fluorescent diffusion",
+      "color": "Warm yellow-green cast",
+      "illuminates": [
+        "The subject's face and upper chest evenly",
+        "Reflections on the blue shoulder bag"
+      ]
+    },
+    "background_light": {
+      "color": "Cooler metallic tones from the train mixed with station warmth"
+    },
+    "shadows": "Soft, diffused shadows under the chin and arms, consistent with omnidirectional overhead sources."
+  },
+  "style": {
+    "medium": "Digital Photography",
+    "aesthetic": "Urban street style, Y2K fashion revival, candid editorial",
+    "quality": "High contrast, sharp subject focus with deliberate motion blur background",
+    "details": "Texture of the crocodile-pattern bag, lace intricacies, and motion streaks of the train."
+  },
+  "scene_composition": {
+    "subject_action": "Centered subject framing, contrasting static pose with horizontal motion vector of background",
+    "camera_behavior": "Eye-level shot, stable capture to keep subject sharp while dragging shutter for background blur",
+    "depth_layering": "Sharp foreground subject distinct from the blurred, moving background plane."
+  },
+  "visual_description": {
+    "core_subject": "A trendy figure embodying Gen Z street fashion with playful accessories.",
+    "attire_physics": "Tight-fitting camisole stretching slightly, lace shorts sitting low on hips.",
+    "skin_rendering": "Smooth, slightly warm-toned skin under artificial light."
+  },
+  "lighting_and_atmosphere": {
+    "type": "Urban Interior",
+    "specifics": "Station fluorescent hum mixed with kinetic energy",
+    "color_grade": "Warm, slightly vintage yellow tint typical of subway photography."
+  },
+  "attire_customization": {
+    "current_clothing": "Yellow slogan tank top and white lace shorts",
+    "customizable_clothing": "Graphic tee or slip dress for a similar street style vibe."
+  },
+  "brand_product_customization": {
+    "current_brand_product": "None visible",
+    "customizable_brand": "Space on camisole for branding",
+    "customizable_product": "Shoulder bag",
+    "product_placement_area": "Hanging from right shoulder"
+  }
+}
+```
+---
+
+### 🖼️ Prompt 25
+
+<div align="center">
+  <img src="images/image-25.png" width="120" style="margin-right:10px;" />
+  <!-- <img src="images/image-19a.png" width="120" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/_MehdiSharifi_/status/1999618438143021392)
+
+```json
+{
+  "scene_description": "A stylish young woman stands frozen in a pose on a subway platform while a silver train rushes past in a dynamic motion blur behind her. She looks off to the side, contrasting the chaotic urban movement with a moment of fashionable stillness."
+  "subject": {
+    "type": "Young woman",
+    "age": "Early 20s",
+    "features": {
+      "hair": "Bleached blonde hair styled in a messy updo, secured with pastel yellow and green flower-shaped claw clips, dark roots slightly visible.",
+      "expression": "Profile view, looking sharply to her left with a neutral, poised expression; heavy winged eyeliner visible.",
+      "other": "Fair skin tone, slender build."
+    },
+    "attire": "Pale yellow spaghetti-strap camisole with a small blue bow and black text reading 'I'M OUT OF MY MIND PLEASE LEAVE A MESSAGE', layered over visible lace lingerie; white lace shorts; pearl chokers and necklaces; thin belly chain; pearl bracelets.",
+    "position": "Standing facing forward, torso centered, head turned to profile, hands lightly pulling down the hem of the yellow top."
+  },
+  "action": {
+    "primary": "Posing calmly amidst motion",
+    "secondary": "Adjusting clothing hem with fingertips",
+    "effect": "Creating a sense of stillness against the rushing speed of the subway train"
+  },
+  "environment": {
+    "setting": "Subway station platform",
+    "foreground_elements": [
+      "Yellow textured tactile paving strip at the bottom edge",
+      "Subject in sharp focus"
+    ],
+    "background": "A silver subway train moving horizontally with significant motion blur, windows and metallic texture streaked by speed."
+  },
+  "lighting": {
+    "style": "Ambient artificial subway lighting",
+    "key_light": {
+      "type": "Overhead fluorescent diffusion",
+      "color": "Warm yellow-green cast",
+      "illuminates": [
+        "The subject's face and upper chest evenly",
+        "Reflections on the blue shoulder bag"
+      ]
+    },
+    "background_light": {
+      "color": "Cooler metallic tones from the train mixed with station warmth"
+    },
+    "shadows": "Soft, diffused shadows under the chin and arms, consistent with omnidirectional overhead sources."
+  },
+  "style": {
+    "medium": "Digital Photography",
+    "aesthetic": "Urban street style, Y2K fashion revival, candid editorial",
+    "quality": "High contrast, sharp subject focus with deliberate motion blur background",
+    "details": "Texture of the crocodile-pattern bag, lace intricacies, and motion streaks of the train."
+  },
+  "scene_composition": {
+    "subject_action": "Centered subject framing, contrasting static pose with horizontal motion vector of background",
+    "camera_behavior": "Eye-level shot, stable capture to keep subject sharp while dragging shutter for background blur",
+    "depth_layering": "Sharp foreground subject distinct from the blurred, moving background plane."
+  },
+  "visual_description": {
+    "core_subject": "A trendy figure embodying Gen Z street fashion with playful accessories.",
+    "attire_physics": "Tight-fitting camisole stretching slightly, lace shorts sitting low on hips.",
+    "skin_rendering": "Smooth, slightly warm-toned skin under artificial light."
+  },
+  "lighting_and_atmosphere": {
+    "type": "Urban Interior",
+    "specifics": "Station fluorescent hum mixed with kinetic energy",
+    "color_grade": "Warm, slightly vintage yellow tint typical of subway photography."
+  },
+  "attire_customization": {
+    "current_clothing": "Yellow slogan tank top and white lace shorts",
+    "customizable_clothing": "Graphic tee or slip dress for a similar street style vibe."
+  },
+  "brand_product_customization": {
+    "current_brand_product": "None visible",
+    "customizable_brand": "Space on camisole for branding",
+    "customizable_product": "Shoulder bag",
+    "product_placement_area": "Hanging from right shoulder"
+  },
+  "objects_and_props": {
+    "main_objects": [
+      "Light blue crocodile-texture shoulder bag",
+      "Pastel flower hair clips",
+      "Pearl jewelry"
+    ],
+    "secondary_objects": [
+      "Belly chain",
+      "Rings"
+    ]
+  },
+  "camera_and_lens": {
+    "focal_length_feel": "35mm or 50mm",
+    "aperture_effect": "f/4.0 to f/5.6 allowing enough depth for subject sharpness",
+    "camera_angle": "Straight on, eye level",
+    "lens_type": "Standard prime or zoom",
+    "bokeh_style": "Motion blur (linear) rather than optical bokeh (circular)"
+  }
+}
+```
+---
+
 ## 📌 Why This Exists
 
 - Visual reference for prompt crafting
