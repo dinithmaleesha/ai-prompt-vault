@@ -18,7 +18,7 @@ Built for **inspiration**, **learning**, and **prompt engineering reference**.
 ### 🖼️ Prompt 01
 
 <p align="center">
-  <img src="images/image-01.png" width="120" />
+  <img src="images/image-01.png" width="200" />
 </p>
 
 **Source:** [𝕏](https://x.com/lexx_aura/status/2002324374431617191)
@@ -70,7 +70,7 @@ Built for **inspiration**, **learning**, and **prompt engineering reference**.
 ### 🖼️ Prompt 02
 
 <p align="center">
-  <img src="images/image-02.png" width="120" />
+  <img src="images/image-02.png" width="200" />
 </p>
 
 **Source:** [𝕏](https://x.com/_MehdiSharifi_/status/2002154028214480910)
@@ -229,7 +229,7 @@ Built for **inspiration**, **learning**, and **prompt engineering reference**.
 ### 🖼️ Prompt 03
 
 <p align="center">
-  <img src="images/image-03.png" width="120" />
+  <img src="images/image-03.png" width="200" />
 </p>
 
 **Source:** [𝕏](https://x.com/xmliisu/status/2002008038178533653)
@@ -307,7 +307,7 @@ Built for **inspiration**, **learning**, and **prompt engineering reference**.
 ### 🖼️ Prompt 04
 
 <p align="center">
-  <img src="images/image-04.png" width="120" />
+  <img src="images/image-04.png" width="200" />
 </p>
 
 **Source:** [𝕏](https://x.com/gaucheai/status/2002730119589171270)
@@ -407,7 +407,7 @@ Built for **inspiration**, **learning**, and **prompt engineering reference**.
 ### 🖼️ Prompt 05
 
 <p align="center">
-  <img src="images/image-05.png" width="120" />
+  <img src="images/image-05.png" width="200" />
 </p>
 
 **Source:** [𝕏](https://x.com/NameIsSudee/status/20029153623132242430)
@@ -507,7 +507,7 @@ Built for **inspiration**, **learning**, and **prompt engineering reference**.
 ### 🖼️ Prompt 06
 
 <p align="center">
-  <img src="images/image-06.png" width="120" />
+  <img src="images/image-06.png" width="200" />
 </p>
 
 **Source:** [𝕏](https://x.com/Ankit_patel211/status/2002693515529392324)
@@ -554,7 +554,7 @@ Built for **inspiration**, **learning**, and **prompt engineering reference**.
 ### 🖼️ Prompt 07
 
 <p align="center">
-  <img src="images/image-07.png" width="120" />
+  <img src="images/image-07.png" width="200" />
 </p>
 
 **Source:** [𝕏](https://x.com/zayleeai/status/2002681031279710516)
@@ -601,7 +601,7 @@ Built for **inspiration**, **learning**, and **prompt engineering reference**.
 ### 🖼️ Prompt 08
 
 <p align="center">
-  <img src="images/image-08.png" width="120" />
+  <img src="images/image-08.png" width="200" />
 </p>
 
 **Source:** [𝕏](https://x.com/gaucheai/status/2002387906250608835)
@@ -701,7 +701,7 @@ Built for **inspiration**, **learning**, and **prompt engineering reference**.
 ### 🖼️ Prompt 09
 
 <p align="center">
-  <img src="images/image-09.png" width="120" />
+  <img src="images/image-09.png" width="200" />
 </p>
 
 **Source:** [𝕏](https://x.com/notiiivy/status/2001594863079318015)
@@ -792,7 +792,7 @@ Built for **inspiration**, **learning**, and **prompt engineering reference**.
 ### 🖼️ Prompt 10
 
 <p align="center">
-  <img src="images/image-10.png" width="120" />
+  <img src="images/image-10.png" width="200" />
 </p>
 
 **Source:** [𝕏](https://x.com/bananababydoll/status/2001174017567547659)
@@ -898,7 +898,7 @@ Built for **inspiration**, **learning**, and **prompt engineering reference**.
 ### 🖼️ Prompt 11
 
 <p align="center">
-  <img src="images/image-11.png" width="120" />
+  <img src="images/image-11.png" width="200" />
 </p>
 
 **Source:** [𝕏](https://x.com/sumiturkude007/status/2001011772359332060)
@@ -997,7 +997,7 @@ Built for **inspiration**, **learning**, and **prompt engineering reference**.
 ### 🖼️ Prompt 12
 
 <p align="center">
-  <img src="images/image-12.png" width="120" />
+  <img src="images/image-12.png" width="200" />
 </p>
 
 **Source:** [𝕏](https://x.com/YaseenK7212/status/2001170333697532092)
@@ -1053,7 +1053,7 @@ Built for **inspiration**, **learning**, and **prompt engineering reference**.
 ### 🖼️ Prompt 13
 
 <p align="center">
-  <img src="images/image-13.png" width="120" />
+  <img src="images/image-13.png" width="200" />
 </p>
 
 **Source:** [𝕏](https://x.com/sumiturkude007/status/2000961787513200848)
@@ -1190,7 +1190,7 @@ Built for **inspiration**, **learning**, and **prompt engineering reference**.
 ### 🖼️ Prompt 14
 
 <p align="center">
-  <img src="images/image-14.png" width="120" />
+  <img src="images/image-14.png" width="200" />
 </p>
 
 **Source:** [𝕏](https://x.com/xmiiru_/status/2000782882789265649)
@@ -1276,7 +1276,7 @@ Built for **inspiration**, **learning**, and **prompt engineering reference**.
 ### 🖼️ Prompt 15
 
 <p align="center">
-  <img src="images/image-15.png" width="120" />
+  <img src="images/image-15.png" width="200" />
 </p>
 
 **Source:** [𝕏](https://x.com/siennalovesai/status/2000962698192834814)
@@ -1391,7 +1391,7 @@ Built for **inspiration**, **learning**, and **prompt engineering reference**.
 
 <div align="center">
   <img src="images/image-16a.png" width="135" style="margin-right:10px;" />
-  <img src="images/image-16.png" width="120" />
+  <img src="images/image-16.png" width="200" />
 </div>
 
 **Source:** [𝕏](https://x.com/underwoodxie96/status/2000782356974854439)
@@ -1532,7 +1532,7 @@ Built for **inspiration**, **learning**, and **prompt engineering reference**.
 ### 🖼️ Prompt 17
 
 <p align="center">
-  <img src="images/image-17.png" width="120" />
+  <img src="images/image-17.png" width="200" />
 </p>
 
 **Source:** [𝕏](https://x.com/gaucheai/status/1999476360046092675)
@@ -1772,8 +1772,8 @@ Built for **inspiration**, **learning**, and **prompt engineering reference**.
 ### 🖼️ Prompt 18
 
 <div align="center">
-  <img src="images/image-18.png" width="120" style="margin-right:10px;" />
-  <img src="images/image-18a.png" width="120" />
+  <img src="images/image-18.png" width="200" style="margin-right:10px;" />
+  <img src="images/image-18a.png" width="200" />
 </div>
 
 **Source:** [𝕏](https://x.com/bananababydoll/status/2000513666287120406)
@@ -1871,8 +1871,8 @@ Built for **inspiration**, **learning**, and **prompt engineering reference**.
 ### 🖼️ Prompt 19
 
 <div align="center">
-  <img src="images/image-19.png" width="120" style="margin-right:10px;" />
-  <img src="images/image-19a.png" width="120" />
+  <img src="images/image-19.png" width="200" style="margin-right:10px;" />
+  <img src="images/image-19a.png" width="200" />
 </div>
 
 **Source:** [𝕏](https://x.com/bananababydoll/status/1999841745073283492)
@@ -1976,8 +1976,8 @@ Built for **inspiration**, **learning**, and **prompt engineering reference**.
 ### 🖼️ Prompt 20
 
 <div align="center">
-  <img src="images/image-20.png" width="120" style="margin-right:10px;" />
-  <!-- <img src="images/image-19a.png" width="120" /> -->
+  <img src="images/image-20.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-19a.png" width="200" /> -->
 </div>
 
 **Source:** [𝕏](https://x.com/lexx_aura/status/1999738430331265143)
@@ -2033,8 +2033,8 @@ Built for **inspiration**, **learning**, and **prompt engineering reference**.
 ### 🖼️ Prompt 21
 
 <div align="center">
-  <img src="images/image-21.png" width="120" style="margin-right:10px;" />
-  <!-- <img src="images/image-19a.png" width="120" /> -->
+  <img src="images/image-21.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-19a.png" width="200" /> -->
 </div>
 
 **Source:** [𝕏](https://x.com/Abhiew_/status/1999732863479185723)
@@ -2171,8 +2171,8 @@ Built for **inspiration**, **learning**, and **prompt engineering reference**.
 ### 🖼️ Prompt 22
 
 <div align="center">
-  <img src="images/image-22.png" width="120" style="margin-right:10px;" />
-  <!-- <img src="images/image-19a.png" width="120" /> -->
+  <img src="images/image-22.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-19a.png" width="200" /> -->
 </div>
 
 **Source:** [𝕏](https://x.com/Ankit_patel211/status/1999902279814803894)
@@ -2285,8 +2285,8 @@ Built for **inspiration**, **learning**, and **prompt engineering reference**.
 ### 🖼️ Prompt 23
 
 <div align="center">
-  <img src="images/image-23.png" width="120" style="margin-right:10px;" />
-  <!-- <img src="images/image-19a.png" width="120" /> -->
+  <img src="images/image-23.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-19a.png" width="200" /> -->
 </div>
 
 **Source:** [𝕏](https://x.com/saniaspeaks_/status/1999352638677352886)
@@ -2338,8 +2338,8 @@ Built for **inspiration**, **learning**, and **prompt engineering reference**.
 ### 🖼️ Prompt 24
 
 <div align="center">
-  <img src="images/image-24.png" width="120" style="margin-right:10px;" />
-  <!-- <img src="images/image-19a.png" width="120" /> -->
+  <img src="images/image-24.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-19a.png" width="200" /> -->
 </div>
 
 **Source:** [𝕏](https://x.com/Ankit_patel211/status/1999692033401979212)
@@ -2424,8 +2424,8 @@ Built for **inspiration**, **learning**, and **prompt engineering reference**.
 ### 🖼️ Prompt 25
 
 <div align="center">
-  <img src="images/image-25.png" width="120" style="margin-right:10px;" />
-  <!-- <img src="images/image-19a.png" width="120" /> -->
+  <img src="images/image-25.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-19a.png" width="200" /> -->
 </div>
 
 **Source:** [𝕏](https://x.com/_MehdiSharifi_/status/1999618438143021392)
@@ -2528,8 +2528,8 @@ Built for **inspiration**, **learning**, and **prompt engineering reference**.
 ### 🖼️ Prompt 26
 
 <div align="center">
-  <img src="images/image-26.png" width="120" style="margin-right:10px;" />
-  <!-- <img src="images/image-19a.png" width="120" /> -->
+  <img src="images/image-26.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-19a.png" width="200" /> -->
 </div>
 
 **Source:** [𝕏](https://x.com/xmliisu/status/1999586803473359156)
@@ -2646,8 +2646,8 @@ Built for **inspiration**, **learning**, and **prompt engineering reference**.
 ### 🖼️ Prompt 27
 
 <div align="center">
-  <img src="images/image-27.png" width="120" style="margin-right:10px;" />
-  <img src="images/image-27a.png" width="120" />
+  <img src="images/image-27.png" width="200" style="margin-right:10px;" />
+  <img src="images/image-27a.png" width="200" />
 </div>
 
 **Source:** [𝕏](https://x.com/Strength04_X/status/1999824621638758436)
@@ -2783,8 +2783,8 @@ Built for **inspiration**, **learning**, and **prompt engineering reference**.
 ### 🖼️ Prompt 28
 
 <div align="center">
-  <img src="images/image-28.png" width="120" style="margin-right:10px;" />
-  <img src="images/image-28a.png" width="120" />
+  <img src="images/image-28.png" width="200" style="margin-right:10px;" />
+  <img src="images/image-28a.png" width="200" />
 </div>
 
 **Source:** [𝕏](https://x.com/bananababydoll/status/1999524658488746041)
@@ -2912,8 +2912,8 @@ Built for **inspiration**, **learning**, and **prompt engineering reference**.
 ### 🖼️ Prompt 29
 
 <div align="center">
-  <img src="images/image-29.png" width="120" style="margin-right:10px;" />
-  <img src="images/image-29a.png" width="120" />
+  <img src="images/image-29.png" width="200" style="margin-right:10px;" />
+  <img src="images/image-29a.png" width="200" />
 </div>
 
 **Source:** [𝕏](https://x.com/Arminn_Ai/status/1999784969363681297)
@@ -2969,8 +2969,8 @@ Built for **inspiration**, **learning**, and **prompt engineering reference**.
 ### 🖼️ Prompt 30
 
 <div align="center">
-  <img src="images/image-30.png" width="120" style="margin-right:10px;" />
-  <!-- <img src="images/image-29a.png" width="120" /> -->
+  <img src="images/image-30.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-29a.png" width="200" /> -->
 </div>
 
 **Source:** [𝕏](https://x.com/xmliisu/status/1999748703955951681)
@@ -2986,6 +2986,469 @@ Built for **inspiration**, **learning**, and **prompt engineering reference**.
       "face_reference_strength": 1.0,
       "style": "photorealistic"
     }
+  }
+}
+```
+---
+
+### 🖼️ Prompt 31
+
+<div align="center">
+  <img src="images/image-31.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-29a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/xmliisu/status/1999473773028721059)
+
+```json
+{
+  "generation_request": {
+    "meta_data": {
+      "task": "text_to_image_with_reference",
+      "version": "2.0_structured"
+    },
+    "technical_constraints": {
+      "output_format": {
+        "aspect_ratio": "3:4",
+        "orientation": "portrait"
+      },
+      "reference_image_compliance": {
+        "enabled": true,
+        "mode": "strict_visual_match",
+        "instruction_text": "Picture should be same as reference uploaded."
+      }
+    },
+    "creative_detailed_prompt": {
+      "core_concept": "Realistic smartphone mirror selfie in a bedroom.",
+      "subject_profile": {
+        "demographics": {
+          "gender": "female",
+          "age_group": "young_adult"
+        },
+        "physical_appearance": {
+          "hair_specs": {
+            "color": "silver/grey ",
+            "texture": "normal, voluminous",
+            "style": "long beautiful looking hair falling over shoulders"
+            "length": "long"
+          },
+          "skin_specs": {
+            "tone": "pale",
+            "distinctive_features": "visible natural freckles on face and chest"
+          },
+          "body_shape": "slender, fit physique",
+          "face_specs": {
+            "expression": "neutral",
+            "gaze_direction": "soft gaze looking into mirror"
+          }
+        },
+        "action": {
+          "pose": "standing facing mirror",
+          "activity": "holding smartphone to take photo"
+        },
+        "attire": {
+          "vibe": "beachwear / lounge style",
+          "garments": {
+            "top": {
+              "type": "triangle bikini top",
+              "color": "cream-colored",
+              "details": "ruffled edges"
+            },
+            "bottom": {
+              "type": "sheer sarong/wrap skirt",
+              "color": "cream-colored matching top",
+              "details": "tied at hip with ruffles"
+            }
+          }
+        }
+      },
+      "scene_environment": {
+        "location_type": "bedroom interior",
+        "atmosphere_mood": "soft domestic",
+        "key_props": [
+          "unmade bed (messy white sheets and pillows)",
+          "wooden headboard",
+          "mirror frame (visible on side)"
+        ],
+        "lighting_setup": {
+          "primary_source": {
+            "type": "natural daylight",
+            "origin": "window behind subject with sheer curtains"
+          },
+          "accent_source": {
+            "type": "LED ambient light strip",
+            "color": "purple",
+            "intensity": "subtle",
+            "location": "on wall"
+          }
+        }
+      },
+      "photography_specs": {
+        "camera_type": "smartphone",
+        "shot_category": "mirror reflection selfie",
+        "aesthetic_genre": ["amateur photography", "influencer aesthetic", "candid"],
+        "technical_quality": {
+          "resolution_target": "8K",
+          "focus_priority": "sharp on subject",
+          "rendering_style": "photorealistic",
+          "texture_emphasis": "natural skin"
+        }
+      }
+    },
+    "negative_constraints_list": [
+      "makeup",
+      "heavy photoshop",
+      "smooth skin",
+      "cartoon",
+      "illustration",
+      "anime",
+      "3d render",
+      "distorted hands",
+      "bad anatomy",
+      "missing fingers",
+      "extra limbs",
+      "blurry",
+      "low quality",
+      "dark room"
+    ]
+  }
+}
+```
+---
+
+### 🖼️ Prompt 32
+
+<div align="center">
+  <img src="images/image-32.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-29a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/YaseenK7212/status/1999348160926195949)
+
+```json
+{
+  "generation_request": {
+    "meta_data": {
+      "task": "text_to_image_with_reference",
+      "version": "2.0_structured"
+    },
+    "technical_constraints": {
+      "output_format": {
+        "aspect_ratio": "9:16",
+        "orientation": "portrait"
+      },
+      "reference_image_compliance": {
+        "enabled": true,
+        "mode": "strict_visual_match",
+        "instruction_text": "Picture should be same as reference uploaded."
+      }
+    },
+    "creative_detailed_prompt": {
+      "core_concept": "Realistic smartphone mirror selfie in a bedroom.",
+      "subject_profile": {
+        "demographics": {
+          "gender": "female",
+          "age_group": "young_adult"
+        },
+        "physical_appearance": {
+          "hair_specs": {
+            "color": "silver/grey ",
+            "texture": "normal, voluminous",
+            "style": "long beautiful looking hair falling over shoulders"
+            "length": "long"
+          },
+          "skin_specs": {
+            "tone": "pale",
+            "distinctive_features": "visible natural freckles on face and chest"
+          },
+          "body_shape": "slender, fit physique",
+          "face_specs": {
+            "expression": "neutral",
+            "gaze_direction": "soft gaze looking into mirror"
+          }
+        },
+        "action": {
+          "pose": "standing facing mirror",
+          "activity": "holding smartphone to take photo"
+        },
+        "attire": {
+          "vibe": "beachwear / lounge style",
+          "garments": {
+            "top": {
+              "type": "triangle bikini top",
+              "color": "cream-colored",
+              "details": "ruffled edges"
+            },
+            "bottom": {
+              "type": "sheer sarong/wrap skirt",
+              "color": "cream-colored matching top",
+              "details": "tied at hip with ruffles"
+            }
+          }
+        }
+      },
+      "scene_environment": {
+        "location_type": "bedroom interior",
+        "atmosphere_mood": "soft domestic",
+        "key_props": [
+          "unmade bed (messy white sheets and pillows)",
+          "wooden headboard",
+          "mirror frame (visible on side)"
+        ],
+        "lighting_setup": {
+          "primary_source": {
+            "type": "natural daylight",
+            "origin": "window behind subject with sheer curtains"
+          },
+          "accent_source": {
+            "type": "LED ambient light strip",
+            "color": "purple",
+            "intensity": "subtle",
+            "location": "on wall"
+          }
+        }
+      },
+      "photography_specs": {
+        "camera_type": "smartphone",
+        "shot_category": "mirror reflection selfie",
+        "aesthetic_genre": ["amateur photography", "influencer aesthetic", "candid"],
+        "technical_quality": {
+          "resolution_target": "8K",
+          "focus_priority": "sharp on subject",
+          "rendering_style": "photorealistic",
+          "texture_emphasis": "natural skin"
+        }
+      }
+    },
+    "negative_constraints_list": [
+      "makeup",
+      "heavy photoshop",
+      "smooth skin",
+      "cartoon",
+      "illustration",
+      "anime",
+      "3d render",
+      "distorted hands",
+      "bad anatomy",
+      "missing fingers",
+      "extra limbs",
+      "blurry",
+      "low quality",
+      "dark room"
+    ]
+  }
+}
+```
+---
+
+### 🖼️ Prompt 33
+
+<div align="center">
+  <img src="images/image-33.png" width="200" style="margin-right:10px;" />
+  <img src="images/image-33a.png" width="200" />
+</div>
+
+**Source:** [𝕏](https://x.com/Strength04_X/status/1999461110739796225)
+
+```json
+{
+  "image_prompt": {
+    "subject": {
+      "demographics": "Stunningly beautiful young woman",
+      "skin_tone": "Sun-kissed complexion with realistic skin texture and scattered freckles on nose and cheeks",
+      "hair": "Long, wavy brown hair, partially covered by a patterned silk headscarf (bandana style)",
+      "eyes": "Captivating Hazel/Green (one eye open with sharp iris detail)",
+      "facial_structure": "Symmetrical, aesthetic facial features with a radiant glow"
+    },
+    "attire": {
+      "clothing": "Black bikini top with white polka dots",
+      "jewelry": "Delicate layered gold chain necklaces, stacked bracelets on the right wrist"
+    },
+    "expression_and_pose": {
+      "facial_expression": "Playful, alluring, and cheeky; winking with right eye, tongue slightly sticking out to the side, bright smile showing teeth",
+      "hand_position": "Right hand resting gracefully on top of the head/headscarf",
+      "framing": "Close-up selfie portrait, arm visible holding the device",
+      "angle": "Eye-level selfie angle"
+    },
+    "environment": {
+      "setting": "Tropical coastal alcove",
+      "background": "Textured limestone rock face or tree bark with dappled shadows and hints of tropical foliage",
+      "lighting": "Bright, soft natural daylight, handled by Smart HDR for balanced exposure"
+    },
+    "technical_specifications": {
+      "format": "Screen capture simulation",
+      "ui_overlay": "iPhone Camera Interface (Shutter button, Zoom dial, 48MP ProRAW indicator, Flash icon, Mode selector set to PHOTO)",
+      "device": "iPhone 17 Pro Max emulation",
+      "lens": "TrueDepth Selfie Camera, f/1.9",
+      "quality_tags": [
+        "Photorealistic",
+        "Deep Fusion clarity",
+        "8K resolution",
+        "Influencer aesthetic",
+        "Perfect composition"
+      ]
+    }
+  }
+}
+```
+---
+
+### 🖼️ Prompt 34
+
+<div align="center">
+  <img src="images/image-34.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-33a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/lexx_aura/status/1998791996144824455)
+
+```json
+{
+  "image_prompt": {
+    "subject": {
+      "demographics": "Young woman",
+      "skin_tone": "White skin with prominent freckles on nose and cheeks, rendered with Deep Fusion texture accuracy",
+      "hair": "Long, wavy brown hair",
+      "eyes": "Green/Hazel (one eye open), sharp focus showing iris detail",
+      "eyebrows": "Thick, natural, dark eyebrows"
+    },
+    "attire": {
+      "clothing": "Black bikini top with white polka dots",
+      "jewelry": "Delicate layered gold chain necklace"
+    },
+    "expression_and_pose": {
+      "facial_expression": "Playful and cheeky; winking with right eye (viewer's left), tongue slightly sticking out to the side, smiling with teeth visible",
+      "hand_position": "Right hand resting on top of the head/headscarf",
+      "framing": "Close-up selfie portrait, arm visible holding the device",
+      "angle": "Eye-level selfie angle"
+    },
+    "environment": {
+      "setting": "Outdoor tropical or coastal location",
+      "background": "Textured tree bark or rock face with hints of green tropical foliage, exhibiting natural bokeh",
+      "lighting": "Bright natural daylight, dappled sunlight, handled by Smart HDR 5 for balanced highlights and shadows"
+    },
+    "technical_specifications": {
+      "device": "iPhone 17 Pro Max",
+      "camera": "TrueDepth Front Camera (or 48MP Fusion System style)",
+      "lens_details": "24mm equivalent, f/1.9 aperture",
+      "resolution": "48MP ProRAW / HEIF Max",
+      "processing": "Photonic Engine, Deep Fusion, Smart HDR 6",
+      "color_profile": "Standard Photographic Style with high dynamic range",
+      "quality_tags": [
+        "Ultra-fine facial detail",
+        "Natural skin texture",
+        "Sharp focus",
+        "8K resolution",
+        "Mobile photography masterpiece",
+        "Shot on iPhone"
+      ]
+    }
+  }
+}
+```
+---
+
+### 🖼️ Prompt 35
+
+<div align="center">
+  <img src="images/image-35.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-33a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/YaseenK7212/status/1998803841756836081)
+
+```json
+{
+  "generation_request": {
+    "meta": {
+      "target_resolution": "8K",
+      "aspect_ratio": "9:16",
+      "reference_image_mode": "strict_consistency",
+      "style_preset": "ultra_realistic_photography"
+    },
+    "subject": {
+      "identity": {
+        "source": "reference_photo",
+        "constraints": {
+          "facial_features": "100% identical",
+          "proportions": "fully preserved",
+          "expression": "fully preserved"
+        }
+      },
+      "pose": {
+        "type": "sitting",
+        "vibe": "comfortable, relaxed, natural",
+        "interaction": {
+          "object": "glass of white milk OR piece of bread",
+          "hand_placement": "holding object gently"
+        }
+      }
+    },
+    "apparel": {
+      "item_name": "Bunny Onesie",
+      "material_properties": {
+        "fabric_type": "plush fleece",
+        "color_primary": "grey",
+        "color_secondary": "cream",
+        "tactile_quality": ["thick", "soft", "highly textured"],
+        "micro_detail": "visible fine fibers"
+      },
+      "construction_details": {
+        "hood": {
+          "theme": "bunny",
+          "embroidery": {
+            "features": ["large eyes", "small nose", "soft expression lines"],
+            "style": "cartoon"
+          }
+        },
+        "ears": {
+          "structure": "upright",
+          "curvature": "natural gentle curve",
+          "texture": "realistic fine fur"
+        },
+        "torso": {
+          "panel_type": "chest panel",
+          "color": "cream",
+          "texture_variance": "smoother fleece"
+        },
+        "sleeves_and_pants": {
+          "fit": "oversized",
+          "volume": ["padded", "puffy", "cozy"],
+          "drape": "natural folds"
+        }
+      }
+    },
+    "environment": {
+      "location": "living room",
+      "interior_style": "minimalist",
+      "furniture": "minimalist aesthetic sofa",
+      "atmosphere": {
+        "tone": "warm",
+        "depth": "shallow depth of field",
+        "visual_effect": "gentle bokeh"
+      }
+    },
+    "lighting_simulation": {
+      "type": "soft diffused HDR",
+      "direction": "even illumination",
+      "target_areas": ["face", "skin", "fabric"],
+      "rendering_qualities": {
+        "highlights": "clean",
+        "texture_reproduction": "extremely clear micro-texture"
+      }
+    },
+    "camera_telemetry": {
+      "focal_length": "85mm",
+      "aperture": "f/1.4",
+      "shot_size": "medium close-up",
+      "sensor_quality": [
+        "high dynamic range (HDR)",
+        "accurate color",
+        "extremely low noise",
+        "ultra-sharp detail"
+      ]
+    },
+    "compiled_prompt": "Ultra-realistic 8K medium close-up portrait of the SAME person from the reference photo (face 100% identical). The subject sits comfortably on a minimalist aesthetic sofa, holding a glass of white milk or a piece of bread, in a relaxed natural pose. Subject is wearing a plush grey fleece bunny onesie that appears thick, soft, and highly textured. Outfit details: Bunny-themed hood with neatly embroidered cartoon facial features, long bunny ears standing upright with a natural gentle curve, cream-colored chest panel in smoother fleece, oversized padded sleeves with puffy cozy volume and natural folds. Visible fine fibers of the plush material enhanced by soft diffused HDR lighting. Background: Warm-toned minimalist living room interior with shallow depth of field and gentle bokeh. 85mm f/1.4, accurate color, extremely low noise, ultra-sharp detail --ar 9:16"
   }
 }
 ```
