@@ -3693,6 +3693,850 @@ Built for **inspiration**, **learning**, and **prompt engineering reference**.
 ```
 ---
 
+### 🖼️ Prompt 41
+
+<div align="center">
+  <img src="images/image-41.png" width="200" style="margin-right:10px;" />
+  <img src="images/image-41a.png" width="200" />
+</div>
+
+**Source:** [𝕏](https://x.com/bananababydoll/status/1999434067109117966)
+
+```json
+{
+  "scene_type": "gym locker room after intense workout, dim warm lighting, sweaty atmosphere, mirrors everywhere",
+
+  "camera_perspective": {
+    "pov": "we ARE her phone",
+    "angle": "low-to-mid mirror selfie angle, capturing pumped chest + abs + thighs",
+    "phone_visibility": "visible in mirror reflection, held close to face"
+  },
+
+  "subject": {
+    "ethnicity": "Arabic–European mixed",
+    "age": "24",
+
+    "expression": {
+      "eyes": "heavy-lidded, flushed, confident, a little out of breath",
+      "mouth": "slightly open like she’s catching her breath, glossy lips",
+      "vibe": "freshly pumped, sweaty, dangerous gym-babe energy"
+    },
+
+    "hair": {
+      "color": "jet black",
+      "style": "high messy ponytail, strands stuck to her temples from sweat",
+      "shine": "wet sweat sheen + overhead gym light catching tips"
+    },
+
+    "body": {
+      "type": "toned gym body, full chest, thick thighs, tight stomach, small waist",
+      "skin": "golden olive tone, sweat droplets visible, real texture"
+    },
+
+    "outfit": {
+      "top": {
+        "type": "ultra tiny gym crop top",
+        "fit": "NO bra, fabric soaked with sweat, nipples pressing clearly",
+        "details": "thin straps sliding off shoulder, barely holding shape"
+      },
+      "bottom": {
+        "type": "micro gym shorts",
+        "fit": "vacuum-tight, ultra stretched, riding up into thighs",
+        "waist": "mid-rise but rolled down to show lower abs"
+      },
+      "legs": {
+        "details": "thighs glistening, pump veins subtle but visible"
+      }
+    },
+
+    "pose": {
+      "stance": "hip popped, legs slightly apart, lower back arched",
+      "arms": {
+        "phone_hand": "holding phone up at chest height",
+        "other_hand": "lifting crop-top slightly to show sweaty abs"
+      },
+      "extra_energy": "her chest looks swollen from pump, body flushed"
+    }
+  },
+
+  "environment": {
+    "location": "gym locker room",
+    "details": [
+      "dumbbells on bench behind her",
+      "blurry lockers",
+      "mirror smudges",
+      "water bottle on floor"
+    ],
+    "lighting": "warm yellow gym lighting + harsh overhead highlights, strong sweat shine"
+  },
+
+  "camera": {
+    "quality": "hyperrealistic, slightly grainy gym lighting, visible pores, sweat texture",
+    "framing": "face upper third, chest middle, thighs bottom",
+    "aspect_ratio": "9:16"
+  }
+}
+```
+---
+
+### 🖼️ Prompt 42
+
+<div align="center">
+  <img src="images/image-42.png" width="200" style="margin-right:10px;" />
+  <img src="images/image-42a.png" width="200" />
+</div>
+
+**Source:** [𝕏](https://x.com/youngcatwoman/status/1999478246866366970)
+
+```json
+{
+  "scene_type": "gym locker room after intense workout, dim warm lighting, sweaty atmosphere, mirrors everywhere",
+
+  "camera_perspective": {
+    "pov": "we ARE her phone",
+    "angle": "low-to-mid mirror selfie angle, capturing pumped chest + abs + thighs",
+    "phone_visibility": "visible in mirror reflection, held close to face"
+  },
+
+  "subject": {
+    "ethnicity": "Korean",
+    "age": "24",
+
+    "expression": {
+      "eyes": "heavy-lidded, flushed, confident, a little out of breath",
+      "mouth": "slightly open like she’s catching her breath, glossy lips",
+      "vibe": "freshly pumped, sweaty, dangerous gym-babe energy"
+    },
+
+    "hair": {
+      "color": "silver",
+      "style": "high messy ponytail, strands stuck to her temples from sweat",
+      "shine": "wet sweat sheen + overhead gym light catching tips"
+    },
+
+    "body": {
+      "type": "toned gym body, full chest, thick thighs, tight stomach, small waist",
+      "skin": "golden olive tone, sweat droplets visible, real texture"
+    },
+
+    "outfit": {
+      "top": {
+        "type": "ultra tiny latex gym crop top",
+        "fit": "NO bra, fabric coated with sweat, nipples pressing clearly",
+        "details": "thin straps sliding off shoulder, barely holding shape"
+      },
+      "bottom": {
+        "type": "micro latex gym shorts",
+        "fit": "vacuum-tight, ultra stretched, riding up into thighs",
+        "waist": "mid-rise but rolled down to show lower abs"
+      },
+      "legs": {
+        "details": "thighs glistening, pump veins subtle but visible"
+      }
+    },
+
+    "pose": {
+      "stance": "hip popped, legs slightly apart, lower back arched",
+      "arms": {
+        "phone_hand": "holding phone up at chest height",
+        "other_hand": "lifting crop-top slightly to show sweaty abs"
+      },
+      "extra_energy": "her chest looks swollen from pump, body flushed"
+    }
+  },
+
+  "environment": {
+    "location": "gym locker room",
+    "details": [
+      "dumbbells on bench behind her",
+      "blurry lockers",
+      "mirror smudges",
+      "water bottle on floor"
+    ],
+    "lighting": "warm yellow gym lighting + harsh overhead highlights, strong sweat shine"
+  },
+
+  "camera": {
+    "quality": "hyperrealistic, slightly grainy gym lighting, visible pores, sweat texture",
+    "framing": "face upper third, chest middle, thighs bottom",
+    "aspect_ratio": "9:16"
+  }
+}
+```
+---
+
+### 🖼️ Prompt 43
+
+<div align="center">
+  <img src="images/image-43.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-42a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/KeorUnreal/status/1999228034084114506)
+
+```json
+{
+  "project_settings": {
+    "project_name": "Gym Mirror Selfie Series",
+    "version": "4.0.0-granular",
+    "target_model": "Stable Diffusion / Midjourney v6"
+  },
+  "generation_parameters": {
+    "face_preservation": {
+      "enabled": true,
+      "method": "Reference ControlNet / IP-Adapter",
+      "strictness_level": "High",
+      "protected_features": [
+        "facial_structure",
+        "eyebrow_shape",
+        "makeup_style",
+        "lip_morphology",
+        "hairline_fidelity"
+      ]
+    },
+    "technical_specs": {
+      "aspect_ratio": "4:5",
+      "resolution": "8K",
+      "orientation": "Portrait"
+    }
+  },
+  "scene_composition": {
+    "subject": {
+      "demographics": {
+        "gender": "Female",
+        "age_group": "Young Adult"
+      },
+      "pose_definition": {
+        "stance": "Squatting low",
+        "leg_position": "One knee forward",
+        "torso_orientation": "Leaning slightly toward mirror",
+        "head_tilt": "Downward (approx 15 degrees)",
+        "gaze": "Focused on phone screen",
+        "hand_placement": {
+          "right_hand": "Holding phone in front of face",
+          "left_hand": "Resting on knee"
+        }
+      },
+      "grooming": {
+        "hair": {
+          "color": "Curly blonde",
+          "length": "Short",
+          "style": "Half-up ponytail",
+          "texture": "Smooth, Straight",
+          "accessory": "Small clip"
+        },
+        "makeup": {
+          "style": "Natural",
+          "finish": "Soft matte"
+        },
+        "nails": {
+          "color": "Black",
+          "finish": "Glossy"
+        }
+      },
+      "wardrobe": {
+        "upper_body": {
+          "item": "Sports Bra",
+          "color": "Off-yellow",
+          "fit": "Tight, form-fitting",
+          "material_properties": "Slight sheen, synthetic"
+        },
+        "lower_body": {
+          "item": "Leggings pants",
+          "color": "White",
+          "fit": "Loose, relaxed",
+          "waist_style": "High-waisted"
+        },
+        "footwear": {
+          "item": "Sneakers",
+          "color": "Red",
+          "style": "Chunky/Sporty"
+        },
+        "jewelry": [
+          { "type": "Necklace", "material": "Silver" },
+          { "type": "Bracelet", "material": "Silver" },
+          { "type": "Rings", "material": "Silver" }
+        ]
+      }
+    },
+    "props": {
+      "primary_device": {
+        "type": "Apple Smartphone",
+        "case_texture": "Glitter",
+        "case_color": "Silver",
+        "holding_angle": "Vertical"
+      }
+    },
+    "environment": {
+      "location_type": "Indoor Gym",
+      "architecture": {
+        "walls": "Full-height mirrors",
+        "flooring": "Wood-textured gym floor"
+      },
+      "background_elements": [
+        "Chest press machine",
+        "Blurred gym equipment"
+      ]
+    },
+    "lighting_and_atmosphere": {
+      "primary_source": "Soft overhead LED",
+      "ambient_tone": "Warm accents",
+      "shadows": "Soft, diffuse",
+      "mood": ["Feminine", "Elegant", "Gentle"]
+    },
+    "stylistic_approach": {
+      "genre": "Social Media Mirror Selfie",
+      "visual_clarity": "Medium-High sharpness",
+      "color_grading": "Soft warm tones (Cream/Brown palette)"
+    }
+  },
+  "negative_constraints": [
+    "deformed fingers",
+    "wrong face structure",
+    "extra limbs",
+    "text",
+    "watermark",
+    "candy bars",
+    "distorted reflection",
+    "over-saturated colors"
+  ]
+}
+```
+---
+
+### 🖼️ Prompt 44
+
+<div align="center">
+  <img src="images/image-44.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-42a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/YaseenK7212/status/1999042753250955381)
+
+```json
+{
+  "project_settings": {
+    "project_name": "Gym Mirror Selfie Series",
+    "version": "4.0.0-granular",
+    "target_model": "Stable Diffusion / Midjourney v6"
+  },
+  "generation_parameters": {
+    "face_preservation": {
+      "enabled": true,
+      "method": "Reference ControlNet / IP-Adapter",
+      "strictness_level": "High",
+      "protected_features": [
+        "facial_structure",
+        "eyebrow_shape",
+        "makeup_style",
+        "lip_morphology",
+        "hairline_fidelity"
+      ]
+    },
+    "technical_specs": {
+      "aspect_ratio": "4:5",
+      "resolution": "8K",
+      "orientation": "Portrait"
+    }
+  },
+  "scene_composition": {
+    "subject": {
+      "demographics": {
+        "gender": "Female",
+        "age_group": "Young Adult"
+      },
+      "pose_definition": {
+        "stance": "Squatting low",
+        "leg_position": "One knee forward",
+        "torso_orientation": "Leaning slightly toward mirror",
+        "head_tilt": "Downward (approx 15 degrees)",
+        "gaze": "Focused on phone screen",
+        "hand_placement": {
+          "right_hand": "Holding phone in front of face",
+          "left_hand": "Resting on knee"
+        }
+      },
+      "grooming": {
+        "hair": {
+          "color": "Dark Brown",
+          "length": "Long",
+          "style": "Half-up ponytail",
+          "texture": "Smooth, Straight",
+          "accessory": "Small clip"
+        },
+        "makeup": {
+          "style": "Natural",
+          "finish": "Soft matte"
+        },
+        "nails": {
+          "color": "Black",
+          "finish": "Glossy"
+        }
+      },
+      "wardrobe": {
+        "upper_body": {
+          "item": "Sports Bra",
+          "color": "Off-white",
+          "fit": "Tight, form-fitting",
+          "material_properties": "Slight sheen, synthetic"
+        },
+        "lower_body": {
+          "item": "Sweatpants",
+          "color": "Dark Brown",
+          "fit": "Loose, relaxed",
+          "waist_style": "High-waisted"
+        },
+        "footwear": {
+          "item": "Sneakers",
+          "color": "White",
+          "style": "Chunky/Sporty"
+        },
+        "jewelry": [
+          { "type": "Necklace", "material": "Silver" },
+          { "type": "Bracelet", "material": "Silver" },
+          { "type": "Rings", "material": "Silver" }
+        ]
+      }
+    },
+    "props": {
+      "primary_device": {
+        "type": "Smartphone",
+        "case_texture": "Glitter",
+        "case_color": "Silver",
+        "holding_angle": "Vertical"
+      }
+    },
+    "environment": {
+      "location_type": "Indoor Gym",
+      "architecture": {
+        "walls": "Full-height mirrors",
+        "flooring": "Wood-textured gym floor"
+      },
+      "background_elements": [
+        "Chest press machine",
+        "Blurred gym equipment"
+      ]
+    },
+    "lighting_and_atmosphere": {
+      "primary_source": "Soft overhead LED",
+      "ambient_tone": "Warm accents",
+      "shadows": "Soft, diffuse",
+      "mood": ["Feminine", "Elegant", "Gentle"]
+    },
+    "stylistic_approach": {
+      "genre": "Social Media Mirror Selfie",
+      "visual_clarity": "Medium-High sharpness",
+      "color_grading": "Soft warm tones (Cream/Brown palette)"
+    }
+  },
+  "negative_constraints": [
+    "deformed fingers",
+    "wrong face structure",
+    "extra limbs",
+    "text",
+    "watermark",
+    "candy bars",
+    "distorted reflection",
+    "over-saturated colors"
+  ]
+}
+```
+---
+
+### 🖼️ Prompt 45
+
+<div align="center">
+  <img src="images/image-45.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-42a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/catcatherinai/status/1998739703529361672)
+
+```json
+{
+  "technical_metadata": {
+    "exact_aspect_ratio": "1:1 (1000x1000 pixels detected)",
+    "lens_focal_length_est": "35mm - 50mm (Moderate wide angle; slight perspective distortion on femoral regions relative to cranial regions)",
+    "image_artifacts": "Film grain simulation (uniform distribution, moderate intensity), Chromatic aberration (negligible), Flash halo (slight bloom on high-specular areas)",
+    "resolution_and_bit_depth": "1000x1000, 24-bit RGB, sRGB profile estimated",
+    "capture_metadata_est": "Shutter: 1/125s (sync speed), Aperture: f/8-f/11 (deep DoF, sharp focus on both subjects), ISO: 400 (grain structure), Lighting: Direct on-camera or slightly off-axis strobe"
+  },
+  "subject_grid_analysis": {
+    "dermatological_audit": {
+      "skin_topography": "Specular highlights prominent on patella (knees), anterior tibia (shins), and upper sternal region, indicating application of body oil or high-lipid moisturizer. Texture smoothness: High. Pore visibility: Low (due to lighting intensity).",
+      "imperfection_coordinates": [
+        "[LOCATE: Tan line visible on right hip/iliac crest region, delta E color shift ~15% lighter]",
+        "[LOCATE: Minor skin fold/crease at right axilla (armpit) due to arm adduction]",
+        "[LOCATE: Metacarpal vein visibility on left hand: Low]"
+      ],
+      "complexion_inhomogeneity": "Uniform tones with flash washout on facial T-zone. Gradient darkening towards lower limbs due to light falloff.",
+      "facial_hair_details": "None visible. Eyebrows: Groomed, high arch, dark pigment.",
+      "makeup_application": "Lipstick: Nude/matte tone. Contour: Visible on zygomatic arch (cheekbones) and nose bridge."
+    },
+    "morphological_asymmetry": {
+      "eyes": "Partially obscured by head tilt/angle. Gaze direction: Downward/neutral.",
+      "mouth": "Lips slightly parted (~2mm separation). Philtrum depth: Moderate.",
+      "posture_tilt": "Subject 1 (Human): Squatting position (Malasana variation). Spine verticality: upright. Head yaw: -15 degrees (slight left turn). Subject 2 (Canine): Sitting erect. Head yaw: +70 degrees (looking right).",
+      "nose_and_ears": "Human Nose: Straight bridge. Human Ears: Obscured by hair/earrings. Canine Ears: Cropped, erect, high alertness tension.",
+      "facial_contours": "Jawline: Sharp definition. Chin: Tapered."
+    },
+    "hair_strand_topology": {
+      "parting_line": "Not visible (pulled back).",
+      "rebel_strands": "Minimal. High-tension ponytail styling. Hairline: Smooth, tight adhesion.",
+      "volume_distribution": "Compressed at cranial crown, gathered posteriorly.",
+      "styling_products": "High-hold gel/hairspray indicated by lack of flyaways and specular shine on roots."
+    },
+    "body_proportions": {
+      "pose_specifics": "Deep squat. Femur-tibia angle: <45 degrees. Arms extended between knees. Hands clasped (interlaced fingers) near geometric center of base.",
+      "canine_morphology": "Breed: Doberman Pinscher. Muscle tone: High definition in pectoral and brachial regions. Coat: Short, smooth, black/tan markings."
+    }
+  },
+  "fabric_physics_and_tension": {
+    "garment_1_top": {
+      "identification": "One-piece swimsuit/bodysuit. Color: Matte Black.",
+      "contact_points": "High-tension contact at shoulders and inguinal region.",
+      "tension_map": "Vertical tension from shoulder strap to groin. Lateral tension minimal.",
+      "gravity_drape": "Fabric adheres strictly to body contours due to elasticity (likely Spandex/Elastane blend). No loose draping.",
+      "texture_wear": "Pristine. Light absorption: High (Matte finish)."
+    },
+    "garment_2_bottom": {
+      "identification": "Platform sandal heels. Material: Black suede or matte leather.",
+      "deformation": "Ankle strap tension visible on right leg. Toe strap compression on metatarsals.",
+      "fasteners": "Buckle closure on lateral ankles (silver tone)."
+    },
+    "accessories": {
+      "jewelry": "Earrings: Large gold-tone pendant, geometric 'Greek Key' or maze motif. Reflectance: Specular metallic. Canine Collar: Metal prong/pinch collar (chrome finish) + Leather leash loop.",
+      "other": "None."
+    }
+  },
+  "spatial_relationships_and_depth": {
+    "layering_z_depth": [
+      "[Foreground: Canine subject (slightly anterior to human)]",
+      "[Mid-ground: Human subject]",
+      "[Background: White wall (approx 0.5 - 1.0 meters behind subjects)]"
+    ],
+    "occlusion_map": "Canine torso occludes view of human's right lower leg/foot. Human's arm occludes mid-torso.",
+    "perspective_and_scale": "Camera height: Eye-level with crouching subject (approx 0.8m from ground). Canine head height approx equal to Human shoulder height in this pose.",
+    "composition_rules": "Subjects centered horizontally. Asymmetrical balance (Mass of dog on left vs. spread of human limbs on right)."
+  },
+  "environmental_inventory": {
+    "object_manifest": [
+      "[ITEM 1: Human Female, Crouching, Center-Right]",
+      "[ITEM 2: Doberman Dog, Sitting, Center-Left]",
+      "[ITEM 3: Leash, Leather, hanging loosely from dog collar]"
+    ],
+    "surface_details": "Floor: Light colored, smooth (studio concrete or vinyl). Wall: Plain white, featureless.",
+    "lighting_vectors": {
+      "primary_source": "Hard flash. Azimuth: ~0-5 degrees (frontal). Elevation: ~0 degrees (on-axis).",
+      "shadow_fall": "Sharp, distinct shadows cast directly behind subjects on the white wall. Shadow density: High. Penumbra: Minimal.",
+      "reflections": "High specularity on canine coat (black areas) and human skin (knees, chest)."
+    },
+    "atmospheric_conditions": "Studio environment. Clear, dry.",
+    "acoustic_hints": "Likely high reverb due to hard surfaces."
+  },
+  "chromatic_palette": {
+    "dominant_colors": [
+      "#101010 (Black - Suit/Dog coat)",
+      "#C8A486 (Tan - Dog markings)",
+      "#BFA38F (Skin Tone - Midtones)",
+      "#F0F0F0 (Background - Wall/Floor)"
+    ],
+    "color_grading": "High contrast. Saturation: Low-to-Moderate. Warm undertones in skin and dog markings contrasted with cool neutral background.",
+    "gradient_maps": "Vignetting: Slight darkening at image corners.",
+    "color_aberrations": "None detected."
+  },
+  "pixel_level_reconstruction_guidelines": {
+    "grid_division": "4x4 Grid. Top-Left: Dog Head/Ears. Top-Right: Human Head/Torso. Bottom-Left: Dog Legs/Paws. Bottom-Right: Human Legs/Shoes.",
+    "edge_detection": "High contrast edges between subjects and background (Sobel gradient magnitude strong).",
+    "texture_sampling": "Skin: Smooth + Noise. Dog Fur: Anisotropic noise. Fabric: Flat matte.",
+    "pixel_forensics": "No obvious manipulation. Grain suggests analog medium or intentional digital noise overlay."
+  },
+  "holistic_reconstruction_protocol": {
+    "assembly_sequence": "1. Establish white background. 2. Project hard shadow map based on frontal flash. 3. Place canine model left, human model right. 4. Apply textures (fur vs skin vs spandex). 5. Calculate specular maps for skin oil and fur sheen. 6. Apply global grain filter.",
+    "scalability_notes": "Vectorize silhouette edges for scaling. Texture details require high-res sampling."
+  }
+}
+```
+---
+
+### 🖼️ Prompt 46
+
+<div align="center">
+  <img src="images/image-46.png" width="200" style="margin-right:10px;" />
+  <img src="images/image-46a.png" width="200" />
+</div>
+
+**Source:** [𝕏](https://x.com/youngcatwoman/status/1999482062877917360)
+
+```json
+{
+  "project_settings": {
+    "project_name": "Gym Mirror Selfie Series",
+    "version": "4.0.0-granular",
+    "target_model": "Stable Diffusion / Midjourney v6"
+  },
+  "generation_parameters": {
+    "face_preservation": {
+      "enabled": true,
+      "method": "Reference ControlNet / IP-Adapter",
+      "strictness_level": "High",
+      "protected_features": [
+        "facial_structure",
+        "eyebrow_shape",
+        "makeup_style",
+        "lip_morphology",
+        "hairline_fidelity"
+      ]
+    },
+    "technical_specs": {
+      "aspect_ratio": "4:5",
+      "resolution": "8K",
+      "orientation": "Portrait"
+    }
+  },
+  "scene_composition": {
+    "subject": {
+      "demographics": {
+        "gender": "Female",
+        "age_group": "Young korean Adult"
+      },
+      "pose_definition": {
+        "stance": "Squatting low",
+        "leg_position": "One knee forward",
+        "torso_orientation": "Leaning slightly toward mirror",
+        "head_tilt": "Downward (approx 15 degrees)",
+        "gaze": "Focused on phone screen",
+        "hand_placement": {
+          "right_hand": "Holding phone in front of face",
+          "left_hand": "Resting on knee"
+        }
+      },
+      "grooming": {
+        "hair": {
+          "color": "silver",
+          "length": "Short",
+          "style": "Half-up ponytail",
+          "texture": "Smooth, Straight",
+          "accessory": "Small clip"
+        },
+        "makeup": {
+          "style": "Natural",
+          "finish": "Soft matte"
+        },
+        "nails": {
+          "color": "white",
+          "finish": "Glossy"
+        }
+      },
+      "wardrobe": {
+        "upper_body": {
+          "item": "Sports Bra",
+          "color": "white",
+          "fit": "Tight, form-fitting",
+          "material_properties": "Slight sheen, synthetic"
+        },
+        "lower_body": {
+          "item": "latex Leggings",
+          "color": "White",
+          "fit": "skintight ",
+          "waist_style": "High-waisted"
+        },
+        "footwear": {
+          "item": "Sneakers",
+          "color": "Red",
+          "style": "Chunky/Sporty"
+        },
+        "jewelry": [
+          { "type": "Necklace", "material": "Silver" },
+          { "type": "Bracelet", "material": "Silver" },
+          { "type": "Rings", "material": "Silver" }
+        ]
+      }
+    },
+    "props": {
+      "primary_device": {
+        "type": "Apple Smartphone",
+        "case_texture": "Glitter",
+        "case_color": "Silver",
+        "holding_angle": "Vertical"
+      }
+    },
+    "environment": {
+      "location_type": "Indoor Gym",
+      "architecture": {
+        "walls": "Full-height mirrors",
+        "flooring": "Wood-textured gym floor"
+      },
+      "background_elements": [
+        "Chest press machine",
+        "Blurred gym equipment"
+      ]
+    },
+    "lighting_and_atmosphere": {
+      "primary_source": "Soft overhead LED",
+      "ambient_tone": "Warm accents",
+      "shadows": "Soft, diffuse",
+      "mood": ["Feminine", "Elegant", "Gentle"]
+    },
+    "stylistic_approach": {
+      "genre": "Social Media Mirror Selfie",
+      "visual_clarity": "Medium-High sharpness",
+      "color_grading": "Soft warm tones (Cream/Brown palette)"
+    }
+  },
+  "negative_constraints": [
+    "deformed fingers",
+    "wrong face structure",
+    "extra limbs",
+    "text",
+    "watermark",
+    "candy bars",
+    "distorted reflection",
+    "over-saturated colors"
+  ]
+}
+```
+---
+
+### 🖼️ Prompt 47
+
+<div align="center">
+  <img src="images/image-47.png" width="200" style="margin-right:10px;" />
+  <img src="images/image-47a.png" width="200" />
+</div>
+
+**Source:** [𝕏](https://x.com/youngcatwoman/status/1999482062877917360)
+
+```json
+{
+  "project_settings": {
+    "project_name": "Gym Mirror Selfie Series",
+    "version": "4.0.0-granular",
+    "target_model": "Stable Diffusion / Midjourney v6"
+  },
+  "generation_parameters": {
+    "face_preservation": {
+      "enabled": true,
+      "method": "Reference ControlNet / IP-Adapter",
+      "strictness_level": "High",
+      "protected_features": [
+        "facial_structure",
+        "eyebrow_shape",
+        "makeup_style",
+        "lip_morphology",
+        "hairline_fidelity"
+      ]
+    },
+    "technical_specs": {
+      "aspect_ratio": "4:5",
+      "resolution": "8K",
+      "orientation": "Portrait"
+    }
+  },
+  "scene_composition": {
+    "subject": {
+      "demographics": {
+        "gender": "Female",
+        "age_group": "Early 20s Taiwanese Woman"
+      },
+      "pose_definition": {
+        "stance": "Squatting low",
+        "leg_position": "One knee forward",
+        "torso_orientation": "Leaning slightly toward mirror",
+        "head_tilt": "Downward (approx 15 degrees)",
+        "gaze": "Focused on phone screen",
+        "hand_placement": {
+          "right_hand": "Holding phone in front of face",
+          "left_hand": "Resting on knee"
+        }
+      },
+      "grooming": {
+        "hair": {
+          "color": "Platinum Blonde with Pink Highlights",
+          "length": "Short",
+          "style": "Half-up ponytail",
+          "texture": "Smooth, Straight",
+          "accessory": "Small clip"
+        },
+        "makeup": {
+          "style": "Natural",
+          "finish": "Soft matte"
+        },
+        "nails": {
+          "color": "Bright Pink",
+          "finish": "Glossy"
+        }
+      },
+      "wardrobe": {
+        "upper_body": {
+          "item": "Sports Bra",
+          "color": "Bright Pink",
+          "fit": "Tight, form-fitting",
+          "material_properties": "Latex Slight sheen"
+        },
+        "lower_body": {
+          "item": "Latex Leggings pants",
+          "color": "Bright Pink",
+          "fit": "Skintight",
+          "waist_style": "High-waisted"
+        },
+        "footwear": {
+          "item": "Sneakers",
+          "color": "White",
+          "style": "Chunky/Sporty"
+        },
+        "jewelry": [
+          { "type": "Necklace", "material": "Silver" },
+          { "type": "Bracelet", "material": "Silver" },
+          { "type": "Rings", "material": "Silver" }
+        ]
+      }
+    },
+    "props": {
+      "primary_device": {
+        "type": "Apple Smartphone",
+        "case_texture": "Glitter",
+        "case_color": "Silver",
+        "holding_angle": "Vertical"
+      }
+    },
+    "environment": {
+      "location_type": "Indoor Gym",
+      "architecture": {
+        "walls": "Full-height mirrors",
+        "flooring": "Wood-textured gym floor"
+      },
+      "background_elements": [
+        "Chest press machine",
+        "Blurred gym equipment"
+      ]
+    },
+    "lighting_and_atmosphere": {
+      "primary_source": "Soft overhead LED",
+      "ambient_tone": "Warm accents",
+      "shadows": "Soft, diffuse",
+      "mood": ["Feminine", "Elegant", "Gentle"]
+    },
+    "stylistic_approach": {
+      "genre": "Social Media Mirror Selfie",
+      "visual_clarity": "Medium-High sharpness",
+      "color_grading": "Soft warm tones (Cream/Brown palette)"
+    }
+  },
+  "negative_constraints": [
+    "deformed fingers",
+    "wrong face structure",
+    "extra limbs",
+    "text",
+    "watermark",
+    "candy bars",
+    "distorted reflection",
+    "over-saturated colors"
+  ]
+}
+```
+---
+
 ## 📌 Why This Exists
 
 - Visual reference for prompt crafting
