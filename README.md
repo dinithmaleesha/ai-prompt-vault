@@ -4537,6 +4537,1073 @@ Built for **inspiration**, **learning**, and **prompt engineering reference**.
 ```
 ---
 
+### 🖼️ Prompt 48
+
+<div align="center">
+  <img src="images/image-48.png" width="200" style="margin-right:10px;" />
+  <img src="images/image-48a.png" width="200" />
+</div>
+
+**Source:** [𝕏](https://x.com/Strength04_X/status/1999360547712806971)
+
+```json
+{
+  "generation_request": {
+    "meta_data": {
+      "task": "text_to_image_with_reference",
+      "version": "2.0_structured"
+    },
+    "technical_constraints": {
+      "output_format": {
+        "aspect_ratio": "9:16",
+        "orientation": "portrait"
+      },
+      "reference_image_compliance": {
+        "enabled": true,
+        "mode": "strict_visual_match",
+        "instruction_text": "Picture should be same as reference uploaded."
+      }
+    },
+    "creative_detailed_prompt": {
+      "core_concept": "Realistic smartphone mirror selfie in a bedroom.",
+      "subject_profile": {
+        "demographics": {
+          "gender": "female",
+          "age_group": "young_adult"
+        },
+        "physical_appearance": {
+          "hair_specs": {
+            "color": "silver/grey",
+            "texture": "normal, voluminous",
+            "style": "long beautiful looking hair falling over shoulders",
+            "length": "long"
+          },
+          "skin_specs": {
+            "tone": "pale",
+            "distinctive_features": "visible natural freckles on face and chest"
+          },
+          "body_shape": "slender, fit physique",
+          "face_specs": {
+            "expression": "neutral",
+            "gaze_direction": "soft gaze looking into mirror"
+          }
+        },
+        "action": {
+          "pose": "standing facing mirror, slightly angled",
+          "activity": "holding smartphone to take photo"
+        },
+        "attire": {
+          "vibe": "beachwear / lounge style",
+          "garments": {
+            "top": {
+              "type": "triangle bikini top",
+              "color": "cream-colored",
+              "details": "ruffled edges"
+            },
+            "bottom": {
+              "type": "sheer sarong/wrap skirt",
+              "color": "cream-colored matching top",
+              "details": "tied at hip with ruffles"
+            }
+          }
+        }
+      },
+      "scene_environment": {
+        "location_type": "bedroom interior",
+        "atmosphere_mood": "soft domestic",
+        "key_props": [
+          "unmade bed (messy white sheets and pillows)",
+          "wooden headboard",
+          "mirror frame (visible on side)"
+        ],
+        "lighting_setup": {
+          "primary_source": {
+            "type": "natural daylight",
+            "origin": "window behind subject with sheer curtains"
+          },
+          "accent_source": {
+            "type": "LED ambient light strip",
+            "color": "purple",
+            "intensity": "subtle",
+            "location": "on wall"
+          }
+        }
+      },
+      "photography_specs": {
+        "camera_type": "smartphone",
+        "shot_category": "mirror reflection selfie",
+        "aesthetic_genre": [
+          "amateur photography",
+          "influencer aesthetic",
+          "candid"
+        ],
+        "technical_quality": {
+          "resolution_target": "8K",
+          "focus_priority": "sharp on subject",
+          "rendering_style": "photorealistic",
+          "texture_emphasis": "natural skin"
+        }
+      }
+    },
+    "negative_constraints_list": [
+      "makeup",
+      "heavy photoshop",
+      "smooth skin",
+      "cartoon",
+      "illustration",
+      "anime",
+      "3d render",
+      "distorted hands",
+      "bad anatomy",
+      "missing fingers",
+      "extra limbs",
+      "blurry",
+      "low quality",
+      "dark room"
+    ]
+  }
+}
+```
+---
+
+### 🖼️ Prompt 49
+
+<div align="center">
+  <img src="images/image-49.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-48a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/IamEmily2050/status/19993810660760293721)
+
+```json
+{
+  "frame": {
+    "aspect_ratio": "9:16",
+    "shot_size": "Extreme Close-Up (ECU)",
+    "orientation": "Portrait",
+    "composition_guide": "Off-center diagonal; face fills most of frame, pillow dominates camera-right; eyes near upper-middle"
+  },
+  "subject": {
+    "subject_type": "Human",
+    "identity_summary": "Adult East Asian woman, long dark brown/black hair with wispy see-through bangs, natural textured skin with light freckles, glossy pink lips, small beauty mark on the cheek (viewer-left).",
+    "visual_signature": {
+      "facial_signature": {
+        "face_shape": "Soft oval with a tapered chin (slightly compressed by pillow)",
+        "eye_details": "Large brown almond eyes, subtle eyeliner, clear catchlights",
+        "nose_details": "Straight narrow bridge, small soft tip",
+        "lip_details": "Full pouty lips, high-gloss, pink/coral tint",
+        "unique_features": "Small dark beauty mark (mole) on viewer-left cheek"
+      },
+      "body_signature": {
+        "build": "Slender",
+        "skin_tone_and_texture": "Fair-light tone with realistic skin microtexture: visible pores on cheeks and nose, fine peach fuzz, scattered light freckles across nose bridge and upper cheeks, subtle redness/flush and mild natural blotchiness; no heavy smoothing"
+      }
+    },
+    "pose_and_action": {
+      "description": "Side-lying selfie, cheek resting into a cream pillow, head tilted slightly downward toward camera.",
+      "body_position": "Upper torso mostly out of frame; neckline visible",
+      "limb_positions": "Arms out of frame; phone/camera implied",
+      "facial_expression": "Sleepy/soft pout, relaxed mouth, calm intimate mood",
+      "gaze_direction": "Direct eye contact with camera"
+    },
+    "inventory": {
+      "wardrobe": "White crew-neck cotton t-shirt",
+      "accessories": "None",
+      "hair_style": "Long straight dark hair spread over bedding, wispy bangs partially crossing forehead and between eyes"
+    }
+  },
+  "environment": {
+    "setting_type": "Indoor",
+    "location_description": "Bed, close to pillow",
+    "background_elements": "Cream/white pillow with soft texture on camera-right, white bedding, minimal clutter"
+  },
+  "lighting": {
+    "global_illumination": "Soft, diffuse, texture-revealing",
+    "primary_source": "Large soft source from slightly above camera-left (window-like)",
+    "direction": "Mostly frontal with slight side bias to reveal pores and freckles without harsh shadows",
+    "shadow_quality": "Very soft; gentle gradients along nose and under bangs",
+    "color_temperature": "Neutral-warm (approx 4500K–5200K)"
+  },
+  "camera": {
+    "angle": "Phone selfie perspective, slightly above and close",
+    "lens_type": "Phone wide camera equivalent",
+    "focal_length_mm_equiv": 24,
+    "aperture": "f/1.8",
+    "focus": "Sharp on eyes; enough detail to resolve pores/freckles on cheeks and nose; mild falloff toward hair and pillow edges"
+  },
+  "post_processing": {
+    "art_medium": "Photography",
+    "style_modifiers": "natural selfie, minimal retouch, preserve pores and freckles, realistic skin texture, subtle under-eye texture, high detail eyes, no skin blur, no plastic smoothing",
+    "color_grade": "Natural skin tones, gentle contrast, restrained highlights, slightly warm neutrals",
+    "rendering_engine": "Photorealistic"
+  },
+  "negative": {
+    "artifact_suppression": "airbrushed skin, poreless skin, plastic/waxy skin, excessive skin smoothing, beauty filter, over-sharpen halos, uncanny texture tiling, heavy noise, banding, warped facial features, asymmetry, smeared pupils, extra teeth, extra limbs",
+    "subject_excludes": "no mole, wrong mole placement, heavy eyeliner, heavy lipstick, bright red lips, wide smile with teeth, glasses, strong contouring, different hair color, child/teen"
+  }
+}
+```
+---
+
+### 🖼️ Prompt 50
+
+<div align="center">
+  <img src="images/image-50.png" width="200" style="margin-right:10px;" />
+  <img src="images/image-50a.png" width="200" />
+</div>
+
+**Source:** [𝕏](https://x.com/Strength04_X/status/1999463560385302844)
+
+```json
+{
+  "prompt_type": "cinematic_photograph",
+  "description": {
+    "overview": "Intimate close-up portrait of a young woman in a lake under moonlight, featuring a moody double-exposure effect.",
+    "identity_requirements": {
+      "match_reference_face": true,
+      "details": [
+        "Focus on eye detail and skin texture.",
+        "High fidelity to facial structure.",
+        "Expression should be mysterious and deep."
+      ]
+    }
+  },
+  "subject": {
+    "character": "young_woman",
+    "pose": {
+      "body": "shoulder_level_portrait",
+      "arms": "relaxed_at_sides",
+      "head_orientation": "turned_slightly_to_side_looking_at_camera",
+      "expression": "mysterious_and_alluring"
+    },
+    "appearance": {
+      "hair": {
+        "length": "long",
+        "condition": "wet_and_slicked_back",
+        "style": "loose"
+      },
+      "clothing": {
+        "top": "strapless_black_top_visible_at_neckline",
+        "bottom": "not_visible"
+      },
+      "accessories": {
+        "earrings": {
+          "type": "silver_drop",
+          "size": "medium",
+          "visual_emphasis": "subtle_glint"
+        }
+      }
+    }
+  },
+  "environment": {
+    "location": "lake",
+    "time_of_day": "blue_hour_moonlight",
+    "water": {
+      "state": "still",
+      "surface_texture": "glassy",
+      "reflection_quality": "sharp_moon_reflection"
+    },
+    "background": {
+      "horizon": "dark_silhouetted_trees",
+      "atmospheric_tone": "cool_misty_night"
+    },
+    "lighting": {
+      "type": "moonlight_cinematic",
+      "sun_position": "moon_high_above",
+      "color_tones": {
+        "primary": ["deep_blue", "silver"],
+        "accents": ["cool_white_highlights_on_skin"]
+      }
+    }
+  },
+  "visual_effects": {
+    "double_exposure": {
+      "enabled": true,
+      "style": "ethereal",
+      "secondary_profile": {
+        "opacity": "medium",
+        "position": "overlay_on_shadows",
+        "appearance": "silhouette_against_moon"
+      }
+    }
+  },
+  "camera": {
+    "lens": {
+      "focal_length_mm": 105,
+      "effect": "macro_portrait_details"
+    },
+    "depth_of_field": {
+      "style": "very_shallow",
+      "focus": "eyes",
+      "background_blur": "heavy_bokeh"
+    },
+    "color_grade": {
+      "palette": "cool_blue_and_silver",
+      "contrast": "high",
+      "mood": "nocturnal_mystery"
+    }
+  },
+  "composition": {
+    "framing": "close_up",
+    "balance": "rule_of_thirds_eyes",
+    "foreground": "out_of_focus_water_droplets",
+    "background": "bokeh_moonlight_shimmer"
+  },
+  "output_requirements": {
+    "resolution": "high",
+    "style": "cinematic_photograph",
+    "prohibitions": [
+      "no_text",
+      "no_warm_tones",
+      "no_daylight"
+    ]
+  }
+}
+```
+---
+
+### 🖼️ Prompt 51
+
+<div align="center">
+  <img src="images/image-51.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-50a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/YaseenK7212/status/1999410735890182457)
+
+```json
+{
+  "prompt_type": "cinematic_photograph",
+  "description": {
+    "overview": "High-resolution cinematic photograph of a young woman standing in a lake at sunset, with a subtle double-exposure effect.",
+    "identity_requirements": {
+      "match_reference_face": true,
+      "details": [
+        "Facial characteristics should closely correspond to those in the provided reference image.",
+        "High fidelity to facial structure, proportions, and expression.",
+        "Preserve all natural facial details without alteration."
+      ]
+    }
+  },
+  "subject": {
+    "character": "young_woman",
+    "pose": {
+      "body": "standing_in_shallow_lake_water",
+      "arms": "crossed_over_chest",
+      "head_orientation": "forward_or_slightly_angled",
+      "expression": "neutral_or_calm"
+    },
+    "appearance": {
+      "hair": {
+        "length": "long",
+        "condition": "wet",
+        "style": "straight_down_back"
+      },
+      "clothing": {
+        "top": "simple_black_bikini",
+        "bottom": "simple_black_bikini_bottom"
+      },
+      "accessories": {
+        "earrings": {
+          "type": "geometric_gold",
+          "size": "large",
+          "visual_emphasis": "high"
+        }
+      }
+    }
+  },
+  "environment": {
+    "location": "lake",
+    "time_of_day": "sunset",
+    "water": {
+      "state": "calm",
+      "surface_texture": "minimal_ripples",
+      "reflection_quality": "soft"
+    },
+    "background": {
+      "horizon": "soft_and_lightly_blurred",
+      "atmospheric_tone": "gentle_evening_haze"
+    },
+    "lighting": {
+      "type": "soft_cinematic",
+      "sun_position": "low_warm_sunset_light",
+      "color_tones": {
+        "primary": ["muted_teal", "muted_brown"],
+        "accents": ["warm_highlights_from_sunset"]
+      }
+    }
+  },
+  "visual_effects": {
+    "double_exposure": {
+      "enabled": true,
+      "style": "subtle",
+      "secondary_profile": {
+        "opacity": "low",
+        "position": "background",
+        "appearance": "translucent_profile_of_same_subject"
+      }
+    }
+  },
+  "camera": {
+    "lens": {
+      "focal_length_mm": 85,
+      "effect": "cinematic_portrait_compression"
+    },
+    "depth_of_field": {
+      "style": "shallow",
+      "focus": "subject_face_and_upper_body",
+      "background_blur": "creamy_and_smooth"
+    },
+    "color_grade": {
+      "palette": "teal_and_brown_muted",
+      "contrast": "soft",
+      "mood": "cinematic_evening"
+    }
+  },
+  "composition": {
+    "framing": "portrait_orientation",
+    "balance": "center_weighted_subject",
+    "foreground": "gentle_water_surface",
+    "background": "minimalistic_subtle_horizon"
+  },
+  "output_requirements": {
+    "resolution": "high",
+    "style": "cinematic_photograph",
+    "prohibitions": [
+      "no_text",
+      "no_symbols",
+      "no_graphic_overlays",
+      "no_artificial_watermarks"
+    ]
+  }
+}
+```
+---
+
+### 🖼️ Prompt 52
+
+<div align="center">
+  <img src="images/image-52.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-50a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/xmliisu/status/1999411262095077820)
+
+```json
+{
+  "generation_request": {
+    "meta_data": {
+      "task_type": "text_to_image_with_face_swap",
+      "priority": "high",
+      "version": "v1.0"
+    },
+    "technical_constraints": {
+      "face_preservation": {
+        "enabled": true,
+        "reference_mode": "strict",
+        "parameters": {
+          "use_reference_face_only": true,
+          "preserve_original_features": true,
+          "preservation_strength": 1.0,
+          "match_criteria": [
+            "facial_features",
+            "skin_texture",
+            "expression",
+            "proportions"
+          ]
+        }
+      },
+      "output_settings": {
+        "aspect_ratio": "3:4",
+        "orientation": "portrait",
+        "resolution_target": "ultra_high_res",
+        "render_engine_style": "photorealistic"
+      }
+    },
+    "creative_prompt": {
+      "subject_profile": {
+        "demographics": {
+          "gender": "female",
+          "age_group": "young_adult"
+        },
+        "appearance": {
+          "hair": {
+            "style": "slicked-back",
+            "texture": "naturally wavy, wet look",
+            "placement": "tucked behind ears"
+          },
+          "expression": {
+            "type": "soft playful smile",
+            "gaze": "looking slightly sideways",
+            "micro_expression": "reactionary (as if hearing name)"
+          }
+        },
+        "styling": {
+          "top": "white semi-sheer long-sleeve beach shirt",
+          "bottom": "white shorts",
+          "nails": "light pink/coral polish",
+          "jewelry": [
+            "small gold hoop earrings",
+            "thin bracelet (right wrist)"
+          ]
+        },
+        "pose_action": {
+          "body": "sitting sideways",
+          "posture": "relaxed, shoulders turned to camera",
+          "limbs": {
+            "arm_left": "resting on chair backrest",
+            "arm_right": "gently touching cheek"
+          }
+        }
+      },
+      "scene_context": {
+        "location": "beachside restaurant/café",
+        "furniture": "wooden chair",
+        "atmosphere": {
+          "vibe": "summery, relaxed, social",
+          "background": [
+            "people dining (blurred)",
+            "wooden ceiling with woven lampshades",
+            "warm wooden textures"
+          ]
+        },
+        "lighting_setup": {
+          "primary": "natural daylight",
+          "secondary": "warm indoor ambient accents",
+          "specifics": "sunlit with soft glow on high points (cheeks, collarbones)"
+        }
+      },
+      "photography_style": {
+        "camera_angle": "slightly high angle (above eye level)",
+        "framing": "mid-shot",
+        "lens_character": "handheld lifestyle aesthetic",
+        "color_grading": {
+          "palette": ["warm tan", "white", "light brown"],
+          "skin_tone_rendering": "soft, natural"
+        }
+      }
+    }
+  }
+}
+```
+---
+
+### 🖼️ Prompt 53
+
+<div align="center">
+  <img src="images/image-53.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-50a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/zayleeai/status/1999117566141239373)
+
+```json
+{
+  "subject": {
+    "type": "young_adult_woman",
+    "ethnicity": "European",
+    "age": "early_20s",
+    "eye_color": "hazel_green_mix",
+    "skin_texture": "natural_with_visible_pores_and_imperfections_no_blur_or_smoothing",
+    "expression": "soft_neutral_with_gentle_coquette_vibe",
+    "makeup": {
+      "finish": "matte",
+      "blush": "light_pink",
+      "eyeshadow": "soft_pink",
+      "eyeliner": "thin_black",
+      "lashes": "defined",
+      "lip_color": "matte_dusty_pink",
+      "lip_shape": "medium_fullness_natural_look"
+    },
+
+    "hair": {
+      "color": "jet_black",
+      "length": "long_past_chest",
+      "texture": "smooth_with_soft_waves",
+      "bangs": "full_straight_lightly_piecey",
+      "crown_style": "braided_crown",
+      "side_sections": "long_face_framing_waves",
+      "accessories": ["lilac_pink_ribbon_bows_left_and_right"]
+    },
+
+    "nails": {
+      "style": "short_coquette",
+      "color": "pastel_pink"
+    },
+
+    "pose": {
+      "type": "mirror_selfie",
+      "camera_angle": "slight_downward_diagonal",
+      "head_angle": "very_subtle_tilt",
+      "body_position": "leaning_forward_slightly",
+      "right_arm": "holding_phone",
+      "left_arm": "resting_or_light_touch_on_furniture"
+    }
+  },
+
+  "apparel": {
+    "top": {
+      "type": "lime_green_cropped_ribbed_cardigan",
+      "pattern": "thin_vertical_teal_stripes",
+      "fit": "tight_and_form_fitting",
+      "closure": "single_center_clasp_firmly_secured",
+      "neckline": "deep_V_but_fully_covered",
+      "sleeves": "long_with_slight_flare",
+      "integrity": "top_stays_in_place_no_sliding_no_opening"
+    },
+
+    "undershirt": {
+      "type": "white_fitted_tank_top",
+      "material": "soft_ribbed_cotton",
+      "coverage": "fully_covers_chest_under_cardigan"
+    },
+
+    "necklace": {
+      "type": "minimalist_silver_chain",
+      "pendant": "tiny_simple_shape"
+    },
+
+    "bottoms": {
+      "type": "low_rise_black_denim_jeans",
+      "details": "contrast_stitching_silver_button_belt_loops"
+    }
+  },
+
+  "phone": {
+    "model": "iPhone_15_Pro_Max",
+    "held_in": "right_hand",
+    "case": {
+      "design": "green_3D_frog_case",
+      "details": {
+        "eyes": "raised_frog_eyes_on_top",
+        "face": "round_frog_face_with_blue_cheek_detail",
+        "edges": "wavy_inflated_style"
+      },
+      "inserted_photo": "Elon_Musk_passport_photo"
+    }
+  },
+
+  "environment": {
+    "setting": "cozy_bedroom_soft_evening_vibe",
+    "walls": {
+      "color": "soft_gray_beige",
+      "decor": {
+        "posters": [
+          "large_Lana_Del_Rey_portrait",
+          "Lana_Del_Rey_album_covers_collage",
+          "black_white_artistic_portraits",
+          "various_small_decorative_prints"
+        ],
+        "garlands": "green_vines_with_pink_roses"
+      }
+    },
+
+    "bed": {
+      "sheets": "light_pink_with_line_pattern",
+      "pillows": "matching_pink_sets",
+      "plushies": ["small_brown_dog", "white_bear_with_pink_accents", "ribbed_pink_bunny"]
+    },
+
+    "room_items": ["pastel_handbag", "small_accessory_clutter"],
+
+    "vibe": "dreamy_coquette_bedroom_lana_del_rey_inspired"
+  },
+
+  "lighting": {
+    "type": "soft_indoor_front_light",
+    "reflections": "none_on_face_or_clothing",
+    "shadows": "very_soft",
+    "effect": "natural_even_skin_tone"
+  },
+
+  "image_rendering": {
+    "style": "natural_phone_snapshot",
+    "device": "iPhone_15_Pro_Max",
+    "no_beautify": true,
+    "skin_detail": {
+      "pores_visible": true,
+      "imperfections_visible": true,
+      "micro_shadows": true
+    },
+    "camera_artifacts": {
+      "grain": "light_natural",
+      "noise": "soft_iso_noise",
+      "sharpness": "medium_high_to_show_real_texture"
+    },
+    "ratio": "3:4"
+  }
+}
+```
+---
+
+### 🖼️ Prompt 54
+
+<div align="center">
+  <img src="images/image-54.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-50a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/zayleeai/status/1999990999121092800)
+
+```json
+{
+  "prompt": {
+    "subject": {
+      "type": "young adult woman",
+      "age_range": "early 20s",
+      "ethnicity": "European",
+
+      "pose": {
+        "position": "leaning out of a closed car door window",
+        "details": "door closed, passenger window fully open",
+        "upper_body": "upper torso leaning through window frame",
+        "arms": {
+          "left_arm": "resting on window edge",
+          "right_hand": "fingers gently touching lips"
+        },
+        "posture": "slightly leaning forward, relaxed and intimate",
+        "vibe": "shy, sexy, naughty, thoughtful, unposed"
+      },
+
+      "expression": {
+        "face": "soft, introspective",
+        "gaze": "looking off to the side",
+        "emotion": "quiet, gentle, daydreaming"
+      },
+
+      "appearance": {
+        "hair": {
+          "color": "dusty pastel pink",
+          "length": "long",
+          "style": "loose, straight, natural fall",
+          "parting": "soft center part",
+          "texture": "slightly messy, real strands"
+        },
+
+        "skin": {
+          "tone": "fair, cool undertone",
+          "texture": "real skin with lightly visible pores",
+          "details": [
+            "subtle pores on cheeks and nose",
+            "natural skin grain",
+            "slight unevenness"
+          ],
+          "restrictions": [
+            "no blur",
+            "no smoothing",
+            "no beauty filters",
+            "no plastic or glow"
+          ]
+        },
+
+        "makeup": {
+          "base": "very light, skin-like",
+          "blush": "soft muted pink",
+          "eyes": "very thin eyeliner, natural lashes",
+          "lips": {
+            "color": "soft rose nude",
+            "finish": "natural satin",
+            "texture": "real lip texture"
+          }
+        },
+
+        "tattoos": {
+          "visible": true,
+          "locations": ["upper arm"],
+          "design": "small heart outline, black ink"
+        }
+      }
+    },
+
+    "outfit": {
+      "top": {
+        "type": "sleeveless fitted tank top",
+        "color": "light beige / off-white",
+        "fabric": "thin cotton",
+        "fit": "tight, everyday"
+      },
+      "bottom": {
+        "type": "low-rise jeans",
+        "color": "washed blue denim",
+        "fit": "relaxed"
+      }
+    },
+
+    "environment": {
+      "location": "underground parking garage",
+      "car": {
+        "type": "sedan",
+        "color": "soft pastel pink",
+        "state": "parked",
+        "window": "open, door closed"
+      },
+      "background": [
+        "parked cars",
+        "concrete pillars",
+        "directional signs",
+        "industrial ceiling pipes"
+      ]
+    },
+
+    "lighting": {
+      "type": "overhead parking garage light",
+      "quality": "cool, flat, realistic",
+      "effect": "soft shadows, low contrast"
+    },
+
+    "camera": {
+      "device": "iPhone 15 Pro Max",
+      "angle": "eye-level, slightly angled from outside",
+      "distance": "medium close-up",
+      "style": "handheld, casual",
+      "image_quality": "non-HD, realistic smartphone photo"
+    },
+
+    "color_tone": {
+      "overall": "soft, muted",
+      "contrast": "low",
+      "saturation": "slightly reduced"
+    },
+
+    "overall_mood": {
+      "vibe": "soft girl, quiet moment",
+      "energy": "natural, intimate, unforced"
+    },
+
+    "restrictions": [
+      "no studio look",
+      "no cinematic lighting",
+      "no heavy retouching",
+      "no HD polish"
+    ]
+  }
+}
+```
+---
+
+### 🖼️ Prompt 55
+
+<div align="center">
+  <img src="images/image-55.png" width="200" style="margin-right:10px;" />
+  <img src="images/image-55a.png" width="200" />
+</div>
+
+**Source:** [𝕏](https://x.com/Strength04_X/status/1999518978683863105)
+
+```json
+{
+  "lighting": {
+    "source": "Mix of ambient natural light from an unseen window and recessed ceiling lights",
+    "quality": "Soft, flattering, with gentle shadows",
+    "shadows": "Soft shadows define the features; more distinct shadows cast by furniture on the floor",
+    "direction": "Frontal and overhead diffused light"
+  },
+  "metadata": {
+    "title": "Selfie of a Woman in a Modern Apartment - Pose 3",
+    "date_taken": "N/A",
+    "description": "A vertical selfie photograph of a woman with long dark hair, wearing a light blue and white ribbed halter top, touching her hair with a playful expression.",
+    "photographer": "Self-portrait"
+  },
+  "background": {
+    "clutter": "Minimal and tidy",
+    "setting": "Modern, minimalist apartment interior",
+    "elements": "White marble floor with prominent grey veining, a dark grey modern kitchen island with bar stools in the mid-ground, dark cabinetry, a hallway leading to a door, a console table with a large amber glass bowl, a unique irregularly shaped wall mirror, plain white walls, and recessed ceiling lights"
+  },
+  "typography": {
+    "text_content": "N/A"
+  },
+  "composition": {
+    "framing": "Waist-up selfie, close-up, slightly angled",
+    "focal_point": "Subject's eyes and hand",
+    "perspective": "Eye-level, taken from slightly above by the subject",
+    "aspect_ratio": "3:4 (approximate vertical)"
+  },
+  "color_profile": {
+    "saturation": "Medium",
+    "color_palette": "Cool blues and whites balanced by warm skin tones and neutral background elements",
+    "white_balance": "Slightly warm, natural indoor light",
+    "dominant_colors": [
+      "#7F9FBF",
+      "#FFFFFF",
+      "#3A3A3A",
+      "#D9B99B",
+      "#F2F2F2"
+    ]
+  },
+  "technical_specs": {
+    "focus": "Sharp on the subject's face",
+    "exposure": "Well-balanced indoor exposure",
+    "lens_type": "Wide-angle",
+    "camera_type": "Smartphone camera"
+  },
+  "subject_analysis": {
+    "eyes": "Dark brown, almond-shaped, looking slightly off-camera or playfully at the lens",
+    "hair": "Dark brown, long, straight, swept slightly to one side",
+    "pose": "Selfie pose, head tilted slightly to the left, right arm extended holding camera",
+    "hands": "Left hand raised, fingers gently touching the hair or tucked behind the ear",
+    "subject": "A young woman",
+    "clothing": "Light blue ribbed knit halter top with white trim and a white lower section",
+    "accessories": "Gold chain bracelet on her left wrist",
+    "facial_expression": "Playful, confident smile, showing teeth slightly"
+  },
+  "artistic_elements": {
+    "mood": "Lively, candid, chic",
+    "style": "Casual, lifestyle selfie",
+    "texture": "Ribbed knit fabric of the top, smooth marble floor, silky hair"
+  }
+}
+```
+---
+
+### 🖼️ Prompt 56
+
+<div align="center">
+  <img src="images/image-56.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-55a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/johnnprofits/status/1999506027557830802)
+
+```json
+{
+  "lighting": {
+    "source": "Mix of ambient natural light from an unseen window and recessed ceiling lights",
+    "quality": "Soft, flattering, with gentle shadows",
+    "shadows": "Soft shadows define the features; more distinct shadows cast by furniture on the floor",
+    "direction": "Frontal and overhead diffused light"
+  },
+  "metadata": {
+    "title": "Selfie of a Woman in a Modern Apartment",
+    "date_taken": "N/A",
+    "description": "A vertical selfie photograph of a woman with long dark hair, wearing a light blue and white ribbed halter top, taken in a modern apartment interior with marble floors.",
+    "photographer": "Self-portrait"
+  },
+  "background": {
+    "clutter": "Minimal and tidy",
+    "setting": "Modern, minimalist apartment interior",
+    "elements": "White marble floor with prominent grey veining, a dark grey modern kitchen island with bar stools in the mid-ground, dark cabinetry, a hallway leading to a door, a console table with a large amber glass bowl, a unique irregularly shaped wall mirror, plain white walls, and recessed ceiling lights"
+  },
+  "typography": {
+    "text_content": "N/A"
+  },
+  "composition": {
+    "framing": "Waist-up selfie, close-up",
+    "focal_point": "Subject's face",
+    "perspective": "Eye-level, taken from slightly above by the subject",
+    "aspect_ratio": "3:4 (approximate vertical)"
+  },
+  "color_profile": {
+    "saturation": "Medium",
+    "color_palette": "Cool blues and whites balanced by warm skin tones and neutral background elements",
+    "white_balance": "Slightly warm, natural indoor light",
+    "dominant_colors": [
+      "#7F9FBF",
+      "#FFFFFF",
+      "#3A3A3A",
+      "#D9B99B",
+      "#F2F2F2"
+    ]
+  },
+  "technical_specs": {
+    "focus": "Sharp on the subject's face and clothing",
+    "exposure": "Well-balanced indoor exposure",
+    "lens_type": "Wide-angle",
+    "camera_type": "Smartphone camera"
+  },
+  "subject_analysis": {
+    "eyes": "Dark brown, almond-shaped, looking directly at the camera",
+    "hair": "Dark brown, long, straight with a slight curve at the ends, parted in the middle",
+    "pose": "Selfie pose holding the camera with her extended right arm, body angled slightly, left arm down by her side",
+    "hands": "Left hand visible near her waist, right hand holding the camera is out of frame",
+    "subject": "A young woman",
+    "clothing": "Light blue ribbed knit halter top with white trim and a white lower section, possibly part of a dress or romper",
+    "accessories": "Gold chain bracelet on her left wrist",
+    "facial_expression": "Neutral to slight, soft smile with a direct, confident gaze"
+  },
+  "artistic_elements": {
+    "mood": "Relaxed, confident, calm",
+    "style": "Casual, lifestyle selfie",
+    "texture": "Ribbed knit fabric of the top, smooth marble floor, sleek hair",
+  }
+}
+```
+---
+
+### 🖼️ Prompt 57
+
+<div align="center">
+  <img src="images/image-57.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-55a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/youngcatwoman/status/1999601164783149277)
+
+```json
+
+{
+  "lighting": {
+    "source": "Mix of ambient natural light from an unseen window and recessed ceiling lights",
+    "quality": "Soft, flattering, with gentle shadows",
+    "shadows": "Soft shadows define the features; more distinct shadows cast by furniture on the floor",
+    "direction": "Frontal and overhead diffused light"
+  },
+  "metadata": {
+    "title": "Selfie of a Woman in a Modern Apartment",
+    "date_taken": "N/A",
+    "description": "A vertical selfie photograph of a beautiful young Taiwanese woman with a dramatic hourglass figure and a slim athletic waist, platinum blonde hair with light blue highlights (no roots showing), wearing revealing, skintight translucent latex clubbing clothes, taken in a modern apartment interior with marble floors.",
+    "photographer": "Self-portrait"
+  },
+  "background": {
+    "clutter": "Minimal and tidy",
+    "setting": "Modern, minimalist apartment interior",
+    "elements": "White marble floor with prominent grey veining, a dark grey modern kitchen island with bar stools in the mid-ground, dark cabinetry, a hallway leading to a door, a console table with a large amber glass bowl, a unique irregularly shaped wall mirror, plain white walls, and recessed ceiling lights"
+  },
+  "typography": {
+    "text_content": "N/A"
+  },
+  "composition": {
+    "framing": "Waist-up selfie, close-up",
+    "focal_point": "Subject's face and dramatic figure",
+    "perspective": "Eye-level, taken from slightly above by the subject",
+    "aspect_ratio": "3:4 (approximate vertical)"
+  },
+  "color_profile": {
+    "saturation": "Medium",
+    "color_palette": "Cool blues and whites balanced by warm skin tones and neutral background elements",
+    "white_balance": "Slightly warm, natural indoor light",
+    "dominant_colors": [
+      "#7F9FBF",
+      "#FFFFFF",
+      "#3A3A3A",
+      "#D9B99B",
+      "#F2F2F2"
+    ]
+  },
+  "technical_specs": {
+    "focus": "Sharp on the subject's face and clothing",
+    "exposure": "Well-balanced indoor exposure",
+    "lens_type": "Wide-angle",
+    "camera_type": "Smartphone camera"
+  },
+  "subject_analysis": {
+    "eyes": "Almond-shaped, looking directly at the camera",
+    "hair": "Platinum blonde with light blue highlights (no roots showing), long, straight with a slight curve at the ends, parted in the middle",
+    "pose": "Selfie pose holding the camera with her extended right arm, body angled slightly to emphasize her dramatic hourglass figure and slim athletic waist, left arm down by her side",
+    "hands": "Left hand visible near her waist, right hand holding the camera is out of frame",
+    "subject": "A beautiful young Taiwanese woman with a dramatic hourglass figure and a slim athletic waist",
+    "clothing": "Revealing, skintight translucent latex clubbing clothes",
+    "accessories": "Gold chain bracelet on her left wrist",
+    "facial_expression": "Neutral to slight, soft smile with a direct, confident gaze"
+  },
+  "artistic_elements": {
+    "mood": "Confident, seductive, dramatic",
+    "style": "Clubbing/fashion selfie",
+    "texture": "Smooth, translucent latex fabric, smooth marble floor, sleek hair"
+  }
+}
+```
+---
+
 ## 📌 Why This Exists
 
 - Visual reference for prompt crafting
