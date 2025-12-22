@@ -5604,6 +5604,1300 @@ Built for **inspiration**, **learning**, and **prompt engineering reference**.
 ```
 ---
 
+### 🖼️ Prompt 58
+
+<div align="center">
+  <img src="images/image-58.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-55a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/chatgptpaglu/status/1999373150518411348)
+
+```json
+
+{
+  "project_manifest": {
+    "id": "SELFIE_RECLINE_002",
+    "type": "Generative Image Configuration",
+    "target_platform": "Midjourney v6 / Stable Diffusion XL",
+    "schema_version": "5.2.0-scene-graph"
+  },
+  "render_configuration": {
+    "viewport": {
+      "aspect_ratio": "9:16",
+      "target_resolution": "1080x1920",
+      "orientation": "Portrait"
+    },
+    "virtual_camera": {
+      "type": "Smartphone Primary Sensor",
+      "lens_simulation": "Wide-Angle (24mm equiv)",
+      "perspective": "Exaggerated High-Angle (Overhead)",
+      "depth_of_field": "Moderate (Face focus, soft background)"
+    },
+    "processing_rules": {
+      "face_restoration": {
+        "enabled": true,
+        "mode": "Reference Match",
+        "tolerance": "Strict (No structural alteration)"
+      }
+    }
+  },
+  "scene_graph": {
+    "subject": {
+      "id": "primary_model",
+      "archetype": "Female Young Adult",
+      "pose_definition": {
+        "body_state": "Reclining / Supine",
+        "support_surface": "Pillows",
+        "head_orientation": "Forward-facing, gazing into lens",
+        "limb_placement": {
+          "right_arm": "Curled naturally beside head",
+          "general": "Spontaneous, playful"
+        }
+      },
+      "anatomy_features": {
+        "hair": {
+          "style": "Messy Bun",
+          "texture_modifiers": ["Loose", "Natural", "Flyaway strands"]
+        },
+        "face": {
+          "expression": "Relaxed, dreamy",
+          "dermal_details": ["Rosy cheeks"],
+          "eye_details": ["Long thick lashes"]
+        }
+      },
+      "apparel_inventory": {
+        "upper_body": {
+          "item": "Fitted Cropped T-Shirt",
+          "color_palette": "Cream White",
+          "graphic_content": {
+            "motif": "Powerpuff Girls",
+            "style": "Bright cartoon",
+            "placement": "Centered"
+          }
+        },
+        "lower_body": {
+          "item": "Casual Shorts",
+          "color_palette": "Light Beige",
+          "material_properties": "Soft fabric",
+          "fit": "Relaxed"
+        }
+      }
+    },
+    "environment": {
+      "setting_id": "indoor_bed_space",
+      "primary_props": [
+        {
+          "item": "Pillows",
+          "texture": "Soft textured fabric",
+          "color": "White",
+          "function": "Backdrop/Support"
+        }
+      ]
+    },
+    "lighting_engine": {
+      "type": "Natural Indoor",
+      "key_source": "Sunlight (Diffused)",
+      "shadows": "Soft, distinct",
+      "atmospheric_qualities": ["Warm", "Cozy", "Intimate"]
+    }
+  },
+  "style_parameters": {
+    "genre": "Social Media Candid",
+    "visual_tags": [
+      "Textural Realism",
+      "iPhone Aesthetic",
+      "Personal Tone",
+      "Intimate Atmosphere"
+    ],
+    "negative_prompt_concepts": [
+      "Distorted graphic",
+      "Unreadable cartoon",
+      "Harsh contrast",
+      "Studio lighting",
+      "Formal pose"
+    ]
+  }
+}
+```
+---
+
+### 🖼️ Prompt 59
+
+<div align="center">
+  <img src="images/image-59.png" width="200" style="margin-right:10px;" />
+  <img src="images/image-59a.png" width="200" />
+</div>
+
+**Source:** [𝕏](https://x.com/youngcatwoman/status/1999465717046059183)
+
+```json
+
+{
+  "project_manifest": {
+    "id": "SELFIE_RECLINE_002",
+    "type": "Generative Image Configuration",
+    "target_platform": "Midjourney v6 / Stable Diffusion XL",
+    "schema_version": "5.2.0-scene-graph"
+  },
+  "render_configuration": {
+    "viewport": {
+      "aspect_ratio": "9:16",
+      "target_resolution": "1080x1920",
+      "orientation": "Portrait"
+    },
+    "virtual_camera": {
+      "type": "Smartphone Primary Sensor",
+      "lens_simulation": "Wide-Angle (24mm equiv)",
+      "perspective": "Exaggerated High-Angle (Overhead)",
+      "depth_of_field": "Moderate (Face focus, soft background)"
+    },
+    "processing_rules": {
+      "face_restoration": {
+        "enabled": true,
+        "mode": "Reference Match",
+        "tolerance": "Strict (No structural alteration)"
+      }
+    }
+  },
+  "scene_graph": {
+    "subject": {
+      "id": "primary_model",
+      "archetype": "Beautiful Young KoreanAdult",
+      "pose_definition": {
+        "body_state": "Reclining / Supine",
+        "support_surface": "Pillows",
+        "head_orientation": "Forward-facing, gazing into lens",
+        "limb_placement": {
+          "right_arm": "Curled naturally beside head",
+          "general": "Spontaneous, playful"
+        }
+      },
+      "anatomy_features": {
+        "hair": {
+          "style": "Platinum Messy Bun",
+          "texture_modifiers": ["Loose", "Natural", "Flyaway strands"]
+        },
+        "face": {
+          "expression": "Relaxed, dreamy",
+          "dermal_details": ["Rosy cheeks"],
+          "eye_details": ["Long thick lashes"]
+        }
+      },
+      "apparel_inventory": {
+        "upper_body": {
+          "item": "Fitted Cropped Latex Shirt",
+          "color_palette": "Translucent White",
+          "graphic_content": {
+            "motif": "Powerpuff Girls",
+            "style": "Bright cartoon",
+            "placement": "Centered"
+          }
+        },
+        "lower_body": {
+          "item": "Booty Shorts",
+          "color_palette": "Translucent White",
+          "material_properties": "Glossy Reflective",
+          "fit": "Skintight"
+        }
+      }
+    },
+    "environment": {
+      "setting_id": "indoor_bed_space",
+      "primary_props": [
+        {
+          "item": "Pillows",
+          "texture": "Soft textured fabric",
+          "color": "White",
+          "function": "Backdrop/Support"
+        }
+      ]
+    },
+    "lighting_engine": {
+      "type": "Natural Indoor",
+      "key_source": "Sunlight (Diffused)",
+      "shadows": "Soft, distinct",
+      "atmospheric_qualities": ["Warm", "Cozy", "Intimate"]
+    }
+  },
+  "style_parameters": {
+    "genre": "Social Media Candid",
+    "visual_tags": [
+      "Textural Realism",
+      "iPhone Aesthetic",
+      "Personal Tone",
+      "Intimate Atmosphere"
+    ],
+    "negative_prompt_concepts": [
+      "Distorted graphic",
+      "Unreadable cartoon",
+      "Harsh contrast",
+      "Studio lighting",
+      "Formal pose"
+    ]
+  }
+}
+```
+---
+
+### 🖼️ Prompt 60
+
+<div align="center">
+  <img src="images/image-60.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-59a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/xIrissy/status/1999384085400289473)
+
+```json
+
+{
+  "image_generation_prompt": {
+    "subject": {
+      "description": "Young woman",
+      "features": [
+        "Long, dark hair",
+        "Gazing directly forward"
+      ],
+      "attire": "Unbuttoned, pinstriped shirt, tied at the waist, revealing upper chest",
+      "pose": "Posing against a textured wall"
+    },
+    "lighting": {
+      "type": "Volumetric Light",
+      "direction": "Strong, warm light from the right",
+      "effects": [
+        "Dramatic highlights",
+        "Distinct bar shadows across skin and wall",
+        "Striking interplay of light and shadow"
+      ]
+    },
+    "atmosphere": "Intimate and moody",
+    "technical_specifications": {
+      "camera_body": "ARRI Alexa 65",
+      "lens": "Leica Summilux-C 35mm",
+      "post_production": "Dolby Vision HDR",
+      "resolution": "8k"
+    },
+    "style_modifiers": [
+      "Hyper-realistic",
+      "Ultra-detailed cinematic shot",
+      "Filmic Ultra-Real Vision",
+      "Masterpiece",
+      "Photorealistic",
+      "High quality"
+    ],
+    "raw_prompt_string": "A hyper-realistic, ultra-detailed cinematic shot of A young woman with long, dark hair poses against a textured wall, gazing directly forward. She wears an unbuttoned, pinstriped shirt, tied at the waist, revealing her upper chest. Strong, warm light from the right illuminates her face and body, creating dramatic highlights and casting distinct bar shadows across her skin and the wall behind her. The overall atmosphere is intimate and moody, with a striking interplay of light and shadow. Style: Filmic Ultra-Real Vision. Shot on: ARRI Alexa 65 with a Leica Summilux-C 35mm. Lighting: Volumetric Light. Post-production: Dolby Vision HDR. 8k, masterpiece, photorealistic, high quality"
+  }
+}
+```
+---
+
+### 🖼️ Prompt 61
+
+<div align="center">
+  <img src="images/image-61.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-59a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/xIrissy/status/1999461492404683079)
+
+```json
+
+{
+  "image_generation_request": {
+    "prompts": {
+      "subject_description": "A photorealistic mirror selfie of a young woman squatting gracefully low, one knee forward, leaning slightly toward the mirror. 
+Head tilted slightly downward, eyes looking at the phone screen. Right hand holds a smartphone vertically in front of face, left hand rests on knee. 
+Expression is soft and calm.",
+      "visual_attributes": {
+        "face_match_mode": "strict_reference_adherence",
+        "hair": "Match reference hairstyle and hairline exactly",
+        "makeup": "Natural makeup style, matching reference lip shape and color",
+        "outfit": "Light-colored floral maxi dress, short sleeves, flowing fabric with a slit exposing the leg. White strappy heels.",
+        "accessories": "Silver necklace, silver bracelet, silver rings. Smartphone has a glitter silver phone case."
+      },
+      "environment": {
+        "setting": "Indoor room",
+        "background": "Floor-to-ceiling curtains in dark grey tones",
+        "floor": "Smooth and reflective",
+        "lighting": "Soft warm lighting, evenly illuminating face and outfit"
+      },
+      "style_modifiers": [
+        "Social media mirror selfie aesthetic",
+        "Soft warm tones",
+        "Medium-high clarity",
+        "Feminine and elegant mood",
+        "Eye-level mirror perspective",
+        "Sharp focus on face and outfit",
+        "8K high-resolution",
+        "Masterpiece"
+      ]
+    },
+    "negative_prompt": [
+      "incorrect face",
+      "wrong hairstyle",
+      "extra limbs",
+      "bad anatomy",
+      "different dress pattern",
+      "distorted proportions",
+      "text",
+      "watermark",
+      "low quality",
+      "blurry",
+      "oversaturated",
+      "illustration",
+      "cartoon"
+    ],
+    "technical_parameters": {
+      "aspect_ratio": "4:5",
+      "resolution": {
+        "width": 1024,
+        "height": 1280
+      },
+      "steps": 35,
+      "guidance_scale": 7.0,
+      "sampler": "DPM++ 2M Karras",
+      "face_restoration": true,
+      "control_net_settings": {
+        "enabled": true,
+        "module": "reference_only",
+        "weight": 1.0,
+        "guidance_start": 0.0,
+        "guidance_end": 1.0
+      }
+    }
+  }
+}
+```
+---
+
+### 🖼️ Prompt 62
+
+<div align="center">
+  <img src="images/image-62.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-59a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/xIrissy/status/1999751089336590647)
+
+```json
+
+{
+  "image_prompt_data": {
+    "subject": {
+      "type": "Young woman",
+      "archetype": "Fashion model",
+      "hair": {
+        "style": "Long, voluminous, loose waves",
+        "color": "Dirty blonde with honey highlights (balayage)",
+        "movement": "Slightly windblown"
+      },
+      "face": {
+        "makeup": "Soft glam, neutral tones, nude lipstick, defined eyebrows",
+        "expression": "Confident, alluring, direct gaze",
+        "features": "Symmetrical, high cheekbones"
+      }
+    },
+    "attire": {
+      "base_layer": {
+        "item": "Form-fitting bodysuit and leggings",
+        "color": "Matte black",
+        "neckline": "Scoop neck"
+      },
+      "outerwear": {
+        "item": "Plush faux fur jacket",
+        "color": "Deep burgundy / Maroon",
+        "style": "Open front, voluminous texture"
+      },
+      "accessories": [
+        {
+          "item": "Handbag",
+          "color": "Deep burgundy leather",
+          "position": "Held in right hand"
+        },
+        {
+          "item": "Wristwatch",
+          "material": "Gold",
+          "style": "Classic analog"
+        },
+        {
+          "item": "Earrings",
+          "style": "Small diamond studs"
+        }
+      ]
+    },
+    "setting": {
+      "location": "Luxury interior (upscale apartment or hotel suite)",
+      "background": "Blurred warm tones, wood paneling, soft furniture",
+      "lighting": "Cinematic soft lighting, warm ambient glow"
+    },
+    "technical_parameters": {
+      "style": "Photorealistic, High Fashion Photography",
+      "resolution": "8k, Ultra-HD",
+      "camera_settings": {
+        "shot_type": "Medium shot (thighs up)",
+        "focus": "Sharp focus on subject face",
+        "depth_of_field": "Shallow (Bokeh background)",
+        "lens": "85mm portrait lens",
+        "aperture": "f/1.8"
+      }
+    }
+  }
+}
+```
+---
+
+### 🖼️ Prompt 63
+
+<div align="center">
+  <img src="images/image-63.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-59a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/xIrissy/status/1999830450274218321)
+
+```json
+
+{
+  "portrait_style": "serene beachside",
+  "subject": {
+    "description": "young woman",
+    "pose": "sitting gracefully on soft white sand near the shoreline",
+    "gaze": "thoughtfully toward the horizon"
+  },
+  "attire": {
+    "dress": {
+      "color": "pastel mint-green",
+      "style": "flowing, thin straps",
+      "interaction": "gently catching the sea breeze"
+    },
+    "accessories": "delicate necklace and earrings"
+  },
+  "physical_features": {
+    "hair": "long, wavy brown, cascading over her shoulder"
+  },
+  "setting": {
+    "location": "beach near the shoreline",
+    "elements": [
+      "soft white sand",
+      "calm turquoise ocean",
+      "clear blue sky"
+
+   "technical_parameters": {
+      "style": "Photorealistic, High Fashion Photography",
+      "resolution": "8k, Ultra-HD",
+      "camera_settings": {
+        "shot_type": "Medium shot (thighs up)",
+        "focus": "Sharp focus on subject face",
+        "depth_of_field": "Shallow (Bokeh background)",
+        "lens": "85mm portrait lens",
+        "aperture": "f/1.8"
+
+    ]
+  },
+  "lighting": {
+    "time_of_day": "late afternoon",
+    "quality": "golden light"
+  },
+  "atmosphere": [
+    "peaceful",
+    "romantic",
+    "warmth",
+    "tranquility",
+    "feminine grace",
+    "summer or coastal aesthetic"
+  ]
+}
+```
+---
+
+### 🖼️ Prompt 64
+
+<div align="center">
+  <img src="images/image-64.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-59a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/xIrissy/status/1999878717242569027)
+
+```json
+
+{
+  "image_prompt_data": {
+    "meta": {
+      "title": "Trending Candid Lifestyle",
+      "style_preset": "Photorealistic",
+      "vibe": "Casual, Cozy, Youthful"
+    },
+    "subject": {
+      "demographic": "Young American woman",
+      "expression": "Relaxed, cheerful",
+      "pose": "Sitting comfortably",
+      "focus": "Looking at phone"
+    },
+    "attire": {
+      "top": "Loose white oversized t-shirt",
+      "bottom": "Black shorts",
+      "accessories": "None specified"
+    },
+    "props": {
+      "primary": "Smartphone",
+      "secondary": "Half-finished iced Starbucks drink (green straw)",
+      "tertiary": "Open laptop resting on lap"
+    },
+    "environment": {
+      "setting": "Indoors",
+      "background": "Simple muted wall",
+      "context": "Multitasking or working casually"
+    },
+    "lighting_and_atmosphere": {
+      "source": "Warm natural sunlight",
+      "time_of_day": "Golden hour",
+      "quality": "Soft shadows, sunlit glow",
+      "mood": "Bright, spontaneous, energetic"
+    },
+    "technical_specs": {
+      "composition": "Candid, modern lifestyle photography",
+      "keywords": [
+        "Trending look",
+        "High quality",
+        "Photorealistic",
+        "Depth of field"
+      ]
+    },
+    "full_combined_prompt": "Candid modern lifestyle photo of a young American woman sitting comfortably indoors, illuminated by warm natural sunlight. She has a relaxed, cheerful expression, looking at her phone while holding a half-finished iced Starbucks drink with a green straw. Wearing a loose white oversized t-shirt and black shorts. Open laptop on lap. Simple muted wall background. Bright, spontaneous, youthful atmosphere, soft shadows, golden-hour glow, photorealistic, trending look."
+  }
+}
+```
+---
+
+### 🖼️ Prompt 65
+
+<div align="center">
+  <img src="images/image-65.png" width="200" style="margin-right:10px;" />
+  <img src="images/image-65a.png" width="200" />
+</div>
+
+**Source:** [𝕏](https://x.com/youngcatwoman/status/1999965713814217179)
+
+```json
+{
+  "image_prompt_data": {
+    "meta": {
+      "title": "Trending Candid Lifestyle",
+      "style_preset": "Photorealistic",
+      "vibe": "Casual, Cozy, Youthful"
+    },
+    "subject": {
+      "demographic": "Beautiful young Japanese woman with a dramatic hourglass figure with bright silver hair",
+      "expression": "Relaxed, cheerful",
+      "pose": "Sitting comfortably",
+      "focus": "Looking at phone"
+    },
+    "attire": {
+      "top": "White latex bodysuit",
+      "bottom": "White latex bodysuit",
+      "accessories": "None specified"
+    },
+    "props": {
+      "primary": "Smartphone",
+      "secondary": "Half-finished iced Starbucks drink (green straw)",
+      "tertiary": "Open laptop resting on lap"
+    },
+    "environment": {
+      "setting": "Indoors",
+      "background": "Simple muted wall",
+      "context": "Multitasking or working casually"
+    },
+    "lighting_and_atmosphere": {
+      "source": "Warm natural sunlight",
+      "time_of_day": "Golden hour",
+      "quality": "Soft shadows, sunlit glow",
+      "mood": "Bright, spontaneous, energetic"
+    },
+    "technical_specs": {
+      "composition": "Candid, modern lifestyle photography",
+      "keywords": [
+        "Trending look",
+        "High quality",
+        "Photorealistic",
+        "Depth of field"
+      ]
+    },
+    "full_combined_prompt": "Candid modern lifestyle photo of a beautiful young Japanese woman with a dramatic hourglass figure with bright silver hair sitting comfortably indoors, illuminated by warm natural sunlight. She has a relaxed, cheerful expression, looking at her phone while holding a half-finished iced Starbucks drink with a green straw. Wearing a white latex bodysuit. Open laptop on lap. Simple muted wall background. Bright, spontaneous, youthful atmosphere, soft shadows, golden-hour glow, photorealistic, trending look."
+  }
+}
+```
+---
+
+### 🖼️ Prompt 66
+
+<div align="center">
+  <img src="images/image-66.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-65a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/xIrissy/status/1999507904723059203)
+
+```json
+{
+  "generation_constraints": {
+    "consistency_requirement": "100% same face & body",
+    "target_subject": "Preserved character identity"
+  },
+  "subject": {
+    "demographics": "Young American girl in her 20s",
+    "appearance": {
+      "hair": {
+        "length": "Long",
+        "color": "Dark",
+        "style": "High ponytail"
+      }
+    },
+    "attire": {
+      "garment_type": "Jumpsuit",
+      "fit": "Form-fitting",
+      "style": "Off-the-shoulder",
+      "color": "Black",
+      "fabric_details": {
+        "sleeves": "Circular cut-outs with metal rings",
+        "torso_and_legs": "Sheer, lace-patterned fabric"
+      },
+      "footwear": "Black high-heeled shoes"
+    },
+    "pose": {
+      "leg_action": "One leg bent and raised",
+      "arm_action": "Arm bent",
+      "hand_placement": "Near face",
+      "overall_stance": "Striking a pose"
+    }
+  },
+  "environment": {
+    "setting": "Concrete parking garage",
+    "structural_elements": [
+      "Pillars"
+    ],
+    "lighting": "Dim lighting"
+  }
+}
+```
+---
+
+### 🖼️ Prompt 67 &nbsp;&nbsp;&nbsp;&nbsp; ⁶🤷⁷
+
+<div align="center">
+  <img src="images/image-67.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-65a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/xmliisu/status/1999507373619048501)
+
+```json
+{
+  "lighting": {
+    "type": "artificial_fluorescent_lighting",
+    "source": "internal_refrigerator_lights_and_overhead_ceiling_lights",
+    "quality": "bright, harsh, slightly cool",
+    "shadows": "soft, minimal, mostly cast downwards",
+    "direction": "from_front_and_above",
+    "highlights": "specular_highlights_on_glass_bottles_and_plastic_packaging",
+    "ambient_light": "brightly_lit_convenience_store_interior"
+  },
+  "background": {
+    "details": "brightly lit interiors of fridges, colorful labels, black metal frames of fridges, grey tiled floor, 'Energy' signs on fridge headers",
+    "objects": "two large glass-door refrigerators filled with various beverages (sodas, energy drinks, water, milk), price tags, promotional stickers, tiled floor",
+    "setting": "convenience_store_aisle",
+    "spatial_relationship": "subject stands between two refrigerator units, slightly in front of the left one"
+  },
+  "typography": {
+    "text_color": "black, red, white, various_colors",
+    "font_styles": "bold, sans-serif, script, decorative",
+    "visible_text": "I [heart shape] PARIS, Energy, Schweppes, Solo, Sprite, Fanta, Powerade, Monster, Red Bull, Dare, Dairy Farmers, Oak, Nippy's, V, Kirks, Mt Franklin, Pump, Lipton, Pepsi",
+    "text_placement": "on_t-shirt, on_product_labels, on_refrigerator_headers"
+  },
+  "composition": {
+    "framing": "medium_shot",
+    "shot_type": "eye_level_shot",
+    "viewpoint": "slightly_off_center",
+    "focal_point": "woman_in_center",
+    "depth_of_field": "shallow_depth_of_field",
+    "rule_of_thirds": "subject_is_aligned_with_the_left_vertical_line"
+  },
+  "color_profile": {
+    "palette": [
+      "#FFFFFF",
+      "#000000",
+      "#2D2D2D",
+      "#FF0000",
+      "#87CEEB",
+      "#F0E68C",
+      "#A9A9A9"
+    ],
+    "contrast": "medium_high",
+    "color_tone": "cool, fluorescent",
+    "saturation": "medium",
+    "dominant_colors": "white, blue, black, multi-colored products"
+  },
+  "technical_specs": {
+    "iso": "unknown",
+    "focus": "sharp_focus_on_subject",
+    "aperture": "unknown",
+    "lens_type": "wide_angle",
+    "resolution": "high",
+    "camera_type": "smartphone_camera",
+    "shutter_speed": "unknown"
+  },
+  "subject_analysis": {
+    "hair": {
+      "color": "dark_brown",
+      "style": "long, straight, sleek, center_part",
+      "length": "past_shoulders"
+    },
+    "pose": "standing, weight on left leg, right hand touching stomach near belly button ring, left arm down, head turned to her right looking upwards",
+    "clothing": {
+      "top": "white crop t-shirt with black 'I [heart] PARIS' graphic",
+      "bottom": "light wash, baggy low-rise denim jeans",
+      "accessories": "black shoulder bag, small hoop earrings, belly button ring"
+    },
+    "skin_tone": "olive",
+    "subject_type": "young_woman",
+    "facial_expression": "neutral, looking away, contemplative",
+    "hands_and_gestures": "right hand with painted nails touching bare midriff near navel piercing, left hand relaxed by her side"
+  },
+  "artistic_elements": {
+    "mood": "casual, posed, everyday",
+    "style": "candid-style, social_media_portrait",
+    "pattern": "vertical_lines_of_refrigerator_shelves, repeating_product_labels",
+    "texture": "smooth_skin, cotton_fabric, denim, glass, plastic",
+    "narrative": "A young woman posing in a convenience store aisle."
+  },
+  "generation_parameters": {
+    "prompt": "A medium shot photograph of a young woman with long dark hair, wearing a white 'I [heart] PARIS' crop top and low-rise baggy jeans, standing in a well-lit convenience store aisle. She is posing between two large glass-door refrigerators filled with colorful drinks, looking away to her right. Her right hand is touching her belly button ring. The lighting is bright and fluorescent.",
+    "negative_prompt": "blurry, out of focus, low resolution, dark lighting, empty shelves, man, child, outdoor setting"
+  }
+}
+```
+---
+
+### 🖼️ Prompt 68
+
+<div align="center">
+  <img src="images/image-68.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-65a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/IamEmily2050/status/1982643287745032379)
+
+```json
+{
+  "scene": {
+    "description": "Stylish restroom dressing area captured via mirror.",
+    "environment": "Warm wood-laminate stall doors and soft countertop reflections.",
+    "mood": "Shy-playful confidence; cozy 'Gamseong' (감성) aesthetic."
+  },
+  "aesthetic": {
+    "style": "Authentic smartphone mirror selfie.",
+    "look": "Warm interior color, gentle roll-off; minimal grain; filmic soft contrast."
+  },
+  "lighting": {
+    "description": "Ceiling LEDs providing warm ambience; add subtle front fill from mirror to open eye sockets; maintain realistic specular highlights."
+  },
+  "subject": {
+    "demographics": {
+      "ethnicity": "East Asian (Korean)",
+      "age": "adult",
+      "build": "Very slender, petite with defined waist."
+    },
+    "appearance": {
+      "hair": "Messy top-bun with full fringe; a few loose side strands.",
+      "skin": "Natural, dewy finish with preserved skin texture."
+    },
+    "pose": {
+      "type": "Mirror selfie, standing.",
+      "action": "Gentle smile with lips slightly pressed; left hand lightly lifting ruched hem; right hand holding phone.",
+      "framing": "Waist-up 3:4 vertical; slight downward camera angle; midriff visible."
+    },
+    "wardrobe": {
+      "top": "Asymmetrical olive-gray ruched one-shoulder top.",
+      "bottom": "Low-rise jeans with faux-fur waistband trim."
+    },
+    "accessories": {
+      "jewelry": "Thin bracelets, rings, and delicate hoop earrings.",
+      "phone": "Smartphone with black cat case featuring a pink bow (Hello-Kitty style)."
+    }
+  },
+  "props_in_scene": {
+    "background": "Wood-grain stall doors with verticals kept true; metal hinges subtly visible.",
+    "counter": "Keep any edge reflections soft and realistic."
+  },
+  "camera_technical": {
+    "requirements": "Correct mirror reversal; maintain natural body proportions; no duplicated phones/hands.",
+    "capture": "Smartphone wide lens ~24–26mm equiv, f/1.8 look, ISO ~250, 1/125s, WB 4200–4400K.",
+    "composition": "Subject centered with slight lean; keep fur texture readable; ensure phone and hand pose feel natural.",
+    "retouching": "Clean minor blemishes only; preserve fabric micro-wrinkles and fur fibers; avoid haloing.",
+    "avoid": "Warped doors, heavy vignettes, oversharpening, cartoon smoothing, text/watermarks."
+  }
+}
+```
+---
+
+### 🖼️ Prompt 69
+
+<div align="center">
+  <img src="images/image-69.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-65a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/IamEmily2050/status/1981124366411895079)
+
+```json
+{
+  "scene": {
+    "description": "Indoor mirror selfie in a contemporary bedroom or dressing area.",
+    "lighting": "Soft, warm ambient interior lighting, flattering and even.",
+    "environment": "Neutral background, slightly blurred, suggesting closet doors or plain walls."
+  },
+  "subject": {
+    "demographics": {
+      "ethnicity": "Korean (East Asian)",
+      "apparent_age": "20-23",
+      "build": "Very slender, 'S-line' figure with a notably tiny waist ('ant waist') and defined, toned abs."
+    },
+    "facial_aesthetics": {
+      "style_keywords": ["Ulzzang (얼짱) aesthetic", "Casual beauty", "Doll-like features", "Youthful and confident"],
+      "face_shape": "Small face with a coveted V-line jaw.",
+      "eyes": "Large, bright 'Doe eyes'. Prominent Aegyo-sal. Soft, natural eyeliner.",
+      "skin": "Flawless 'Glass skin', pale complexion, dewy finish.",
+      "lips": "Plump cherry lips, soft pink gradient tint.",
+      "hair": {
+        "color": "Warm medium brown",
+        "style": "Long, gentle waves",
+        "bangs": "Airy, 'see-through' bangs (Korean style) framing the forehead."
+      }
+    },
+    "pose": {
+      "type": "Standing mirror selfie.",
+      "action": "Subject is confidently lifting the hem of her sweater with both hands to expose her toned midriff.",
+      "expression": "Soft, pleasant expression, subtle smile, eyes focused on the phone screen.",
+      "framing": "Medium shot (hips to head)."
+    },
+    "wardrobe": {
+      "top": {
+        "garment": "Cropped cable-knit sweater",
+        "color": "Cream / Ivory white",
+        "details": "Distinctive hybrid design with sheer, voluminous organza ruffles on the sleeves and cuffs."
+      },
+      "bottom": {
+        "garment": "Blue jeans",
+        "fit": "Low-rise, relaxed fit.",
+        "details": "Light-to-medium wash denim, worn unbuttoned and slightly pulled down at the hips."
+      }
+    },
+    "accessories": {
+      "phone": "Dark gray smartphone held in the hand, rear camera visible in the mirror."
+    }
+  },
+  "camera_technical": {
+    "device": "Smartphone rear camera via mirror",
+    "look": "Clean, high-quality mobile photography, vertical orientation (3:4).",
+    "focus": "Sharp focus on the subject's face and torso."
+  }
+}
+```
+---
+
+### 🖼️ Prompt 70
+
+<div align="center">
+  <img src="images/image-70.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-65a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/karatademada/status/1974533927986757752)
+
+```json
+{
+  "scene": "Young woman in a small bathroom standing at the sink, caught mid-action while applying makeup.",
+  "subject": {
+    "gender": "female",
+    "age": "early 20s",
+    "skin_tone": "light with warm undertones",
+    "hair": {
+      "style": "long, wavy, voluminous",
+      "color": "auburn/copper red with highlights",
+      "parting": "slightly off-center"
+    },
+    "face": {
+      "makeup": "glamorous style with bold eyeliner, long eyelashes, glossy lipstick, subtle blush and highlight",
+      "expression": "confident, seductive gaze directly into camera"
+    },
+    "outfit": {
+      "top": "black lace lingerie bralette with thin straps, revealing fit",
+      "bottom": "matching lace detail visible",
+      "overall_style": "sensual, intimate"
+    },
+    "pose": {
+      "upper_body": "turned slightly toward camera, shoulders angled",
+      "arms": "one hand holding eyeliner pencil near face, the other resting by sink",
+      "head": "slightly tilted back, eyes locked onto viewer"
+    }
+  },
+  "environment": {
+    "location": "bathroom",
+    "background": {
+      "walls": "plain white",
+      "tiles": "white rectangular tiles on lower wall near sink",
+      "shelves": "white shelves above sink with scattered toiletries (toothbrush, bottles, cords)",
+      "sink": "small ceramic sink with faucet, partly visible",
+      "towel": "yellow towel hanging in background",
+      "clothes": "neutral-toned jacket draped casually in the corner"
+    },
+    "lighting": "soft indoor lighting, slightly warm tone, creating a natural highlight on skin",
+    "camera": {
+      "angle": "eye-level, intimate framing",
+      "framing": "mid-body shot, centered on woman",
+      "lens": "slight film-like aesthetic, subtle grain and muted colors"
+    }
+  },
+  "style": {
+    "aesthetic": "vintage film photography look",
+    "color_palette": "warm tones, cream, black, auburn, soft yellow",
+    "mood": "intimate, candid, alluring",
+    "quality": "photorealistic, cinematic detail"
+  }
+}
+```
+---
+
+### 🖼️ Prompt 71
+
+<div align="center">
+  <img src="images/image-71.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-65a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/IamEmily2050/status/1970778635738198450)
+
+```json
+{
+  "shot": "Full-body vertical portrait (9:16), subject in 3/4 profile toward camera, centered between wall and window.",
+  "subject": {
+    "age": "adult woman (25+)",
+    "appearance": "slender, long dark hair, no hat, calm/introspective expression",
+    "pose": "weight on left leg with right knee slightly crossed; slight torso twist; head angled down so hair shadow softens face; right hand near hip, left arm relaxed along thigh"
+  },
+  "wardrobe": "opaque BLUE lace bra and matching bikini briefs (no sheer fabric, tasteful fashion lingerie)",
+  "breast_view": "Covered cleavage contour shaped by opaque bra; natural proportions; camera height slightly above bust with a gentle downward tilt to preserve the neckline while keeping the full body in frame. No nipple/areola visibility.",
+  "environment": "minimalist apartment interior; sheer curtains at left with balcony rails visible; textured interior wall at right; clean floor baseboard",
+  "lighting": "strong backlight from window left; soft rim along shoulders/abdomen; low-key with gentle halation and soft roll-off",
+  "camera": {
+    "focal_length": "55mm look",
+    "aperture": "f/2.2",
+    "distance": "3.2 m",
+    "angle": "slightly above eye level, tilt −5°",
+    "framing": "head-to-toe in frame; toes visible"
+  },
+  "color_grade": "BLACK & WHITE global grade with SELECTIVE COLOR only on underwear in blue",
+  "selective_color": {
+    "mask_target": "bra_and_briefs_only",
+    "blue_palette_hex": ["#1E3A8A", "#2563EB", "#60A5FA"],
+    "rule": "no other hues anywhere; all else strictly monochrome"
+  },
+  "style": "fashion-editorial, moody noir silhouette, realistic anatomy",
+  "quality": "photo-real 4K detail; accurate fabric texture; subtle film grain",
+  "negatives": "no explicit nudity, no see-through fabric, no nipples/areola, no genitals, no pornographic poses, no exaggerated anatomy, no other colors besides blue on underwear, no text/logos/watermarks, no minors"
+}
+```
+---
+
+### 🖼️ Prompt 72
+
+<div align="center">
+  <img src="images/image-72.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-65a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/IamEmily2050/status/1975554358495654236)
+
+```json
+{
+  "style": "High-key studio portrait, direct flash aesthetic, East Asian social media style (e.g., Ulzzang, Douyin), stylized beauty retouching.",
+  "output": {
+    "color_profile": "sRGB",
+    "render_intent": "photo"
+  },
+  "subject": {
+    "category": "human",
+    "gender_presentation": "female",
+    "ethnicity": "East Asian (e.g., Korean, Chinese)",
+    "age_bracket": "young_adult",
+    "body": {
+      "build": "slim",
+      "proportions": "natural human anatomy",
+      "posture": "relaxed on sofa, seated casually",
+      "pose": "seated, legs crossed and tucked close to body",
+      "gesture": "Right hand raised, fingers loosely curled, back of fingers/knuckles gently supporting the chin and lower cheek.",
+      "head_tilt_deg": 5
+    },
+    "face": {
+      "expression": "Playful, alluring",
+      "gaze": "right eye direct to camera",
+      "eye_action": "winking with the left eye",
+      "skin_tone": "Very pale porcelain (lightened aesthetic)",
+      "makeup": "Stylized K-Beauty/Douyin look: flawless matte base, strong pink blush high on cheeks, pink gradient lips, defined brows, light eyeliner, emphasized Aegyo-sal",
+      "features": "small beauty mark/mole under the left eye"
+    },
+    "hair": {
+      "length": "long",
+      "style": "messy high updo/bun with loose strands and curtain bangs",
+      "color": "dark brown"
+    },
+    "wardrobe": {
+      "top": "white fitted cropped camisole",
+      "outerwear": "light gray zip hoodie, worn open and slightly slipping off both shoulders",
+      "bottom": "white lounge shorts with drawstring",
+      "footwear": "barefoot"
+    }
+  },
+  "environment": {
+    "location": "studio or minimalist interior",
+    "set": "black leather sofa against a plain white or light gray wall",
+    "props": "Silver laptop (Apple MacBook, logo visible) placed on the cushion to the subject's right (camera left)"
+  },
+  "lighting": {
+    "key": {
+      "source": "strobe/flash",
+      "modifier": "Bare reflector or direct flash (hard source)",
+      "position": "Near camera axis, slightly camera-right and above eye line",
+      "effect": "Crisp, dark, well-defined cast shadows on the wall directly behind subject; strong specular highlights on skin and sofa leather."
+    },
+    "fill": {
+      "type": "minimal/none"
+    },
+    "ambient": "suppressed",
+    "white_balance_K": 5800
+  },
+  "camera": {
+    "system": "Digital Camera",
+    "sensor": "full-frame equivalent",
+    "lens": {
+      "type": "prime",
+      "focal_length_mm": 50
+    },
+    "exposure": {
+      "iso": 100,
+      "aperture_f": 4.0,
+      "metering": "Bright exposure, high-key aesthetic"
+    },
+    "focus": {
+      "target": "near eye (right eye)",
+      "depth_of_field": "moderate"
+    },
+    "framing": {
+      "orientation": "vertical",
+      "crop": "mid-thigh to head with room above hair",
+      "angle": "eye-level",
+      "composition": "subject centrally framed"
+    }
+  },
+  "color_grade": {
+    "look": "Bright, clean, slightly cool tone",
+    "contrast": "High contrast",
+    "saturation": "moderate, emphasized pinks"
+  },
+  "postprocess": {
+    "noise_reduction": "high",
+    "texture": "Highly smoothed skin, poreless appearance ('porcelain doll' or 'beauty filter' effect)",
+    "sharpen": "selective on eyes/lashes",
+    "blemish_control": "Complete removal of all blemishes and texture."
+  },
+  "quality_targets": [
+    "accurate limb lengths and joint angles",
+    "correct finger count and articulation",
+    "realistic fabric tension and folds",
+    "accurate winking expression"
+  ],
+  "negative_prompt": [
+    "no altered or exaggerated body proportions",
+    "no extra or fused fingers",
+    "no realistic skin texture, pores, or blemishes",
+    "no text or watermarks (excluding specified logos)",
+    "no extreme wide-angle distortion",
+    "no NSFW content",
+    "no dark/moody lighting",
+    "no warm tones"
+  ]
+}
+```
+---
+
+### 🖼️ Prompt 73
+
+<div align="center">
+  <img src="images/image-73.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-65a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/IamEmily2050/status/1976431328280416520)
+
+```json
+{
+  "scene": "mirror_selfie_otaku_pc_corner_blue",
+
+  "subject": {
+    "gender_presentation": "female",
+    "age_bracket": "mid_20s",
+    "ethnicity": "East Asian", 
+    "build": "slim with defined waist; natural proportions",
+    "skin_tone": "light neutral",
+    "hair": { "length": "very long", "style": "straight with slight wave ends", "color": "medium brown" },
+    "pose": {
+      "stance": "standing, slight contrapposto",
+      "right_hand": "holding phone in front of face (identity obscured)",
+      "left_arm": "relaxed alongside torso",
+      "torso": "subtle arch; midriff visible"
+    },
+    "wardrobe": {
+      "top": "baby-blue cropped knit cardigan, two buttons fastened; blue bralette subtly visible",
+      "bottom": "denim micro-shorts with blue satin ribbon bows at both hips",
+      "socks": "thigh-high blue-and-white horizontal stripes",
+      "accessories": { "phone_case": "blue cute mascot case" }
+    }
+  },
+
+  "environment": {
+    "description": "bedroom PC corner seen in a wall mirror",
+    "furnishings": [
+      "white desk",
+      "single monitor with pastel blue wallpaper (no readable text)",
+      "mechanical keyboard with white keycaps on blue desk mat",
+      "mouse on small blue mousepad",
+      "PC tower to the right with blue case lighting",
+      "three anime figures on/near the PC",
+      "pagoda poster on wall",
+      "cat-shaped desk lamp with blue accent",
+      "clear glass of water",
+      "tall leafy plant by window (camera-left)"
+    ],
+    "color_swap": "replace all former pink accents in wardrobe and room with blue (baby blue → sky/periwinkle)."
+  },
+
+  "lighting": {
+    "source": "daylight from large window camera-left through sheer curtain",
+    "quality": "soft diffused",
+    "white_balance_K": 5200
+  },
+
+  "camera": {
+    "mode": "smartphone rear camera via mirror (no portrait/bokeh mode)",
+    "focal_length_eq_mm": 26,
+    "distance_m": { "subject_to_mirror": 0.6, "camera_to_mirror": 0.5 },
+    "exposure": { "aperture_f": 1.8, "iso": 100, "shutter_s": 0.01, "ev_comp": -0.3 },
+    "focus": "torso and shorts in reflection",
+    "depth_of_field": "natural smartphone DOF (deep); background readable, no artificial blur",
+    "framing": {
+      "aspect_ratio": "1:1",
+      "crop": "top of head to mid-thigh; include desk, monitor, PC, and plant",
+      "angle": "slight downward tilt from mirror viewpoint",
+      "composition_notes": "keep subject centered; avoid wide-edge stretching by stepping back and cropping square"
+    }
+  },
+
+  "negatives": [
+    "pink/magenta accents anywhere",
+    "beauty-filter/airbrushed skin; poreless look",
+    "exaggerated or distorted anatomy",
+    "NSFW, see-through fabric, wardrobe malfunction",
+    "logos, brand names, readable UI text",
+    "fake portrait-mode blur, CGI/illustration look"
+  ]
+}
+```
+---
+
+### 🖼️ Prompt 74
+
+<div align="center">
+  <img src="images/image-74.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-65a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/IamEmily2050/status/1977075634536169827)
+
+```json
+{
+    "style": "smartphone_selfie_low_light_high_contrast"
+  },
+  "image_description": {
+    "subject": {
+      "type": "Person",
+      "gender": "Female",
+      "age_appearance": "Young Adult (early 20s)",
+      "ethnicity_appearance": "East Asian",
+      "complexion": {
+        "tone": "Extremely pale, fair.",
+        "texture": "Smooth, flawless, matte finish."
+      },
+      "hair": {
+        "color": "Intense platinum blonde. Appears almost white in direct light, with subtle silvery or pale lavender undertones visible in the shadows.",
+        "style": "Long and straight, voluminous, flowing over the shoulders and chest.",
+        "bangs": "Full, straight-cut fringe (bangs) ending just above the eyelashes.",
+        "texture": "Soft, slightly wispy, highly reflective of light."
+      },
+      "facial_features": {
+        "eyes": {
+          "size": "Large and prominent (doe-eyed).",
+          "color": "Cool-toned grey or deep blue-grey. Enhanced by colored contact lenses with a defined limbal ring.",
+          "makeup": "Dramatic and precise. Thick black eyeliner on the upper lid with a sharp wing. Very long, dense, and voluminous false eyelashes on both upper and lower lashes. Defined 'aegyo-sal' (under-eye area emphasized with subtle highlight/shimmer).",
+          "eyebrows": "Relatively straight, groomed, and filled in softly."
+        },
+        "nose": "Small, slim bridge, defined tip, highlighted along the bridge.",
+        "lips": {
+          "shape": "Full, plump, well-defined cupid's bow.",
+          "state": "Slightly parted.",
+          "color": "Soft, glossy muted-pink or peach lip tint."
+        }
+      },
+      "expression": "Neutral, direct, slightly sultry gaze into the camera lens."
+    },
+    "attire_and_accessories": {
+      "clothing": {
+        "top": "Black strapless top (tube top or dress). Shoulders and clavicle are bare.",
+        "details": "The fabric is deep black. Upon close inspection, a subtle, darker lace or embroidered pattern is visible on the bodice area.",
+        "bottoms": "Black material visible on the thigh in the lower-left corner (suggesting shorts, skirt, or thigh-highs)."
+      },
+      "jewelry": [
+        {
+          "type": "Earring",
+          "location": "Left ear",
+          "description": "A very large, thin, metallic silver hoop earring."
+        },
+        {
+          "type": "Necklace",
+          "description": "Worn on a thin dark cord or chain.",
+          "pendant": "A prominent, ornate silver cross. The pendant has a stylized, gothic or fantasy design with flared, pointed ends. The surface is intricate and catches the light, suggesting embedded crystals or multifaceted metalwork."
+        }
+      ]
+    },
+    "pose_and_composition": {
+      "type": "Selfie",
+      "orientation": "Portrait",
+      "angle": "Slightly high angle.",
+      "framing": "Close-up, tightly framed on the head, shoulders, and upper torso.",
+      "pose": "Subject is reclining or seated. Her right arm is extended forward towards the camera (holding the device), creating a forced perspective where the arm and shoulder are prominent in the lower right foreground."
+    },
+    "environment_and_lighting": {
+      "environment": "Indoor, very dark, suggesting nighttime or a dimly lit room.",
+      "lighting": {
+        "source": "Frontal, direct lighting (likely from the phone screen, flash, or ring light).",
+        "effect": "High contrast. Illuminates the face and hair brightly against the dark background. Creates bright catchlights in the eyes. Soft shadows define the facial structure."
+      }
+    }
+  }
+}
+```
+---
+
 ## 📌 Why This Exists
 
 - Visual reference for prompt crafting
