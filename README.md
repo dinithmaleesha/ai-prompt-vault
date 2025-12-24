@@ -7358,6 +7358,564 @@ Expression is soft and calm.",
 ```
 ---
 
+### 🖼️ Prompt 80
+
+<div align="center">
+  <img src="images/image-80.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-77a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/sumiturkude007/status/2003128761114562705)
+
+```json
+{
+  "image_prompt_structure": {
+    "subject": {
+      "demographics": "Young woman, roughly 20-25 years old, Caucasian",
+      "body_type": "Fit, athletic, slender build, visible abdominal definition",
+      "skin": {
+        "tone": "Fair to light tan, sun-kissed",
+        "texture": "Natural skin texture, visible pores, slight sheen from sunlight, realistic skin shading",
+        "details": "Soft natural highlights on shoulders and thighs, slight flush on cheeks"
+      },
+      "facial_features": {
+        "expression": "Soft, relaxed smile, confident but casual, looking directly at camera",
+        "eyes": "Light blue-grey, natural eyelashes, direct gaze, slight squint from sunlight",
+        "nose": "Small, button nose, straight bridge",
+        "lips": "Natural pink color, soft texture, closed mouth smile",
+        "cheeks": "High cheekbones, rosy/sun-flushed complexion",
+        "makeup": "Minimal/natural look, 'no-makeup' makeup style"
+      },
+      "hair": {
+        "style": "High pigtails secured with hair ties",
+        "color": "Blonde, sun-bleached highlights",
+        "texture": "Straight but slightly messy, wind-swept flyaways, unkempt casual look"
+      }
+    },
+    "attire": {
+      "type": "String bikini",
+      "pattern": "Pink and white tie-dye/marble pattern",
+      "details": "Triangle top, side-tie bottoms, thin strings, visible knot on hip"
+    },
+    "accessories": {
+      "jewelry": "Gold chain necklace, small gold hoop earrings"
+    },
+    "pose_and_action": {
+      "posture": "Kneeling on the ground, leaning forward slightly",
+      "hands": "Resting stacked on top of the tennis racket handle",
+      "orientation": "Front-facing body, head tilted slightly to the side"
+    },
+    "props": {
+      "item": "Tennis racket",
+      "color": "Pink and black frame, white grip tape",
+      "position": "Vertical, head of racket resting on the ground, handle pointing up supporting the subject's hands"
+    },
+    "environment": {
+      "location": "Outdoor tennis court",
+      "ground_surface": "Green hard court surface with white boundary lines, maroon/red out-of-bounds area visible in bottom left",
+      "background": "Green windscreen attached to chain-link fence, tall pine trees visible above the fence line, clear blue sky peeking through"
+    },
+    "lighting": {
+      "type": "Natural sunlight, Golden Hour",
+      "direction": "Side-lit/Front-lit from the right",
+      "shadows": "Hard shadow cast by the subject onto the green court to the left, distinct shadow of the racket mesh"
+    },
+    "technical_specs": {
+      "camera_angle": "Eye-level to slightly high angle",
+      "focus": "Sharp focus on subject, slightly softer background",
+      "aspect_ratio": "3:4 (Portrait)",
+      "style": "Photorealistic, candid social media aesthetic, high definition"
+    }
+  }
+}
+```
+---
+
+### 🖼️ Prompt 81
+
+<div align="center">
+  <img src="images/image-81.png" width="200" style="margin-right:10px;" />
+  <img src="images/image-81a.png" width="200" />
+</div>
+
+**Source:** [𝕏](https://x.com/notiiivy/status/2002859971357421828)
+
+```json
+{
+  "lighting": {
+    "source": "Low artificial indoor light, likely from a faint room lamp or ambient night light",
+    "quality": "Very dim, soft and subdued with gentle illumination on the face and upper body",
+    "shadows": "Soft and subtle, minimal contrast, blending into the dark background",
+    "direction": "From above and slightly to the side, casting gentle shadows along the jawline and under the chin"
+  },
+  "background": {
+    "context": "Intimate bedroom at night, person lying in bed with head on pillows",
+    "setting": "Personal bedroom, cozy and dimly lit atmosphere",
+    "elements": [
+      "Dark, almost black background with no visible details",
+      "White pillows propping up the head, soft and plush",
+      "White bedsheets partially visible around the neck and shoulders"
+    ]
+  },
+  "typography": {
+    "details": [],
+    "text_visible": "No"
+  },
+  "composition": {
+    "framing": "Close-up vertical portrait, focused on face and upper shoulders",
+    "perspective": "Slightly overhead and angled from the front, capturing the subject in profile view turned toward the camera",
+    "depth_of_field": "Shallow, sharp focus on face and towel, background softly blurred",
+    "rule_of_thirds": "Eyes and face aligned along the upper third, creating emotional balance",
+    "subject_placement": "Centered with face slightly off to the left, drawing gaze inward"
+  },
+  "color_profile": {
+    "contrast": "Low to moderate, soft lighting emphasizing emotional subtlety",
+    "saturation": "Very low, desaturated and monochromatic tones",
+    "color_palette": "Cool and muted with emphasis on whites and shadows",
+    "dominant_colors": [
+      "Pale fair skin with subtle pink flush on cheeks and around eyes",
+      "blonde hair partially visible under towel",
+      "Pure white towel turban and t-shirt",
+      "Deep black/dark gray background",
+      "Soft white from pillows and sheets"
+    ]
+  },
+  "technical_specs": {
+    "focus": "Sharp on eyes, tears, and facial contours; soft on fabric textures",
+    "exposure": "Slightly underexposed to enhance intimacy, face gently lit",
+    "lens_type": "Wide-angle smartphone rear or front camera (minimal distortion)",
+    "resolution": "High-resolution smartphone photo",
+    "camera_type": "Smartphone camera in portrait mode, low-light optimized"
+  },
+  "subject_analysis": {
+    "eyes": {
+      "gaze": "Half-closed or softly gazing off-camera, conveying quiet sorrow",
+      "color": "dark brown",
+      "expression": "Watery, reddened, with tears pooling and tracing down cheeks, deep emotional vulnerability"
+    },
+    "face": {
+      "shape": "Soft oval",
+      "makeup": "Minimal natural look, no visible makeup, skin shows natural redness and gloss from tears",
+      "complexion": "Fair, slightly flushed on cheeks and nose, moist and glistening from crying",
+      "expression": "Subtle pout on lips, downturned mouth, raw sadness and exhaustion"
+    },
+    "hair": {
+      "color": "blonde with natural highlights and streaks",
+      "style": "straight hair wrapped in a loose white towel turban, no loose strands visible",
+      "length": "Medium to long, concealed under towel"
+    },
+    "pose": "Lying on side in bed, head resting on white pillow, face turned slightly toward camera, relaxed and weary",
+    "clothing": {
+      "top": "Loose-fitting white short-sleeve t-shirt, soft and slightly wrinkled",
+      "bottom": "Not visible"
+    },
+    "age_group": "Late teens to early 20s",
+    "accessories": [
+      "White towel turban wrapped around head"
+    ],
+    "subject_type": "Young woman, early 20s",
+    "hands_gestures": "Not visible in frame"
+  },
+  "artistic_elements": {
+    "mood": "Poignant, introspective, tender sadness, post-shower vulnerability",
+    "style": "Candid, serene low-light portrait, authentic and unretouched emotional depth",
+    "texture": "Soft towel fabric folds, plush pillow texture, dewy skin with tear trails, subtle fabric creases on shirt"
+  },
+  "generation_parameters": {
+    "seed": "Random",
+    "model": "Photorealistic low-light portrait",
+    "prompt": "Vertical 9:16 smartphone portrait of a young woman lying on her side in a dark bedroom at night, head resting on a white pillow, looking softly toward the camera with a sad, vulnerable expression. Visible tears on her cheeks, reddened watery light  eyes half-closed, subtle pout on lips. hair wrapped in a loose white towel turban. Wearing a loose white t-shirt. Very dim soft lighting with gentle shadows, dark background with white pillows and sheets. Raw, emotional, intimate, unfiltered mood. Natural fair skin with flush from crying, no makeup. Authentic low-light smartphone photo aesthetic, serene and melancholic.",
+    "negative_prompt": "bright lighting, outdoor scene, heavy makeup, smiling, energetic pose, jewelry, accessories beyond towel, harsh shadows, high contrast, filtered effects, overexposed whites, multiple subjects, dynamic angles, text or overlays"
+  },
+  "aspect_ratio": "9:16"
+}
+```
+---
+
+### 🖼️ Prompt 82
+
+<div align="center">
+  <img src="images/image-82.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-81a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/lexx_aura/status/2002780550659297605)
+
+```json
+{
+  "subject": {
+    "demographics": "Young woman, Roughly 20s",
+    "hair": {
+      "color": "Dark brown",
+      "style": "Long, wavy, tousled, spread out on pillow",
+      "texture": "Soft, natural"
+    },
+    "face": {
+      "expression": "Gentle smile, relaxed",
+      "eyes": "Brown, looking directly at camera",
+      "skin_tone": "Fair to medium, rosy cheeks",
+      "makeup": "Natural look, minimal"
+    },
+    "pose": "Reclining/lying down on back, head tilted slightly"
+  },
+  "attire": {
+    "clothing": "Black spaghetti-strap tank top or camisole",
+    "neckline": "Low scoop neck"
+  },
+  "accessories": {
+    "jewelry": [
+      "Thin gold chain necklace",
+      "Small dark pendant (possibly heart-shaped or geometric)"
+    ]
+  },
+  "environment": {
+    "setting": "Bedroom, bed",
+    "background": "White bed sheets/pillows, soft texture, slightly wrinkled"
+  },
+  "photography_style": {
+    "angle": "High angle, close-up, selfie perspective",
+    "lighting": "Soft indoor lighting, warm tones, slight shadowing on the neck and side of face",
+    "focus": "Sharp focus on face, slightly softer background"
+  }
+}
+```
+---
+
+### 🖼️ Prompt 83
+
+<div align="center">
+  <img src="images/image-83.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-81a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/xIrissy/status/2003113622504140821)
+
+```json
+{
+  "image_summary": "A vertical night photograph featuring a young woman posing on a cobblestone promenade next to a city canal, likely in Italy.",
+  "subject": {
+    "demographic": "Young woman",
+    "appearance": {
+      "hair": "Light brown, styled in a high ponytail with loose strands framing the face",
+      "makeup": "Visible, polished look"
+    },
+    "clothing": {
+      "top": {
+        "type": "Corset-style bodice",
+        "color": "Cream/Off-white base",
+        "pattern": "Floral print (blue, pink, and green flowers)",
+        "features": "Spaghetti straps, structured boning"
+      },
+      "bottom": {
+        "type": "Mini skirt",
+        "color": "Sage green",
+        "material": "Satin or silk-like fabric",
+        "features": ["Ruched/draped front", "Ruffled hem", "Silver butterfly embellishment at waist"]
+      }
+    },
+    "accessories": [
+      "Large dangling earrings (red/gold tones)",
+      "Thin necklace"
+    ],
+    "pose": "Standing facing the camera, body slightly angled, hands resting near hips/thighs"
+  },
+  "setting": {
+    "time": "Night",
+    "location_type": "Urban canal side",
+    "likely_location": "Italy (resembles the Navigli district in Milan or Venice)",
+    "ground": "Cobblestone pavement",
+    "water_feature": {
+      "type": "Canal",
+      "appearance": "Dark water with light reflections"
+    },
+    "architecture": {
+      "style": "European/Italian",
+      "colors": ["Yellow", "Ochre"],
+      "details": ["Shutters", "Multi-story buildings"]
+    }
+  },
+  "background_details": {
+    "crowd": "Numerous pedestrians walking along the canal on the left",
+    "dining": "Outdoor restaurant seating visible on the right bank",
+    "boats": "Moored boats/gondolas visible in the water",
+    "structures": "A small arched bridge crossing the canal in the distance",
+    "lighting": "Street lamps and ambient building lights reflecting on the water"
+  }
+}
+```
+---
+
+### 🖼️ Prompt 84
+
+<div align="center">
+  <img src="images/image-84.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-81a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/xmliisu/status/2003112926018732218)
+
+```json
+{
+  "image_description": {
+    "subject": {
+      "gender": "female",
+      "hair": {
+        "color": "black",
+        "style": "long, straight, loose",
+        "texture": "smooth"
+      },
+      "attire": {
+        "headwear": {
+          "type": "baseball cap",
+          "color": "beige",
+          "logo": "NY logo (white)"
+        },
+        "outerwear": {
+          "type": "faux fur coat",
+          "length": "long",
+          "color": "cream/beige",
+          "texture": "plush"
+        },
+        "top": {
+          "type": "crop top",
+          "color": "white",
+          "neckline": "crew neck"
+        },
+        "bottoms": {
+          "type": "sweatpants",
+          "color": "white",
+          "features": "drawstring waist"
+        },
+        "accessories": {
+          "jewelry": [
+            "multiple rings on fingers"
+          ],
+          "bag": {
+            "type": "tote bag",
+            "pattern": "monogram/patterned",
+            "color": "beige/neutral tones"
+          }
+        }
+      },
+      "pose": {
+        "body_orientation": "standing, slightly angled",
+        "head_orientation": "looking away to the left",
+        "hands": "one hand holding bag, one hand touching coat near hip"
+      }
+    },
+    "setting": {
+      "location": "urban street",
+      "background": {
+        "building": {
+          "style": "classic European architecture",
+          "color": "cream/light stone",
+          "features": [
+            "windows with decorative iron bars/grilles",
+            "architectural molding"
+          ]
+        },
+        "ground": {
+          "surface": "pavement/sidewalk",
+          "condition": "covered with snow"
+        }
+      },
+      "weather": "winter, snowy"
+    },
+    "lighting": "natural, diffuse daylight",
+    "style": "fashion photography, street style"
+  }
+}
+```
+---
+
+### 🖼️ Prompt 85
+
+<div align="center">
+  <img src="images/image-85.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-81a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/xIrissy/status/2003008325546586158)
+
+```json
+{
+  "image_generation_parameters": {
+    "style": {
+      "genre": "Cinematic glamour",
+      "realism": "Ultra-realistic",
+      "era_vibe": "Retro shot",
+      "quality": "High detail HD"
+    },
+    "subject": {
+      "demographic": "Young woman",
+      "hair": "Long brown",
+      "makeup": "Doll makeup",
+      "skin": "Soft, beautiful texture"
+    },
+    "fashion": {
+      "print_pattern": "Louis Vuitton logo print",
+      "top": {
+        "style": "Off-the-shoulder or bandeau",
+        "details": [
+          "Ruffled details",
+          "Small metal clasp/chain detail in center"
+        ]
+      },
+      "bottom": {
+        "style": "High-cut bikini",
+        "details": "Gold-colored chain details on sides"
+      },
+      "accessories": "Matching mini skirt cover-up"
+    },
+    "composition": {
+      "pose": "Lying down",
+      "props": "Soft white bed",
+      "environment": "Sand beach",
+      "camera_angle": "Eye level or slightly above"
+    },
+    "lighting_and_camera": {
+      "lighting_style": "Soft, dramatic high-key studio lighting",
+      "depth_of_field": "Shallow (bokeh effect)",
+      "mood": "Elegant"
+    }
+  }
+}
+```
+---
+
+### 🖼️ Prompt 86
+
+<div align="center">
+  <img src="images/image-86.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-81a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/xIrissy/status/2003060637635604501)
+
+```json
+{
+  "generation_request": {
+    "subject_reference": {
+      "Gender": "Female", A Beautiful Woman in her 20s.
+      "facial_preservation": "High fidelity, exact features, no stylization, no alteration to identity"
+    },
+    "prompts": {
+      "positive_prompt": "High-resolution aerial action photography of [Reference Woman] paragliding. Low-angle wide-angle selfie shot captured via a selfie stick held in her left hand. She is suspended in a professional paragliding harness with legs freely dangling, wearing a black bikini and simple flip-flops. Her right hand grips the paragliding control handle. The background is an expansive, vibrant tropical coastline with deep turquoise ocean and clear blue sky. Bright natural daylight, sharp focus, hyper-realistic skin texture, cinematic composition, dynamic motion, true-to-life proportions.",
+      "negative_prompt": "CG, 3d render, anime, cartoon, painting, drawing, illustration, altered face, distorted features, bad anatomy, deformed hands, missing fingers, helmet, sunglasses, wetsuit, sneakers, cloudy, dark lighting, blurry, noise, grain, low resolution"
+    },
+    "scene_details": {
+      "camera_angle": "Low perspective, wide-angle, looking up from selfie stick",
+      "lighting": "Bright natural daylight, hard sunlight",
+      "attire": [
+        "Black bikini",
+        "Simple flip-flops"
+      ],
+      "pose_constraints": {
+        "left_hand": "Holding selfie stick pointed toward self",
+        "right_hand": "Holding paragliding control handle",
+        "legs": "Dangling freely"
+      }
+    },
+    "technical_settings": {
+      "aspect_ratio": "9:16",
+      "style": "Ultra-realistic, raw photography"
+    }
+  }
+}
+```
+---
+
+### 🖼️ Prompt 87
+
+<div align="center">
+  <img src="images/image-87.png" width="200" style="margin-right:10px;" />
+  <img src="images/image-87a.png" width="265" />
+</div>
+
+**Source:** [𝕏](https://x.com/YaseenK7212/status/2003054676506279952)
+
+```json
+{
+  "meta_instructions": {
+    "priority_level": "CRITICAL",
+    "directive": "IDENTITY_LOCK_PROTOCOL",
+    "description": "The generation engine must prioritize maintaining the exact facial structure, features, and specific body topography of the reference image above all other prompt inputs."
+  },
+  "subject_profile": {
+    "identity_preservation": {
+      "face_lock": {
+        "status": "ACTIVE / IMMUTABLE",
+        "instruction": "100% preservation of facial features from reference input. No morphing, aging, or beautification filters applied."
+      },
+      "body_morphology_lock": {
+        "status": "ACTIVE",
+        "instruction": "Maintain specific proportions from reference: extreme hourglass silhouette with 'huge M-cup' bust volume and defined waist."
+      }
+    },
+    "pose_and_attitude": {
+      "action": "Leaning back casually against a surface",
+      "posture": "High-fashion editorial slouch, confident",
+      "gaze": "Directed towards camera"
+    },
+    "body_details": {
+      "modifications": "Visible belly button ring (silver/gemstone)"
+    }
+  },
+  "wardrobe_composition": {
+    "ensemble_type": "Tailored Pantsuit with Reveal",
+    "outerwear": {
+      "item": "Matching Blazer and Trouser Set",
+      "color": "Stark White",
+      "tailoring": "Sharp, structured tailoring",
+      "styling": "Blazer worn completely open to reveal midriff and inner layer"
+    },
+    "innerwear": {
+      "item": "Bikini Top",
+      "color": "Deep Maroon",
+      "style": "Supportive cut suitable for bust size"
+    },
+    "bottoms": {
+      "fit": "High-waisted trousers, tailored fit through hips and thighs"
+    }
+  },
+  "environmental_context": {
+    "setting": {
+      "location": "Minimalist architectural space",
+      "background_surface": "Solid pastel pink wall",
+      "texture": "Matte paint finish"
+    },
+    "lighting_conditions": {
+      "source": "Direct Sunlight (Hard Light)",
+      "characteristics": [
+        "High contrast",
+        "Sharp, defined shadows",
+        "Warm highlights on skin and white fabric",
+        "Bright daylight exposure"
+      ]
+    }
+  },
+  "photographic_execution": {
+    "genre": "Stylish Editorial Fashion Portrait",
+    "mood": "Confident, luxurious, sun-drenched",
+    "framing": "Medium-long shot to capture full outfit and pose against the wall",
+    "focus": "Sharp focus on subject, distinct separation from the flat wall background"
+  },
+  "constraints": {
+    "negative_prompt": [
+      "altering facial features",
+      "changing body proportions from reference",
+      "soft diffused lighting",
+      "studio lighting",
+      "patterned wall",
+      "closed blazer",
+      "low resolution",
+      "AI artifacts on face"
+    ]
+  }
+}
+```
+---
+
 ## 📌 Why This Exists
 
 - Visual reference for prompt crafting
