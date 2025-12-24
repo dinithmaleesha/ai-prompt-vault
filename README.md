@@ -6898,6 +6898,466 @@ Expression is soft and calm.",
 ```
 ---
 
+### 🖼️ Prompt 75
+
+<div align="center">
+  <img src="images/image-75.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-65a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/underwoodxie96/status/2003008229509652594)
+
+```json
+{
+  "subject": {
+    "description": "A close-up, extreme high-angle selfie of a young woman with a playful expression, standing on an escalator.",
+    "mirror_rules": "None (direct lens high-angle distortion)",
+    "age": "20s",
+    "expression": {
+      "eyes": {
+        "look": "Wide open, looking directly upward into the lens",
+        "energy": "Bright, engaging, innocent yet cheeky",
+        "direction": "Upward"
+      },
+      "mouth": {
+        "position": "Exaggerated pouting lips, kissy face",
+        "energy": "Playful, cute, silly"
+      },
+      "overall": "Quirky, fun-loving, Gen Z 0.5x selfie aesthetic"
+    },
+    "face": {
+      "preserve_original": true,
+      "makeup": "Fresh face, prominent pink blush on nose tip and cheeks (strawberry or cold girl makeup), defined eyelashes, natural brows"
+    },
+    "hair": {
+      "color": "Dark brown",
+      "style": "Long, loose, center part, slightly messy roots",
+      "effect": "Natural flow, top of head visible due to angle"
+    },
+    "body": {
+      "frame": "Foreshortened perspective (large head, small body)",
+      "waist": "Not visible",
+      "chest": "Visible décolletage from top-down view",
+      "legs": "Not visible",
+      "skin": {
+        "visible_areas": ["Face", "neck", "chest", "arms"],
+        "tone": "Fair to light",
+        "texture": "Smooth, natural skin texture",
+        "lighting_effect": "Soft even illumination"
+      }
+    },
+    "pose": {
+      "position": "Standing, leaning forward slightly",
+      "base": "Standing on an escalator",
+      "overall": "Leaning in towards the camera lens from below"
+    },
+    "clothing": {
+      "top": {
+        "type": "Spaghetti strap tank top",
+        "color": "Beige / Cream",
+        "details": "Simple tight fit, square neckline",
+        "effect": "Casual summer vibe"
+      },
+      "bottom": {
+        "type": "Trousers",
+        "color": "Black",
+        "details": "Barely visible at bottom edge"
+      }
+    }
+  },
+
+  "accessories": {
+    "jewelry": "Thin silver necklace chain (faint)",
+    "prop": "Holding a small bottle (lip balm or vape) and a black scrunchie in hand; black handbag strap visible over shoulder"
+  },
+
+  "photography": {
+    "camera_style": "Smartphone 0.5x wide-angle aesthetic",
+    "angle": "Extreme high angle / top-down / bird's-eye view",
+    "shot_type": "Close-up selfie, distorted perspective",
+    "aspect_ratio": "4:5",
+    "texture": "Digital social media quality, sharp facial details",
+    "lighting": "Bright overhead indoor mall lighting",
+    "depth_of_field": "Moderate depth (background slightly soft but recognizable)"
+  },
+
+  "background": {
+    "setting": "Indoor escalator",
+    "wall_color": "Black with abstract white graffiti/art (left)",
+    "elements": [
+      "Silver grooved escalator steps descending behind",
+      "Black handrail",
+      "Partial view of another person in background (top right)"
+    ],
+    "atmosphere": "Public, busy shopping mall, dynamic transit",
+    "lighting": "Diffuse artificial light"
+  },
+
+  "the_vibe": {
+    "energy": "Spontaneous, youthful, humorous",
+    "mood": "Playful",
+    "aesthetic": "Gen Z photo dump, fish-eye lens effect, candid snapshot",
+    "authenticity": "High, looks like an unfiltered moment",
+    "intimacy": "Friend-POV",
+    "story": "A goofy moment captured mid-shopping trip on the escalator",
+    "caption_energy": "Escalator antics with besties ✌️😗"
+  },
+
+  "constraints": {
+    "must_keep": [
+      "Extreme high angle perspective",
+      "Pouting/kissy face expression",
+      "Escalator background with metal steps",
+      "Beige tank top",
+      "Blush on nose",
+      "Wide-angle distortion effect"
+    ],
+    "avoid": [
+      "Low angle",
+      "Eye-level shot",
+      "Serious expression",
+      "Studio lighting",
+      "Full body proportions (must be distorted)"
+    ]
+  },
+
+  "negative_prompt": [
+    "low angle",
+    "studio portrait",
+    "serious",
+    "frown",
+    "sunglasses",
+    "hat",
+    "blurry",
+    "dark",
+    "distorted hands",
+    "perfect proportions"
+  ]
+}
+```
+---
+
+### 🖼️ Prompt 76
+
+<div align="center">
+  <img src="images/image-76.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-65a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/brindleyai/status/2003816567314722839)
+
+```json
+{
+  "subject": {
+    "description": "Young woman with wet, slicked-back dark blonde hair lying on a sandy beach. Slim athletic physique with natural curves. Wearing a green and yellow string bikini (Brazilian flag colors). Tanned skin with visible texture, pores, and sand grains sticking to damp skin, especially on glutes and legs. Natural waist folds from twisting pose. Realistic weight and gravity with hip flesh slightly compressed against sand.",
+    "anatomy": "Natural proportions with prominent glutes and realistic volume. Visible rib cage definition from stretch. No plastic smoothing. Slender arms; hands with light blue manicured nails. Posture emphasizes natural lower-back and hip curve.",
+    "clothing": "Green and yellow micro bikini. Triangle top with yellow trim. Thong-style bottom with green fabric and yellow strings riding high on hips. Fabric tension behaves naturally.",
+    "hair": "Long wet textured hair slicked back from face, hanging loosely down the back with water-clumped strands."
+  },
+  "pose": {
+    "type": "Reclining side twist on sand",
+    "details": "Lying on right hip and side. Legs extended with slight bend, ankles crossed. Upper body propped by left arm pressed into sand. Torso twisted away from camera; head turned back over left shoulder toward viewer. Right arm rests naturally in front.",
+    "head_position": "Turned over left shoulder, chin slightly tucked",
+    "gaze": "Direct, confident, relaxed"
+  },
+  "environment": {
+    "location": "Tropical beach resembling Rio de Janeiro",
+    "foreground": "Textured beige sand with footprints",
+    "midground": "Ocean waves with white foam and large dark granite boulders",
+    "background": "Distant green coastline with hillside buildings",
+    "sky": "Overcast white-grey clouds",
+    "atmosphere": "Humid, breezy beach day"
+  },
+  "camera": {
+    "type": "Professional DSLR or mirrorless",
+    "lens": "35mm prime",
+    "perspective": "Low angle near sand level, slightly upward",
+    "depth_of_field": "f/5.6 with subject sharp and background readable",
+    "focus": "Face and eyes"
+  },
+  "lighting": {
+    "type": "Natural overcast daylight",
+    "quality": "Soft, diffused, shadowless",
+    "direction": "Global ambient from cloudy sky",
+    "shadows": "Very soft occlusion at body–sand contact"
+  },
+  "mood_and_expression": {
+    "emotion": "Alluring, casual, confident",
+    "atmosphere": "Unposed vacation snapshot, raw and authentic",
+    "facial_expression": "Relaxed features, neutral to slightly parted lips"
+  },
+  "style_and_realism": {
+    "genre": "Candid travel / lifestyle photography",
+    "aesthetic": "Raw, unedited realism with texture emphasis",
+    "rendering": "Photorealistic, camera-like"
+  },
+  "colors_and_tone": {
+    "palette": "Beige sand, green-brown rocks, blue-grey ocean, bright green-yellow bikini, warm tan skin",
+    "white_balance": "Neutral to slightly cool",
+    "saturation": "Natural",
+    "contrast": "Moderate with preserved sky detail"
+  },
+  "quality_and_technical_details": {
+    "resolution": "8K",
+    "texture_quality": "Extreme detail: sand grains, pores, droplets, fabric weave",
+    "noise": "Subtle luminance grain"
+  },
+  "aspect_ratio_and_output": {
+    "ratio": "3:4",
+    "framing": "Full body, centered with slight bottom-right weight and headroom"
+  },
+  "controlnet": {
+    "pose_control": "strict_alignment",
+    "depth_control": "preserve_background_geometry"
+  },
+  "negative_prompt": [
+    "sunny blue sky",
+    "direct sunlight",
+    "harsh shadows",
+    "dry hair",
+    "perfectly smooth or plastic skin",
+    "airbrushed",
+    "cartoon",
+    "anime",
+    "3d render",
+    "studio lighting",
+    "makeup",
+    "unrealistic anatomy",
+    "missing limbs",
+    "extra fingers",
+    "floating objects",
+    "oversaturated",
+    "hdr"
+  ]
+}
+```
+---
+
+### 🖼️ Prompt 77
+
+<div align="center">
+  <img src="images/image-77.png" width="200" style="margin-right:10px;" />
+  <img src="images/image-77a.png" width="200" />
+</div>
+
+**Source:** [𝕏](https://x.com/bananababydoll/status/2003567035951796448)
+
+```json
+{
+  "meta": {
+    "aspect_ratio": "9:16",
+    "quality": "ultra_photorealistic",
+    "resolution": "8k",
+    "camera": "iPhone 15 Pro Max",
+    "lens": "24mm wide",
+    "style": "flash-lit nightlife realism, natural skin texture, social media aesthetic"
+  },
+
+  "scene": {
+    "location": "outdoor vending machine area",
+    "environment": [
+      "classic red soda vending machine",
+      "brightly lit drink display behind glass",
+      "concrete ground with slight texture",
+      "nighttime urban setting"
+    ],
+    "time": "night",
+    "atmosphere": "flash photography vibe, playful, spontaneous, slightly cheeky street energy"
+  },
+
+  "lighting": {
+    "type": "direct phone flash",
+    "key_light": "strong frontal flash",
+    "fill_light": "vending machine internal lights",
+    "effect": "sharp highlights on skin, clear shadows, glossy nightlife look"
+  },
+
+  "camera_perspective": {
+    "pov": "third-person shot (taken by friend)",
+    "angle": "slightly low angle",
+    "framing": "full body",
+    "distance": "about 1.5–2 meters",
+    "motion": "frozen candid moment"
+  },
+
+  "subject": {
+    "gender": "female",
+    "age": "early 20s (clearly adult)",
+    "ethnicity": "European / Mediterranean blend",
+    "body": {
+      "type": "curvy-slim",
+      "waist": "defined",
+      "hips": "full and round",
+      "legs": "toned",
+      "posture": "confident, playful"
+    },
+
+    "hair": {
+      "color": "warm blonde",
+      "length": "long",
+      "style": "loose waves",
+      "details": "soft shine from flash"
+    },
+
+    "face": {
+      "expression": "over-the-shoulder confident look",
+      "eyes": "direct eye contact with camera",
+      "makeup": "night-out glam, glossy lips",
+      "skin": "realistic texture, slight flash sheen"
+    },
+
+    "pose": {
+      "position": "deep squat in front of vending machine",
+      "legs": "knees bent, heels down",
+      "hips": "pushed back",
+      "upper_body": "torso twisted slightly toward camera",
+      "arms": {
+        "one_hand": "pressing vending machine buttons",
+        "other_hand": "resting naturally on thigh"
+      },
+      "head": "turned back over shoulder"
+    },
+
+    "outfit": {
+      "bikini": {
+        "type": "string bikini",
+        "pattern": "yellow and white checkered",
+        "fit": "minimal, snug",
+        "top": "tie-back triangle bikini",
+        "bottom": "high-cut thong style",
+        "support": "no bra"
+      }
+    }
+  },
+
+  "details": {
+    "vibe": "playful late-night chaos",
+    "aesthetic": "internet-breaking thirst trap",
+    "focus": "subject razor sharp, vending machine clearly visible",
+    "authenticity": "looks like a real spontaneous street photo"
+  }
+}
+```
+---
+
+### 🖼️ Prompt 78
+
+<div align="center">
+  <img src="images/image-78.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-77a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/ZaraIrahh/status/2003476315828097321)
+
+```json
+{
+  "image_prompt": {
+    "reference": {
+      "face_identity": "uploaded reference image",
+      "identity_lock": true,
+      "face_preservation": "100% identical facial structure, proportions, eyes, nose, lips, brows, skin texture, moles, and expression"
+    },
+    "subject": {
+      "gender": "female",
+      "age_range": "young adult",
+      "expression": "calm, focused, neutral competitive expression",
+      "pose": {
+        "action": "hands raised mid-clap",
+        "body_orientation": "three-quarter side profile",
+        "posture": "upright athletic stance"
+      }
+    },
+    "outfit": {
+      "top": "yellow and navy sleeveless volleyball jersey",
+      "armwear": "black compression arm sleeve on right arm",
+      "bottom": {
+        "type": "full-length black athletic pants",
+        "coverage": "legs fully covered at all times",
+        "fit": "sporty, fitted, opaque fabric"
+      },
+      "footwear": "not visible or cropped out"
+    },
+    "appearance": {
+      "hair": {
+        "style": "high ponytail with soft bangs",
+        "color": "dark brown"
+      },
+      "makeup": "natural sports makeup, light blush, subtle eyeliner",
+      "nails": "short, painted black"
+    },
+    "scene": {
+      "location": "indoor sports arena",
+      "background": "blurred volleyball court with pink and white wall panels",
+      "other_subjects": "teammates visible in soft background blur"
+    },
+    "lighting": {
+      "type": "bright indoor sports lighting",
+      "tone": "neutral and even",
+      "shadows": "soft"
+    },
+    "camera": {
+      "shot_type": "medium shot",
+      "angle": "eye-level",
+      "focus": "sharp focus on subject face and upper body",
+      "depth_of_field": "shallow background blur"
+    },
+    "constraints": {
+      "no_nudity": true,
+      "no_exposed_legs": true,
+      "legs_must_be_covered": "black pants required",
+      "no_outfit_changes": "jersey and arm sleeve remain identical",
+      "no_face_modification": true
+    },
+    "quality": {
+      "realism": "photorealistic",
+      "resolution": "8K ultra sharp",
+      "detail_level": "high"
+    }
+  }
+}
+```
+---
+
+### 🖼️ Prompt 79
+
+<div align="center">
+  <img src="images/image-79.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-77a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/lexx_aura/status/2003475774930645201)
+
+```json
+{
+  "subject": {
+    "description": "Young woman with long, straight brunette hair parted in the middle.",
+    "pose": "Reclining comfortably on a beige sectional sofa, leaning back on her left hand, with legs extended and crossed at the ankles.",
+    "expression": "Soft, relaxed smile, gazing directly at the camera.",
+    "attire": {
+      "dress": "Red velvet mini dress with white faux fur trim along the neckline and hem, resembling a Santa outfit.",
+      "socks": "White knee-high socks.",
+      "jewelry": "Delicate gold pendant necklace, small gold hoop earrings, and a thin bracelet on the right wrist."
+    },
+    "physical_features": "Fair skin tone, natural makeup look."
+  },
+  "environment": {
+    "setting": "Modern living room interior.",
+    "furniture": "Large, light beige L-shaped sectional sofa.",
+    "background_elements": "Cream-colored walls, a floor lamp with a warm glowing shade behind the sofa, and a large abstract beige canvas art piece on the wall.",
+    "ambiance": "Cozy, warm, and intimate."
+  },
+  "lighting": {
+    "type": "Warm indoor lighting mixed with camera flash.",
+    "characteristics": "Soft glow from the lamp creating a warm atmosphere, with direct flash illumination on the subject, creating a slightly vintage digital camera aesthetic."
+  },
+  "composition": {
+    "angle": "Eye-level, slightly off-center.",
+    "framing": "Medium shot capturing the subject from head to toe."
+  }
+}
+```
+---
+
 ## 📌 Why This Exists
 
 - Visual reference for prompt crafting
