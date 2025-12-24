@@ -9024,6 +9024,519 @@ Expression is soft and calm.",
 ```
 ---
 
+### 🖼️ Prompt 102
+
+<div align="center">
+  <img src="images/image-102.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-96a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/Ankit_patel211/status/2003434581110981116)
+
+```json
+{
+  "subject": {
+    "description": "Young woman with long, wavy light brown hair. ",
+    "pose": "Standing facing the camera, smiling slightly, arms relaxed. ",
+    "expression": "Soft, confident, and engaging. "
+  },
+  "outfit": {
+    "top": "Silver golden  metallic chainmail halter top with a deep plunging neckline and a horizontal chain strap across the midriff. ",
+"V-Cup" : "M", 
+ "outerwear": "Large, plush dark crimson red faux fur coat worn off the shoulders, draped around the elbows. ",
+    "bottoms": "Black sequined trousers or skirt, partially visible. ",
+    "accessories": "Silver metallic clutch or small handbag held in hand. ",
+    "jewelry": "Matching silver choker collar attached to the top. "
+  },
+  "environment": {
+    "location": "Upscale city street at night (London implied by Union Jack flags). ",
+    "background_elements": [
+      "Grand building entrance with large stone columns. ",
+      "Union Jack flags hanging from the building facade. ",
+      "Ornate black metal gate. ",
+      "Large green hedge covered in warm white fairy lights. ",
+      "Parked black luxury car (Rolls-Royce style) on the street. ",
+      "City streetlights and blurred pedestrians in the distance. "
+    ]
+  },
+  "lighting": {
+    "type": "Nighttime ambient city lighting. ",
+    "qualities": "Warm glow from building and fairy lights, mixed with cool street lighting. Subject is well-lit, likely by a nearby street lamp or ambient store light. "
+  },
+  "style": {
+    "aesthetic": "Glamorous night out, luxury lifestyle, influencer snapshot. ",
+    "perspective": "Eye-level, medium shot. ",
+    "camera_feel": "High-quality smartphone photography, slight night grain, candid but posed. "
+  }
+}
+```
+---
+
+### 🖼️ Prompt 103
+
+<div align="center">
+  <img src="images/image-103.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-96a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/lexx_aura/status/2003414047945785522)
+
+```json
+{
+  "subject": {
+    "description": "Young woman with long, wavy light brown hair.",
+    "pose": "Standing facing the camera, smiling slightly, arms relaxed.",
+    "expression": "Soft, confident, and engaging."
+  },
+  "outfit": {
+    "top": "Silver metallic chainmail halter top with a deep plunging neckline and a horizontal chain strap across the midriff.",
+    "outerwear": "Large, plush white faux fur coat worn off the shoulders, draped around the elbows.",
+    "bottoms": "Black sequined trousers or skirt, partially visible.",
+    "accessories": "Silver metallic clutch or small handbag held in hand.",
+    "jewelry": "Matching silver choker collar attached to the top."
+  },
+  "environment": {
+    "location": "Upscale city street at night (London implied by Union Jack flags).",
+    "background_elements": [
+      "Grand building entrance with large stone columns.",
+      "Union Jack flags hanging from the building facade.",
+      "Ornate black metal gate.",
+      "Large green hedge covered in warm white fairy lights.",
+      "Parked black luxury car (Rolls-Royce style) on the street.",
+      "City streetlights and blurred pedestrians in the distance."
+    ]
+  },
+  "lighting": {
+    "type": "Nighttime ambient city lighting.",
+    "qualities": "Warm glow from building and fairy lights, mixed with cool street lighting. Subject is well-lit, likely by a nearby street lamp or ambient store light."
+  },
+  "style": {
+    "aesthetic": "Glamorous night out, luxury lifestyle, influencer snapshot.",
+    "perspective": "Eye-level, medium shot.",
+    "camera_feel": "High-quality smartphone photography, slight night grain, candid but posed."
+  }
+}
+```
+---
+
+### 🖼️ Prompt 104
+
+<div align="center">
+  <img src="images/image-104.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-96a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/meng_dagg695/status/2003301773243744415)
+
+```json
+{
+  "canvas": {
+    "width": 1200,
+    "height": 1200,
+    "aspect_ratio": "1:1",
+    "orientation": "square"
+  },
+  "scene": {
+    "setting": "vintage indoor living room",
+    "era_style": "1970s retro aesthetic",
+    "mood": "warm, intimate, cinematic, calm",
+    "lighting": {
+      "type": "soft ambient indoor lighting",
+      "source": "floor lamp on left side",
+      "color_temperature": "warm tungsten",
+      "shadows": "soft, natural falloff",
+      "contrast": "medium"
+    }
+  },
+  "background": {
+    "wall": {
+      "material": "wood paneling",
+      "color": "warm brown",
+      "pattern": "vertical wooden panels",
+      "finish": "matte, slightly aged"
+    },
+    "lamp": {
+      "type": "vintage floor lamp",
+      "shade": "cream fabric lampshade",
+      "details": "scalloped edge with fringe trim",
+      "pole": "dark wooden stand",
+      "position": "left side of frame"
+    },
+    "plant": {
+      "type": "small leafy indoor plant",
+      "container": "ceramic pot",
+      "color": "earthy tones",
+      "placement": "left background near lamp"
+    }
+  },
+  "furniture": {
+    "sofa": {
+      "type": "vintage upholstered couch",
+      "fabric": "woven patterned textile",
+      "colors": [
+        "beige",
+        "brown",
+        "muted green",
+        "rust"
+      ],
+      "style": "retro geometric pattern"
+    },
+    "pillows": [
+      {
+        "material": "velvet",
+        "color": "deep red",
+        "texture": "soft, plush"
+      },
+      {
+        "material": "faux fur",
+        "color": "off-white",
+        "texture": "fluffy"
+      }
+    ]
+  },
+  "subject": {
+    "type": "human",
+    "gender": "female",
+    "age_range": "early to mid 20s",
+    "ethnicity": "light skin tone",
+    "pose": {
+      "position": "reclining on sofa",
+      "body_orientation": "slightly angled toward camera",
+      "arm_position": "one arm resting on sofa back, other near waist",
+      "posture": "relaxed, confident"
+    },
+    "expression": {
+      "facial": "neutral to soft sultry",
+      "eyes": "open, direct gaze toward camera",
+      "mouth": "slightly parted lips"
+    }
+  },
+  "appearance": {
+    "hair": {
+      "color": "dark brown",
+      "length": "long",
+      "style": "loose, natural waves",
+      "parting": "center part"
+    },
+    "skin": {
+      "texture": "natural, realistic",
+      "details": "subtle freckles and pores visible"
+    }
+  },
+  "clothing": {
+    "dress": {
+      "type": "satin slip dress",
+      "color": "deep burgundy / wine red",
+      "material": "silky satin fabric",
+      "finish": "soft sheen",
+      "neckline": "low-cut V neckline",
+      "straps": "thin spaghetti straps",
+      "fit": "loose, draped"
+    }
+  },
+  "composition": {
+    "framing": "medium portrait",
+    "camera_angle": "eye-level",
+    "depth_of_field": "moderate, subject in focus with slightly soft background",
+    "focus_point": "subject face and upper torso",
+    "balance": "subject centered slightly right, lamp balancing left"
+  },
+  "color_palette": {
+    "dominant_colors": [
+      "warm brown",
+      "burgundy",
+      "beige",
+      "cream"
+    ],
+    "accent_colors": [
+      "deep red",
+      "off-white",
+      "muted green"
+    ],
+    "overall_tone": "warm, earthy"
+  },
+  "image_quality": {
+    "resolution": "high detail",
+    "style": "photorealistic",
+    "noise": "minimal",
+    "sharpness": "clear facial and fabric textures"
+  },
+  "post_processing": {
+    "color_grading": "warm cinematic grading",
+    "contrast": "slightly lifted blacks",
+    "highlights": "soft",
+    "saturation": "natural, not oversaturated"
+  },
+  "negative_prompt": [
+    "cartoon",
+    "anime",
+    "illustration",
+    "overexposed",
+    "harsh shadows",
+    "blurred face",
+    "distorted anatomy",
+    "extra limbs",
+    "plastic skin",
+    "low resolution"
+  ]
+}
+```
+---
+
+### 🖼️ Prompt 105
+
+<div align="center">
+  <img src="images/image-105.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-96a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/xIrissy/status/2003824363817279710)
+
+```json
+{
+  "metadata": {
+    "version": "1.1",
+    "project": "Retro Cinematic Portrait",
+    "style_preset": "1970s_vibe"
+  },
+  "canvas_settings": {
+    "dimensions": {
+      "width": 1200,
+      "height": 1200,
+      "unit": "px"
+    },
+    "format": {
+      "aspect_ratio": "1:1",
+      "orientation": "square"
+    }
+  },
+  "environment": {
+    "location": {
+      "setting": "vintage indoor living room",
+      "era": "1970s retro",
+      "atmosphere": "warm, intimate, cinematic, calm"
+    },
+    "lighting": {
+      "primary_source": {
+        "type": "vintage floor lamp",
+        "position": "left side",
+        "style": "scalloped edge with fringe trim",
+        "temperature": "warm tungsten",
+        "behavior": "soft ambient with natural falloff"
+      },
+      "global_contrast": "medium"
+    },
+    "background_elements": {
+      "walls": {
+        "material": "aged matte wood paneling",
+        "color": "warm brown",
+        "pattern": "vertical panels"
+      },
+      "foliage": {
+        "type": "leafy indoor plant",
+        "vessel": "earthy ceramic pot",
+        "placement": "background left"
+      }
+    }
+  },
+  "furniture_and_props": {
+    "seating": {
+      "type": "upholstered retro couch",
+      "material": "woven patterned textile",
+      "palette": ["beige", "brown", "muted green", "rust"],
+      "design": "geometric pattern"
+    },
+    "accents": [
+      {
+        "item": "pillow",
+        "material": "deep red velvet",
+        "texture": "plush"
+      },
+      {
+        "item": "pillow",
+        "material": "off-white faux fur",
+        "texture": "fluffy"
+      }
+    ]
+  },
+  "character_model": {
+    "identity": {
+      "gender": "female",
+      "age": "early to mid 20s",
+      "ethnicity": "light skin tone"
+    },
+    "anatomy_details": {
+      "skin": "natural realistic texture, visible pores, subtle freckles",
+      "hair": {
+        "color": "dark brown",
+        "style": "long, loose natural waves",
+        "parting": "center"
+      }
+    },
+    "performance": {
+      "pose": "reclining on sofa, relaxed and confident, one arm on backrest",
+      "expression": "soft sultry, direct gaze, slightly parted lips"
+    },
+    "wardrobe": {
+      "item": "satin slip dress",
+      "color": "deep burgundy wine red",
+      "features": ["low-cut V neckline", "thin spaghetti straps", "loose draped fit"],
+      "finish": "silky sheen"
+    }
+  },
+  "cinematography": {
+    "camera": {
+      "angle": "eye-level",
+      "framing": "medium portrait",
+      "focus": "subject face and upper torso"
+    },
+    "optics": {
+      "depth_of_field": "moderate",
+      "background_blur": "slightly soft",
+      "balance": "asymmetrical (subject right, lamp left)"
+    },
+    "color_profile": {
+      "dominant": ["warm brown", "burgundy", "beige"],
+      "accents": ["deep red", "off-white"],
+      "grading": "warm cinematic, lifted blacks, soft highlights"
+    }
+  },
+  "render_quality": {
+    "positive_attributes": [
+      "high resolution",
+      "photorealistic",
+      "sharp fabric textures",
+      "realistic skin rendering"
+    ],
+    "negative_prompt": [
+      "cartoon",
+      "anime",
+      "illustration",
+      "overexposed",
+      "harsh shadows",
+      "blurred face",
+      "distorted anatomy",
+      "extra limbs"
+    ]
+  }
+}
+```
+---
+
+### 🖼️ Prompt 106
+
+<div align="center">
+  <img src="images/image-106.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-96a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/recap_david/status/2003702165454397555)
+
+```json
+{
+  "meta": {
+    "aspect_ratio": "9:16",
+    "quality": "ultra_photorealistic",
+    "resolution": "8k",
+    "camera": "iPhone 15 Pro Max",
+    "lens": "24mm wide",
+    "style": "flash-lit roadside realism, natural skin texture, candid social media aesthetic"
+  },
+
+  "scene": {
+    "location": "gas station pump island",
+    "environment": [
+      "modern gas pump with digital screen",
+      "fuel hose extended from pump",
+      "painted concrete ground with oil stains",
+      "parked sedan partially visible",
+      "soft neon and LED station lighting"
+    ],
+    "time": "night",
+    "atmosphere": "late-night roadside energy, casual, slightly rebellious, effortlessly sexy"
+  },
+
+  "lighting": {
+    "type": "direct phone flash",
+    "key_light": "strong frontal flash from camera",
+    "fill_light": "overhead gas station canopy lights",
+    "effect": "crisp highlights on skin, sharp shadows, glossy nighttime contrast"
+  },
+
+  "camera_perspective": {
+    "pov": "third-person shot (taken by friend)",
+    "angle": "slightly low angle",
+    "framing": "full body",
+    "distance": "approximately 1.5 meters",
+    "motion": "frozen candid moment"
+  },
+
+  "subject": {
+    "gender": "female",
+    "age": "early to mid-20s (clearly adult)",
+    "ethnicity": "European / Mediterranean blend",
+    "body": {
+      "type": "curvy-slim",
+      "waist": "defined",
+      "hips": "full",
+      "legs": "long and toned",
+      "posture": "relaxed, confident"
+    },
+
+    "hair": {
+      "color": "brunette",
+      "length": "long",
+      "style": "loose, slightly messy waves",
+      "details": "natural movement, subtle shine from flash"
+    },
+
+    "face": {
+      "expression": "calm, knowing glance toward camera",
+      "eyes": "soft eye contact",
+      "makeup": "minimal night-out makeup, glossy lips",
+      "skin": "realistic texture, light flash sheen"
+    },
+
+    "pose": {
+      "position": "standing beside gas pump",
+      "legs": "one leg straight, one knee slightly bent",
+      "hips": "popped subtly to one side",
+      "upper_body": "torso angled toward pump",
+      "arms": {
+        "one_hand": "holding gas nozzle inserted into car",
+        "other_hand": "resting loosely on hip"
+      },
+      "head": "turned toward camera mid-pause"
+    },
+
+    "outfit": {
+      "top": {
+        "type": "fitted crop top",
+        "color": "white or light neutral",
+        "fit": "snug, casual"
+      },
+      "bottom": {
+        "type": "low-rise denim shorts",
+        "fit": "short, slightly frayed hem"
+      },
+      "footwear": {
+        "type": "casual sneakers",
+        "color": "white"
+      },
+      "undergarments": "no visible bra lines"
+    }
+  },
+
+  "details": {
+    "vibe": "effortless late-night cool",
+    "aesthetic": "authentic thirst trap without trying",
+    "focus": "subject razor sharp, gas pump and car clearly readable",
+    "authenticity": "looks like a real spontaneous photo taken on the way somewhere"
+  }
+}
+```
+---
+
 ## 📌 Why This Exists
 
 - Visual reference for prompt crafting
