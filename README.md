@@ -7916,6 +7916,437 @@ Expression is soft and calm.",
 ```
 ---
 
+### 🖼️ Prompt 88
+
+<div align="center">
+  <img src="images/image-88.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-87a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/xmliisu/status/2003065693218935060)
+
+```json
+{
+  "image_details": {
+    "subject": {
+      "demographics": "Young adult female",
+      "hair": "Long, blonde, layered, straight with slight wave",
+      "expression": "Playful, looking back at camera over shoulder, smiling with cookie near mouth",
+      "pose": "Standing profile, torso twisted towards viewer, right hand holding cookie up to mouth"
+    },
+    "attire": {
+      "upper_body": "White ribbed sleeveless crop top / tank top",
+      "lower_body": "Grey heathered drawstring sweat shorts / lounge shorts",
+      "accessories": "Minimal; small ring on finger, thin necklace"
+    },
+    "action": "Taking a bite of a chocolate chip cookie while looking at the viewer",
+    "environment": {
+      "location": "Modern home kitchen",
+      "foreground": "Marble or granite kitchen island countertop",
+      "background": {
+        "left": "Open stainless steel refrigerator with illuminated interior containing various food items (jars, cartons)",
+        "right": "Stainless steel stove/oven range and microwave, light grey cabinetry",
+        "lighting_fixtures": "Warm under-cabinet lighting visible on the right"
+      }
+    },
+    "objects": {
+      "held": "Chocolate chip cookie",
+      "on_counter": [
+        "Open box of chocolate chip cookies",
+        "White ceramic plate"
+      ],
+      "background_decor": "Candle jar on counter near stove"
+    },
+    "technical_style": {
+      "lighting": "Mixed lighting; cool blue-toned light spilling from the open fridge contrasting with warm tungsten under-cabinet lights",
+      "composition": "Medium shot, focus on subject, shallow depth of field (bokeh background)",
+      "vibe": "Casual, candid, cozy, 'late night snack' aesthetic"
+    }
+  }
+}
+```
+---
+
+### 🖼️ Prompt 89
+
+<div align="center">
+  <img src="images/image-89.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-87a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/siennalovesai/status/2002976519459586391)
+
+```json
+{
+  "metadata": {
+    "confidence_score": "high",
+    "image_type": "photograph",
+    "primary_purpose": "social media/travel/lifestyle"
+  },
+  "composition": {
+    "rule_applied": "center composition",
+    "aspect_ratio": "2:3",
+    "layout": "single subject, central vertical alignment",
+    "focal_points": [
+      "Subject in foreground center",
+      "Tropical waterfall aligned behind subject"
+    ],
+    "visual_hierarchy": "Eye starts at the face, moves down the body to the water, then follows the waterfall upward.",
+    "balance": "symmetric - subject and waterfall aligned on vertical axis"
+  },
+  "color_profile": {
+    "dominant_colors": [
+      { "color": "Sky Blue", "hex": "#87CEEB", "percentage": "35%", "role": "background" },
+      { "color": "Lush Green", "hex": "#45a247", "percentage": "20%", "role": "foliage" },
+      { "color": "Crimson Red", "hex": "#DC143C", "percentage": "5%", "role": "bikini fabric" },
+      { "color": "Bright White", "hex": "#FFFFFF", "percentage": "3%", "role": "bikini trim" },
+      { "color": "Medium Tan", "hex": "#CD853F", "percentage": "25%", "role": "skin tone and stone" }
+    ],
+    "color_palette": "triadic - blues, greens, reds",
+    "temperature": "warm",
+    "saturation": "high",
+    "contrast": "high"
+  },
+  "lighting": {
+    "type": "natural sunlight",
+    "source_count": "single source - high sun",
+    "direction": "top-down/slightly front-left",
+    "directionality": "highly directional",
+    "quality": "hard light",
+    "intensity": "bright/high-key",
+    "contrast_ratio": "high (sharp shadows under chin and torso)",
+    "mood": "vibrant/sunny",
+    "shadows": {
+      "type": "hard edges",
+      "density": "gray to deep tan",
+      "placement": "chin, bikini top, midsection",
+      "length": "short"
+    },
+    "highlights": {
+      "treatment": "preserved",
+      "placement": "shoulders, forehead, nose bridge, water surface"
+    },
+    "ambient_fill": "present from water and surroundings",
+    "light_temperature": "neutral to warm"
+  },
+  "technical_specs": {
+    "medium": "digital photography",
+    "style": "realistic",
+    "texture": "sharp/wet",
+    "sharpness": "tack sharp on subject, softer background",
+    "grain": "none/low",
+    "depth_of_field": "medium",
+    "perspective": "low angle"
+  },
+  "artistic_elements": {
+    "genre": "travel portrait",
+    "influences": ["Lifestyle photography", "Instagram travel aesthetic"],
+    "mood": "confident/tranquil",
+    "atmosphere": "tropical summer day",
+    "visual_style": "clean/vibrant"
+  },
+  "typography": {
+    "present": false,
+    "fonts": [],
+    "placement": "none",
+    "integration": "none"
+  },
+  "subject_analysis": {
+    "primary_subject": "Latina woman sitting in a shallow pool",
+    "positioning": "center",
+    "scale": "medium full shot",
+    "interaction": "isolated",
+    "facial_expression": {
+      "mouth": "slight closed smile",
+      "eyes": "direct relaxed gaze",
+      "eyebrows": "neutral",
+      "overall_emotion": "confident/alluring",
+      "authenticity": "posed"
+    },
+    "hair": {
+      "length": "shoulder-length",
+      "cut": "long layers",
+      "texture": "straight/wet",
+      "styling": "slicked back, tucked behind ears",
+      "part": "side part",
+      "volume": "flat due to wetness",
+      "details": "dark black, saturated with water"
+    },
+    "hands_and_gestures": {
+      "left_hand": "partially submerged, resting behind for support",
+      "right_hand": "resting behind, fingers spread",
+      "hand_tension": "natural/supportive",
+      "naturalness": "posed but structurally natural"
+    },
+    "body_positioning": {
+      "posture": "sitting/leaning back",
+      "angle": "facing camera",
+      "weight_distribution": "supported by hands",
+      "shoulders": "level/relaxed"
+    }
+  },
+  "background": {
+    "setting_type": "outdoor pool/cenote with waterfall",
+    "spatial_depth": "deep - water foreground, subject midground, waterfall background",
+    "elements_detailed": [
+      {
+        "item": "Waterfall",
+        "position": "center background",
+        "size": "dominant vertical",
+        "specific_features": "clear cascading water, lush greenery"
+      },
+      {
+        "item": "Stone wall",
+        "position": "midground",
+        "size": "medium",
+        "specific_features": "irregular light-colored stones"
+      }
+    ],
+    "wall_surface": {
+      "material": "stone/rubble",
+      "texture": "rough",
+      "finish": "matte",
+      "color": "off-white/tan",
+      "features": "visible mortar and stacked stones"
+    },
+    "floor_surface": {
+      "material": "submerged stone ledge",
+      "color": "tan/brown"
+    },
+    "objects_catalog": "bikini, sunglasses, belly piercing, leaf tattoo, waterfall, stone wall, trees, water, pool railing",
+    "background_treatment": "detailed with slight blur"
+  },
+  "generation_parameters": {
+    "prompts": [
+      "Low angle shot of a Latina woman with wet black hair in a crimson bikini with white trim, sitting in turquoise water with a tall waterfall centered behind her, clear blue sky, hard sunlight, vibrant travel photography.",
+      "Latina woman in red and white swimwear, wet hair, sunny tropical resort with waterfall background, sharp focus, cinematic lighting."
+    ],
+    "keywords": [
+      "waterfall",
+      "wet look hair",
+      "tropical pool",
+      "crimson bikini",
+      "low angle",
+      "summer travel",
+      "hard lighting"
+    ],
+    "technical_settings": "f/4.0, 1/1000s, ISO 100, 24mm wide angle",
+    "post_processing": "vibrance boost, high contrast, clarity enhancement"
+  }
+}
+```
+---
+
+### 🖼️ Prompt 90
+
+<div align="center">
+  <img src="images/image-90.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-87a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/lexx_aura/status/2003145469451551070)
+
+```json
+{
+  "image_analysis": {
+    "subject": {
+      "demographics": "Young woman, white skin tone, roughly 20s",
+      "hair": "Long dark brunette hair styled in low twin-tails (pigtails) with a middle part",
+      "face": "Neutral expression, looking at phone screen, soft 'glam' makeup with mauve lipstick",
+      "accessories": "Black rimmed glasses resting on top of head, small gold pendant necklace, small gold hoop earrings"
+    },
+    "apparel": {
+      "top": "Chocolate brown, long-sleeve, scoop-neck fitted top",
+      "bottom": "Beige and black plaid pleated mini skirt featuring decorative black ribbon bows and lace-up details on the front",
+      "legwear": "Black semi-sheer thigh-high stockings",
+      "footwear": "Black patent leather block-heeled pumps"
+    },
+    "pose_and_action": {
+      "type": "Mirror selfie, full-body shot",
+      "posture": "Kneeling on the floor, legs tucked underneath, torso angled slightly to the right",
+      "hands": "Right hand holding a white smartphone (iPhone Pro style) covering part of face; left hand reaching back to touch the heel of the left shoe"
+    },
+    "environment": {
+      "location": "Modern, minimalist bedroom",
+      "flooring": "White fluffy shag rug on light wood floor",
+      "furniture": [
+        "Cream upholstered bed frame with white bedding",
+        "Pillow with delicate floral pattern",
+        "White wardrobe/closet doors in background"
+      ],
+      "decor": "Large round mirror on wall reflecting a potted green plant (Monstera style) and window curtains"
+    },
+    "technical_specs": {
+      "lighting": "Soft natural daylight, diffuse indoor lighting, neutral color temperature",
+      "aesthetic": "Coquette, influencer fashion, soft girl, clean aesthetic",
+      "color_palette": ["Chocolate brown", "Beige", "White", "Black"]
+    }
+  }
+}
+```
+---
+
+### 🖼️ Prompt 91
+
+<div align="center">
+  <img src="images/image-91.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-87a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/lexx_aura/status/2003044060680892497)
+
+```json
+{
+  "prompt_structure": {
+    "subject": {
+      "description": "Young woman with light skin tone",
+      "hair": "Long, voluminous dark brunette hair, styled in loose waves, center part, reaching past shoulders",
+      "face": "Oval face shape, light-colored eyes (appearing green or grey), soft makeup with defined eyeliner and neutral glossy lips",
+      "expression": "Neutral, alluring gaze, direct eye contact with the camera"
+    },
+    "clothing": {
+      "type": "Slip dress / Chemise",
+      "color": "Vibrant red",
+      "material": "Satin or silk finish with a glossy sheen",
+      "details": "Spaghetti straps, V-neckline with scalloped lace trim, lace detailing near the hem, mini length",
+      "accessories": "Small silver pendant necklace, ring on ring finger of left hand"
+    },
+    "pose": {
+      "stance": "Leaning backward against a bathroom vanity counter",
+      "arms": "Arms extended downward, hands gripping or resting on the edge of the marble countertop",
+      "orientation": "Front-facing"
+    },
+    "environment": {
+      "setting": "Modern luxury bathroom",
+      "elements": [
+        "White marble countertop",
+        "Dark wood vanity cabinetry",
+        "Large wall mirror behind subject",
+        "Circular magnifying mirror on a gold/brass stand",
+        "Glass shower door/enclosure in background"
+      ],
+      "reflections": "Subject's back and hair visible in the large mirror behind her"
+    },
+    "lighting_and_style": {
+      "lighting": "Direct flash photography, bright front illumination with slight shadows behind the subject",
+      "aesthetic": "Influencer lifestyle, candid snapshot, high-fidelity, 'night out' preparation vibe",
+      "color_palette": "Red, warm skin tones, cool whites and dark browns in background"
+    }
+  }
+}
+```
+---
+
+### 🖼️ Prompt 92
+
+<div align="center">
+  <img src="images/image-92.png" width="200" style="margin-right:10px;" />
+  <img src="images/image-92a.png" width="200" />
+</div>
+
+**Source:** [𝕏](https://x.com/bananababydoll/status/2003473167705309269)
+
+```json
+{
+  "meta": {
+    "aspect_ratio": "9:16",
+    "quality": "ultra_photorealistic",
+    "resolution": "8k",
+    "camera": "iPhone 15 Pro Max",
+    "lens": "24mm wide",
+    "style": "raw social media realism, natural skin texture, cinematic casual"
+  },
+
+  "scene": {
+    "location": "Wendy’s drive-thru lane",
+    "environment": [
+      "red Wendy’s signage glowing",
+      "menu board illuminated",
+      "order speaker box",
+      "parked car at window",
+      "late-night fast food atmosphere"
+    ],
+    "time": "late night",
+    "mood": "playful, confident, casually sexy"
+  },
+
+  "lighting": {
+    "type": "mixed artificial night lighting",
+    "key_light": "warm drive-thru menu light",
+    "fill_light": "cool street lights",
+    "effect": "soft highlights on skin, realistic night contrast"
+  },
+
+  "camera_perspective": {
+    "pov": "handheld smartphone",
+    "angle": "slightly above eye level",
+    "framing": "waist to head",
+    "shot_type": "casual night photo (not posed, not studio)"
+  },
+
+  "subject": {
+    "gender": "female",
+    "age": "early 20s (clearly adult)",
+    "ethnicity": "random (asian / european / latina mix, not dark-skinned)",
+    "body": {
+      "type": "slim-curvy",
+      "waist": "small",
+      "hips": "round",
+      "legs": "long",
+      "chest": "naturally full"
+    },
+
+    "hair": {
+      "length": "long",
+      "texture": "soft straight or loose waves",
+      "color": "natural brunette or blonde",
+      "behavior": "slightly messy, night-out look"
+    },
+
+    "face": {
+      "expression": "playful smirk",
+      "eyes": "looking at phone screen",
+      "makeup": "glossy lips, light eyeliner, natural glow",
+      "skin": "realistic texture, warm night tone"
+    },
+
+    "pose": {
+      "position": "leaning out of car window",
+      "upper_body": "slightly forward toward camera",
+      "shoulders": "relaxed",
+      "arms": {
+        "phone_hand": "holding phone for selfie",
+        "free_hand": "resting on car door"
+      }
+    },
+
+    "outfit": {
+      "top": {
+        "type": "tight cropped tank top",
+        "color": "white or red",
+        "fit": "snug, no bra underneath"
+      },
+      "bottom": {
+        "type": "short denim shorts",
+        "color": "light blue",
+        "fit": "high-waisted, hugging hips"
+      }
+    },
+
+    "vibe": "instagram model energy, effortless, confident, late-night craving aesthetic"
+  },
+
+  "rules": {
+    "no_male_presence": true,
+    "no_staff_visible": true,
+    "brand_realism": true,
+    "no_oversexualization": true,
+    "realistic_phone_photo": true
+  }
+}
+```
+---
+
 ## 📌 Why This Exists
 
 - Visual reference for prompt crafting
