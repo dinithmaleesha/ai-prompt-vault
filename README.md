@@ -8347,6 +8347,683 @@ Expression is soft and calm.",
 ```
 ---
 
+### 🖼️ Prompt 93
+
+<div align="center">
+  <img src="images/image-93.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-92a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/xmliisu/status/2003490900542976013)
+
+```json
+{
+  "subject": {
+    "type": "person",
+    "gender": "female",
+    "pose": "reclining on a textured sofa, leaning back on one arm",
+    "expression": "neutral, confident, slight pout",
+    "gaze": "direct contact with the camera",
+    "hair": {
+      "color": "dark brown",
+      "style": "long, straight, center-parted, flowing over shoulders"
+    },
+    "attire": {
+      "outfit": "white strapless mini dress with a corset-style bodice",
+      "gloves": "white satin opera-length gloves",
+      "footwear": "cream-colored knee-high leather boots with pointed toes and chain detail",
+      "accessories": [
+        "chunky pearl necklace",
+        "gold bracelet worn over the left glove"
+      ]
+    }
+  },
+  "environment": {
+    "setting": "indoor, festive living space",
+    "furniture": "sofa covered with a plush, textured cream/beige fur throw",
+    "decor": [
+      "large Christmas tree heavily decorated with gold and silver ornaments, ribbon, and warm white fairy lights",
+      "frosted pine garland with lights mounted on the upper wall",
+      "small framed picture hanging on the wall"
+    ],
+    "background": "textured beige wall"
+  },
+  "lighting_and_mood": {
+    "lighting": "warm ambient light, soft shadows, highlights on the satin gloves and corset",
+    "atmosphere": "glamorous, cozy, holiday-themed, elegant",
+    "color_palette": [
+      "cream",
+      "white",
+      "gold",
+      "dark green",
+      "warm beige"
+    ]
+  }
+}
+```
+---
+
+### 🖼️ Prompt 94
+
+<div align="center">
+  <img src="images/image-94.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-92a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/Ankit_patel211/status/2003565227389108537)
+
+```json
+{
+  "subject": {
+    "description": "A stunning high-angle shot of a chic Asian fashion influencer with a cool, alluring attitude. ",
+    "age": "20s",
+    "expression": {
+      "eyes": {
+        "look": "sharp fox-eyes, piercing gaze directed at camera",
+        "energy": "confident, slightly cold dashing sensual ",
+        "details": "defined eyeliner, emphasized aegyosal"
+      },
+      "mouth": {
+        "position": "relaxed lips, subtle smirk",
+        "energy": "chic"
+      },
+      "overall": "stunning, high-visual-impact beauty"
+    },
+    "face": {
+      "preserve_original": false,
+      "makeup": "high-contrast makeup, pale porcelain skin, reddish gradient lips, sharp jawline, V-shape face",
+      "style": "cool-toned beauty, K-pop idol visual"
+    },
+    "hair": {
+      "color": "black",
+      "style": "long sleek straight hair with full straight bangs",
+      "effect": "glossy, high-fashion finish"
+    },
+    "body": {
+      "frame": "slim, petite, fragile aesthetic",
+      "pose": {
+        "position": "leaning forward significantly",
+        "overall": "dynamic foreshortening, emphasis on head and upper torso"
+      },
+      "skin": {
+        "tone": "cold fair skin",
+        "lighting_effect": "brightened face, soft beauty lighting, no dark shadows"
+      }
+    },
+    "clothing": {
+      "top": {
+        "type": "ultra-fine gauge knit top",
+        "color": "dark crimson red ",
+        "details": "mock neck, skin-tight fit, lightweight thin fabric (not thick)",
+        "effect": "perfectly sculpting body curves, smooth texture"
+      },
+      "bottom": {
+        "type": "dark pencil skirt",
+        "details": "high waisted with thin luxury belt"
+      }
+    }
+  },
+  "photography": {
+    "camera_style": "High-end social media snapshot",
+    "angle": "High angle POV",
+    "shot_type": "Medium close-up",
+    "aspect_ratio": "9:16",
+    "texture": "clear, sharp, slightly filtered for beauty",
+    "lighting": "overcast cool daylight, soft diffuse light"
+  },
+  "background": {
+    "setting": "European classic architecture",
+    "atmosphere": "fashionable street corner",
+    "blur": "bokeh background to emphasize subject"
+  },
+  "negative_prompt": [
+    "round face",
+    "plain face",
+    "no makeup",
+    "warm yellow skin",
+    "chunky knit",
+    "thick sweater",
+    "loose clothing",
+    "wrinkled fabric",
+    "dull eyes",
+    "friendly boring smile",
+    "low resolution",
+    "dark lighting"
+  ]
+}
+```
+---
+
+### 🖼️ Prompt 95
+
+<div align="center">
+  <img src="images/image-95.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-92a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/brindleyai/status/2003496199974682734)
+
+```json
+{
+  "subject": "Young woman with wet dark brunette hair clinging to shoulders and face in loose strands. Light skin with prominent natural freckles across nose and cheeks. Wrapped in a bright red textured bath towel secured low across the chest, exposing shoulders and upper décolletage. Bust is full and heavy, creating a natural forward curve and visible deep cleavage above the towel. Skin shows natural pores, moles, and minor imperfections. Hair appears freshly washed with a damp, messy texture.",
+  "pose": "Close-up angled portrait. Leaning slightly back, head tilted and turned left, looking upward and right with a playful side-eye glance. Lips pursed in a quirky smirk. Right arm extended toward the lens indicating a handheld selfie; hand out of frame. Shoulders angled with the left shoulder set further back.",
+  "environment": "Bedroom with a casual, unmade bed. White rumpled duvet and sheets, partial white wicker or rattan headboard. Bedside table on the left holding a vase with dark red and purple flowers. White walls create a bright, airy feel.",
+  "camera": "Simulated front-facing smartphone selfie, ~28mm focal length with mild arm-length distortion. Close proximity. Sharp focus on face and eyes, shallow depth of field softening the background. Framing cuts at mid-torso.",
+  "lighting": "Soft, diffused natural daylight from front-left, likely a window. Even facial illumination with gentle highlights on forehead and nose. Subtle shadows under hair strands and chin. No harsh light.",
+  "mood_and_expression": "Playful, candid, fresh, flirtatious. Cheeky, caught-in-the-moment vibe with a morning routine aesthetic.",
+  "style_and_realism": "Raw, unfiltered photorealism. High-fidelity skin texture with freckles and wet hair detail. Candid snapshot, not studio. Natural color rendering.",
+  "colors_and_tone": "Natural warm skin tones. Vibrant red towel as the primary accent against neutral whites and creams. Natural contrast and saturation.",
+  "quality_and_technical_details": "High resolution with sharp facial features and accurate terry-cloth towel and wet-hair textures. Correct lighting physics.",
+  "aspect_ratio_and_output": "3:4",
+  "controlnet": {
+    "pose_control": {
+      "model_type": "DWPose",
+      "purpose": "Exact skeletal and pose lock",
+      "constraints": ["preserve shoulder width", "preserve hip angle", "preserve spine curvature", "preserve limb placement"],
+      "recommended_weight": 1.0
+    },
+    "depth_control": {
+      "model_type": "ZoeDepth",
+      "purpose": "Depth and camera-to-body spatial lock",
+      "constraints": ["preserve chest foreground dominance if present", "prevent flattened depth", "maintain torso-to-background separation"],
+      "recommended_weight": 0.8
+    }
+  },
+  "negative_prompt": {
+    "forbidden_elements": [
+      "anatomy normalization",
+      "body proportion averaging",
+      "smaller bust than reference",
+      "reduced or flattened chest",
+      "artificially lifted or supported breasts",
+      "slimmed torso",
+      "beautification filters",
+      "skin smoothing",
+      "plastic or airbrushed skin",
+      "stylized realism",
+      "editorial fashion proportions",
+      "camera angles that reduce volume",
+      "unreferenced wide-angle distortion",
+      "cropping that removes volume",
+      "depth flattening",
+      "mirror or phone-in-hand selfies",
+      "reflections",
+      "bad anatomy",
+      "blur",
+      "low quality"
+    ]
+  }
+}
+```
+---
+
+### 🖼️ Prompt 96
+
+<div align="center">
+  <img src="images/image-96.png" width="200" style="margin-right:10px;" />
+  <img src="images/image-96a.png" width="200" />
+</div>
+
+**Source:** [𝕏](https://x.com/bananababydoll/status/2003567035951796448)
+
+```json
+{
+  "meta": {
+    "aspect_ratio": "9:16",
+    "quality": "ultra_photorealistic",
+    "resolution": "8k",
+    "camera": "iPhone 15 Pro Max",
+    "lens": "24mm wide",
+    "style": "flash-lit nightlife realism, natural skin texture, social media aesthetic"
+  },
+
+  "scene": {
+    "location": "outdoor vending machine area",
+    "environment": [
+      "classic red soda vending machine",
+      "brightly lit drink display behind glass",
+      "concrete ground with slight texture",
+      "nighttime urban setting"
+    ],
+    "time": "night",
+    "atmosphere": "flash photography vibe, playful, spontaneous, slightly cheeky street energy"
+  },
+
+  "lighting": {
+    "type": "direct phone flash",
+    "key_light": "strong frontal flash",
+    "fill_light": "vending machine internal lights",
+    "effect": "sharp highlights on skin, clear shadows, glossy nightlife look"
+  },
+
+  "camera_perspective": {
+    "pov": "third-person shot (taken by friend)",
+    "angle": "slightly low angle",
+    "framing": "full body",
+    "distance": "about 1.5–2 meters",
+    "motion": "frozen candid moment"
+  },
+
+  "subject": {
+    "gender": "female",
+    "age": "early 20s (clearly adult)",
+    "ethnicity": "European / Mediterranean blend",
+    "body": {
+      "type": "curvy-slim",
+      "waist": "defined",
+      "hips": "full and round",
+      "legs": "toned",
+      "posture": "confident, playful"
+    },
+
+    "hair": {
+      "color": "warm blonde",
+      "length": "long",
+      "style": "loose waves",
+      "details": "soft shine from flash"
+    },
+
+    "face": {
+      "expression": "over-the-shoulder confident look",
+      "eyes": "direct eye contact with camera",
+      "makeup": "night-out glam, glossy lips",
+      "skin": "realistic texture, slight flash sheen"
+    },
+
+    "pose": {
+      "position": "deep squat in front of vending machine",
+      "legs": "knees bent, heels down",
+      "hips": "pushed back",
+      "upper_body": "torso twisted slightly toward camera",
+      "arms": {
+        "one_hand": "pressing vending machine buttons",
+        "other_hand": "resting naturally on thigh"
+      },
+      "head": "turned back over shoulder"
+    },
+
+    "outfit": {
+      "bikini": {
+        "type": "string bikini",
+        "pattern": "yellow and white checkered",
+        "fit": "minimal, snug",
+        "top": "tie-back triangle bikini",
+        "bottom": "high-cut thong style",
+        "support": "no bra"
+      }
+    }
+  },
+
+  "details": {
+    "vibe": "playful late-night chaos",
+    "aesthetic": "internet-breaking thirst trap",
+    "focus": "subject razor sharp, vending machine clearly visible",
+    "authenticity": "looks like a real spontaneous street photo"
+  }
+}
+```
+---
+
+### 🖼️ Prompt 97
+
+<div align="center">
+  <img src="images/image-97.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-96a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/brindleyai/status/2003816567314722839)
+
+```json
+{
+  "subject": {
+    "description": "Young woman with wet, slicked-back dark blonde hair lying on a sandy beach. Slim athletic physique with natural curves. Wearing a green and yellow string bikini (Brazilian flag colors). Tanned skin with visible texture, pores, and sand grains sticking to damp skin, especially on glutes and legs. Natural waist folds from twisting pose. Realistic weight and gravity with hip flesh slightly compressed against sand.",
+    "anatomy": "Natural proportions with prominent glutes and realistic volume. Visible rib cage definition from stretch. No plastic smoothing. Slender arms; hands with light blue manicured nails. Posture emphasizes natural lower-back and hip curve.",
+    "clothing": "Green and yellow micro bikini. Triangle top with yellow trim. Thong-style bottom with green fabric and yellow strings riding high on hips. Fabric tension behaves naturally.",
+    "hair": "Long wet textured hair slicked back from face, hanging loosely down the back with water-clumped strands."
+  },
+  "pose": {
+    "type": "Reclining side twist on sand",
+    "details": "Lying on right hip and side. Legs extended with slight bend, ankles crossed. Upper body propped by left arm pressed into sand. Torso twisted away from camera; head turned back over left shoulder toward viewer. Right arm rests naturally in front.",
+    "head_position": "Turned over left shoulder, chin slightly tucked",
+    "gaze": "Direct, confident, relaxed"
+  },
+  "environment": {
+    "location": "Tropical beach resembling Rio de Janeiro",
+    "foreground": "Textured beige sand with footprints",
+    "midground": "Ocean waves with white foam and large dark granite boulders",
+    "background": "Distant green coastline with hillside buildings",
+    "sky": "Overcast white-grey clouds",
+    "atmosphere": "Humid, breezy beach day"
+  },
+  "camera": {
+    "type": "Professional DSLR or mirrorless",
+    "lens": "35mm prime",
+    "perspective": "Low angle near sand level, slightly upward",
+    "depth_of_field": "f/5.6 with subject sharp and background readable",
+    "focus": "Face and eyes"
+  },
+  "lighting": {
+    "type": "Natural overcast daylight",
+    "quality": "Soft, diffused, shadowless",
+    "direction": "Global ambient from cloudy sky",
+    "shadows": "Very soft occlusion at body–sand contact"
+  },
+  "mood_and_expression": {
+    "emotion": "Alluring, casual, confident",
+    "atmosphere": "Unposed vacation snapshot, raw and authentic",
+    "facial_expression": "Relaxed features, neutral to slightly parted lips"
+  },
+  "style_and_realism": {
+    "genre": "Candid travel / lifestyle photography",
+    "aesthetic": "Raw, unedited realism with texture emphasis",
+    "rendering": "Photorealistic, camera-like"
+  },
+  "colors_and_tone": {
+    "palette": "Beige sand, green-brown rocks, blue-grey ocean, bright green-yellow bikini, warm tan skin",
+    "white_balance": "Neutral to slightly cool",
+    "saturation": "Natural",
+    "contrast": "Moderate with preserved sky detail"
+  },
+  "quality_and_technical_details": {
+    "resolution": "8K",
+    "texture_quality": "Extreme detail: sand grains, pores, droplets, fabric weave",
+    "noise": "Subtle luminance grain"
+  },
+  "aspect_ratio_and_output": {
+    "ratio": "3:4",
+    "framing": "Full body, centered with slight bottom-right weight and headroom"
+  },
+  "controlnet": {
+    "pose_control": "strict_alignment",
+    "depth_control": "preserve_background_geometry"
+  },
+  "negative_prompt": [
+    "sunny blue sky",
+    "direct sunlight",
+    "harsh shadows",
+    "dry hair",
+    "perfectly smooth or plastic skin",
+    "airbrushed",
+    "cartoon",
+    "anime",
+    "3d render",
+    "studio lighting",
+    "makeup",
+    "unrealistic anatomy",
+    "missing limbs",
+    "extra fingers",
+    "floating objects",
+    "oversaturated",
+    "hdr"
+  ]
+}
+```
+---
+
+### 🖼️ Prompt 98
+
+<div align="center">
+  <img src="images/image-98.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-96a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/saniaspeaks_/status/2003291520980701442)
+
+```json
+{
+  "image_generation": {
+    "face": {
+      "preserve_original": true,
+      "reference_match": true,
+      "description": "Preserve the same facial features, soft smile, eye shape, skin tone, and natural makeup from the reference image."
+    },
+
+    "photo_style": {
+      "type": "indoor aesthetic portrait",
+      "camera_angle": "close-up portrait, eye-level",
+      "lighting": "soft artificial indoor lighting with slight shadow falloff",
+      "mood": "warm, cozy, gentle, inviting",
+      "texture": "smooth skin texture, subtle highlights, natural finish",
+      "focus": "sharp focus on face with softly blurred background"
+    },
+
+    "subject": {
+      "pose": "sitting or standing close to the camera with one hand resting gently on the cheek",
+      "expression": "soft smile, calm and friendly",
+      "hair": {
+        "style": "dark hair pulled back loosely with soft face-framing strands",
+        "color": "dark brown"
+      },
+      "clothing": {
+        "type": "cozy casual wear",
+        "details": "light-colored knitted sweater with long sleeves"
+      }
+    },
+
+    "environment": {
+      "setting": "indoor bedroom or personal space",
+      "background": "wall decorated with photo collage, posters, notes, and soft personal decor",
+      "atmosphere": "comfortable, personal, creative indoor environment"
+    },
+
+    "aesthetic": {
+      "style": "soft Instagram-style indoor portrait",
+      "features": [
+        "cozy sweater aesthetic",
+        "soft warm lighting",
+        "personal photo wall background",
+        "clean natural makeup",
+        "gentle, intimate portrait composition"
+      ]
+    }
+  }
+}
+```
+---
+
+### 🖼️ Prompt 99
+
+<div align="center">
+  <img src="images/image-99.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-96a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/astronomerozge1/status/2003155496174256269)
+
+```json
+{
+  "generation_request": {
+    "meta_data": {
+      "task_type": "text_to_image_with_reference",
+      "version": "v1.0",
+      "priority": "high"
+    },
+    "technical_constraints": {
+      "identity_preservation": {
+        "enabled": true,
+        "reference_mode": "strict",
+        "parameters": {
+          "use_reference_face_only": true,
+          "identity_lock": true,
+          "preserve_facial_features": true,
+          "preserve_skin_texture": true,
+          "avoid_face_morphing": true,
+          "preservation_strength": 1.0
+        }
+      },
+      "output_settings": {
+        "aspect_ratio": "9:16",
+        "resolution_target": "ultra_high_res",
+        "render_engine_style": "photorealistic"
+      }
+    },
+    "creative_prompt": {
+      "scene": {
+        "location": "dim billiards bar",
+        "background": "dark ceiling, red-and-white wall stripe, a few tables/chairs in the back, low-light ambience with subtle film grain",
+        "key_props": [
+          "green-felt pool table (foreground)",
+          "vintage red billiard lamps overhead (warm red glow)",
+          "scattered billiard balls on the table",
+          "pool cue (held by the subject)"
+        ]
+      },
+      "subject": {
+        "type": "young adult woman",
+        "identity_instruction": "The subject must be 100% identical to the uploaded reference photo (same face, proportions, age, and identity). No identity drift.",
+        "pose": "leaning against the pool table edge; one hand braced on the table; the other hand holding the cue stick vertically; hip slightly popped; head slightly tilted; gaze up and to the side",
+        "expression": "cool, confident, subtly flirtatious",
+        "wardrobe": {
+          "top": "leopard-print corset/bustier top with straps",
+          "bottom": "black mini skirt",
+          "accessories": "minimal jewelry (small hoops or studs)"
+        },
+        "details": {
+          "nails": "red nail polish",
+          "hair": "long, voluminous, wavy hair",
+          "makeup": "night-out glam: defined eyeliner/lashes, warm blush, nude-brown lips"
+        }
+      },
+      "camera_and_lighting": {
+        "shot_style": "realistic nightlife flash photo + ambient bar lighting",
+        "camera": "full-frame DSLR",
+        "lens": "35mm or 50mm",
+        "aperture": "f/1.8",
+        "shutter_speed": "1/80s",
+        "iso": "800",
+        "lighting": {
+          "primary": "on-camera flash (crisp subject, natural falloff, realistic shadows)",
+          "secondary": "overhead red lamps glow + dim ambient fill",
+          "look": "high contrast, controlled specular highlights, no blown whites"
+        },
+        "color_grading": "warm reds with natural skin tones, subtle film grain",
+        "focus": "tack-sharp eyes and face, shallow depth of field, soft background bokeh"
+      }
+    },
+    "negative_prompt": [
+      "different person",
+      "identity change",
+      "face morphing",
+      "extra people",
+      "extra limbs",
+      "extra fingers",
+      "bad hands",
+      "deformed anatomy",
+      "warped cue stick",
+      "warped pool table",
+      "text",
+      "logo",
+      "watermark",
+      "cartoon",
+      "anime",
+      "illustration",
+      "over-smoothed skin",
+      "plastic skin",
+      "low resolution",
+      "blurred face",
+      "overexposed flash highlights"
+    ]
+  }
+}
+```
+---
+
+### 🖼️ Prompt 100 🥳
+
+<div align="center">
+  <img src="images/image-100.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-96a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/xIrissy/status/2003491438794014804)
+
+```json
+{
+  "subject": {
+    "demographics": "Young woman, light skin tone",
+    "hair": "Long, straight blonde hair, parted in the middle",
+    "face": "Neutral to soft expression, looking into the mirror/phone, light makeup",
+    "body_language": "Sitting on a bed, leaning slightly back, legs crossed with one knee raised, holding a phone up for a mirror selfie"
+  },
+  "attire": {
+    "item": "Full-body spandex cosplay bodysuit",
+    "theme": "Spider-Gwen / Spider-Woman inspired",
+    "colors": "White base with red and blue accents",
+    "pattern": "Black spiderweb grid pattern throughout, large red spider emblem on the chest, red panels on the sides and underarms",
+    "fit": "Tight, form-fitting",
+    "accessories": "None (barefoot)"
+  },
+  "environment": {
+    "setting": "Dimly lit bedroom",
+    "foreground": "Reflection in a large rectangular mirror",
+    "midground": "Bed with messy grey/beige duvet/blankets",
+    "background_left": "Open closet or rack with hanging clothes (dark jackets/shirts)",
+    "background_right": "Bedside table with a warm, glowing lamp",
+    "walls": "Dark, neutral tones"
+  },
+  "lighting_and_atmosphere": {
+    "type": "Low-key, warm ambient lighting",
+    "source": "Warm yellow light coming from the bedside lamp on the right, casting soft shadows",
+    "mood": "Intimate, casual, relaxed, 'mirror selfie' aesthetic"
+  },
+  "camera_and_composition": {
+    "perspective": "Mirror selfie (reflection view)",
+    "framing": "Vertical portrait shot capturing full body from head to shins",
+    "focus": "Sharp focus on the subject, slightly softer background",
+    "device_visible": "Smartphone (iPhone style) held in right hand, covering part of the face"
+  }
+}
+```
+---
+
+### 🖼️ Prompt 101
+
+<div align="center">
+  <img src="images/image-101.png" width="200" style="margin-right:10px;" />
+  <!-- <img src="images/image-96a.png" width="200" /> -->
+</div>
+
+**Source:** [𝕏](https://x.com/siennalovesai/status/2003476725192122480)
+
+```json
+{
+ "Young woman, fair skin tone, long wavy ash-brown hair with lighter highlights.",
+      "apparel": {
+        "clothing": "Champagne or rose-gold colored satin/silk sleeveless top with draped fabric details.",
+        "texture": "Highly reflective, glossy fabric folds catching the flash light."
+      },
+      "appearance": {
+        "makeup": "Soft 'Igari' style blush across cheeks and nose, glossy pink lips, defined eyelashes, light brown contact lenses.",
+        "nails": "Long, manicured fingernails with a nude or sheer pink polish.",
+        "hair_styling": "Messy, voluminous waves fanned out loosely around the head on the bedsheets (halo effect)."
+      }
+    },
+    "exact_pose_anatomical": {
+      "posture": "Supine (lying on back) on a bed.",
+      "orientation": "Diagonal composition. The head is positioned in the lower right center, with the torso extending towards the upper left.",
+      "head_neck": "Head slightly tilted back into the pillow, face angled straight up towards the camera lens. Direct eye contact.",
+      "right_arm": "Elbow bent, forearm raised, hand brought close to the face.",
+      "right_hand": "Fingers loosely curled, with the index finger and thumb gently grazing the lower cheek or jawline in a delicate, candid gesture.",
+      "left_arm": "Bent at the elbow, resting on the bed near the head (upper left frame)."
+    },
+    "camera_technical_values": {
+      "perspective": "Top-down / Bird's-eye view (Directly overhead or slightly angled close-up).",
+      "focal_length": "35mm (Standard wide angle for an intimate, personal feel).",
+      "aperture": "f/4.0 to f/5.6 (To ensure sharpness on the face while capturing the texture of the sheets).",
+      "shutter_speed": "1/60s (Flash sync speed).",
+      "iso": "ISO 200.",
+      "style": "Direct On-Camera Flash aesthetic (Hard shadows, high contrast)."
+    },
+    "lighting_and_environment": {
+      "setting": "Bedroom interior.",
+      "background_elements": "White, crumpled bed sheets with visible folds and fabric texture.",
+      "lighting_source": "Direct Flash / Hard Strobe.",
+      "lighting_characteristics": "Bright, harsh light originating from the camera angle. Creates sharp drop shadows under the jawline, hair, and hand. Generates specular highlights on the oily skin (T-zone), glossy lips, and satin clothing.",
+      "mood": "Intimate, raw, 90s/Y2K snapshot vibe."
+}
+```
+---
+
 ## 📌 Why This Exists
 
 - Visual reference for prompt crafting
